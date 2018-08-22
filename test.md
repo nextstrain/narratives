@@ -6,6 +6,7 @@ affiliations: "Fred Hutch, Seattle, USA"
 date: "January 2018"
 updated: "August 2018"
 dataset: "https://nextstrain.org/flu/seasonal/h3n2/ha/3y?d=tree&p=full&c=num_date"
+abstract: "This content is simply used to test the narrative functionality using the flu dataset. This text serves as the abstract. This is optional."
 ---
 
 
