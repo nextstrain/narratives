@@ -64,16 +64,31 @@ It is hypothesized that adaptation of West Nile virus to mosquitoes in the Ameri
 
 
 
-# [Becoming an entrenched virus](https://nextstrain.org/WNV/NA?f_state=NY&d=tree)
+# [Becoming an entrenched virus: part I](https://nextstrain.org/WNV/NA?f_state=NY&d=tree)
+
+We are now looking only at isolates from New York State (purple tips).
 
 ### Is West Nile virus a threat every year?
 Since its introduction and spread across the continent, cases of West Nile virus are reported annually in the United States. Evidence for endemicity from the genomic data is clear in, for instance, New York, with some local transmission chains (i.e. branches on the phylogenetic tree) persisting for at least 10 years. 
+
+
+
+
+
+# [Becoming an entrenched virus: part II](https://nextstrain.org/WNV/NA?f_state=CA,CO,TX&d=tree)
+
+We now look at samples from California (pink), Texas (Yellow) and Colorado (light pink).
+
 
 ### Are cases evenly distributed throughout the United States?
 The majority of cases have occurred in just a handful of states that includes Colorado, California, and Texas. However, the highest incidence of West Nile virus can be found in the Great Plains region of the United States.
   
 ### What factors cause these differences in human cases?
 Rainfall and temperature have a large impact on West Nile virus intensity from year to year by influencing mosquito and bird populations. Differences in climate and regional ecology shape the resident mosquito and bird populations resulting in distinct transmission networks at the local and regional level. 
+
+
+
+
 
 
 
