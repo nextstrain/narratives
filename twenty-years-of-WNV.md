@@ -91,10 +91,7 @@ Rainfall and temperature have a large impact on West Nile virus intensity from y
 
 
 
-
-
-
-# [An international concern](https://nextstrain.org/WNV/NA?c=country&f_country=Argentina,Brazil,British-Virgin-Islands,Colombia,Mexico&d=map&r=division)
+# [An international concern](https://nextstrain.org/WNV/NA?c=country&f_country=Argentina,Brazil,British-Virgin-Islands,Colombia,Mexico&d=map)
 
 
 ### Did West Nile virus spread outside of the United States?
