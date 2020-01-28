@@ -27,7 +27,7 @@ We find:
 ### Further Reading:
 
 * General information on coronaviruses on [Wikipedia](https://en.wikipedia.org/wiki/Coronavirus) _2020-01-25_
-* Summary of the nCov outbreak on [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak) _2020-01-25_
+* Summary of the nCoV outbreak on [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak) _2020-01-25_
 * Material provided by the [US CDC](https://www.cdc.gov/coronavirus/index.html) _2020-01-23_
 * Organization and genome on [ViralZone](https://viralzone.expasy.org/764?outline=all_by_species) _2020-01-23_
 
@@ -78,7 +78,7 @@ Due to the ability of SARS to spread between humans and the high case fatality r
 In December 2019, a new illness was first detected in Wuhan, China.
 We now know this to be another outbreak of coronavirus in humans (the 7th), and it is provisionally being called nCoV (novel coronavirus).
 
-As of January 25th over 1400 cases and 42 deaths [have been reported](https://en.wikipedia.org/wiki/2019%E2%80%9320_outbreak_of_novel_coronavirus_(2019-nCoV)).
+As of January 25th, 2020 over 1400 cases and 42 deaths [have been reported](https://en.wikipedia.org/wiki/2019%E2%80%9320_outbreak_of_novel_coronavirus_(2019-nCoV)).
 It's still too early to know the case fatality rate, but early indications are that it is significantly less than SARS-CoV.
 The case counts are dramatically rising in part due to increased surveillance and testing.
 
