@@ -161,7 +161,7 @@ The observation of such strong clustering of human infections can be explained b
 
 <br>
 
-# [At least two introductions into Italy, with subsequent community spread](https://nextstrain.org/ncov/2020-03-04?d=tree&f_country=Italy)
+# [At least two introductions into Italy, with possible community spread](https://nextstrain.org/ncov/2020-03-04?d=tree&f_country=Italy)
 
 We currently have 3 sequences from Italy, two of which are from the Rome area and one from Lombardy in northern Italy.
 
@@ -173,9 +173,9 @@ These 3 sequences share a common ancestor early in the epidemic (near the base o
 
 Dr Nuno Faria et al. give an excellent breakdown [here](http://virological.org/t/first-cases-of-coronavirus-disease-covid-19-in-brazil-south-america-2-genomes-3rd-march-2020/409) of how Brazilian and other global sequences show that "the outbreak in Northern Italy was likely the result of multiple introductions to the region and from not a single source."
 
-# [Local Spread in Rome](https://nextstrain.org/ncov/2020-03-04?d=tree&label=clade:A1a&m=div)
+# [Possible hidden transmission in Italy](https://nextstrain.org/ncov/2020-03-04?d=tree&label=clade:A1a&m=div)
 
-The two sequences from Rome (29 January 2020) cluster together and therefore suggest local spread.
+The two sequences from Rome (29 January 2020) are directly connected to each other and both have a travel history to China.
 
 <br>
 
@@ -192,7 +192,7 @@ The English sample (from China) sits between the earlier Italian samples from Ro
 
 # [Global Spread from Lombardy, Italy](https://nextstrain.org/ncov/2020-03-04?d=tree&label=clade:A2)
 
-The sequence from Lombardy (Italy/CDG1/2020) clusters together with sequences with known travel history to Italy that were most likely infected in Italy (Mexico, Germany, Brazil, Finland).
+The sequence from Lombardy (Italy/CDG1/2020) clusters together with sequences with known travel history to Italy that were most likely infected there: the sequences from Mexico, Germany, Brazil & Finland.
 
 <br>
 
@@ -205,7 +205,7 @@ It could also be the result of two separate introductions to Europe - an unsampl
 
 
 <!-- This is left-side text -->
-# [Likely spread of SARS-Cov 2 in the Seattle area](https://nextstrain.org/ncov/2020-03-04?label=clade:B1%20&d=tree)
+# [Likely spread of SARS-CoV-2 in the Seattle area](https://nextstrain.org/ncov/2020-03-04?label=clade:B1%20&d=tree)
 
 There are now several cases of COVID-19 reported in the greater Seattle area and the US in general.
 The newly isolated and sequenced case from Snohomish County (north of Seattle), is genetically closely related to a case isolated in the middle of January in the same area.
@@ -237,7 +237,7 @@ This time can be as early as the time when a virus first entered the human popul
 
 Several research groups and people have estimated the time of the most recent common ancestor - see [this post by A Rambaut](http://virological.org/t/phylodynamic-analysis-129-genomes-24-feb-2020) or [this post by T Stadler](http://virological.org/t/evolutionary-epidemiological-analysis-of-93-genomes).
 
-The common ancestor of all sequences is most likely between mid November and mid December.
+The common ancestor of all sequences is most likely between mid-November and mid-December.
 This would be consistent with all currently sequenced cases descending from the [initial cluster of cases at the Wuhan seafood market](http://virological.org/t/phylodynamic-analysis-129-genomes-24-feb-2020).
 
 
