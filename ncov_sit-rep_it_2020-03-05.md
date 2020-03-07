@@ -1,5 +1,5 @@
 ---
-title: Analisi genomica della propagazione del COVID-19. Rapporto sulla situazione al 2020-03-04.
+title: Analisi genomica della propagazione del COVID-19. Rapporto sulla situazione al 2020-03-05.
 authors: "Trevor Bedford, Richard Neher, James Hadfield, Emma Hodcroft, Misja Ilcisin, Nicola Müller"
 authorLinks: "https://nextstrain.org"
 affiliations: "Fred Hutch, Seattle, USA and Biozentrum, Basel, Switzerland"
