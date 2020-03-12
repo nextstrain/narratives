@@ -15,16 +15,16 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- This is left-side text -->
 # [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree,map&p=grid)
 
-* [How are transmission networks related to phylogenetic trees?](https://nextstrain.org/narratives/trees-background?n=2)
-* [How do I read a tree?](https://nextstrain.org/narratives/trees-background?n=3)  
-* [How does the "diversity" panel relate to the tree?](https://nextstrain.org/narratives/trees-background?n=4)  
-* [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=5)
-* [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=6)
-* [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=7)
-* [How should I interpret traits (colors) on the tree?](https://nextstrain.org/narratives/trees-background?n=8)  
-* [How does the map relate to the tree?](https://nextstrain.org/narratives/trees-background?n=9)  
-* [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=10)  
-* [About the dataset](https://nextstrain.org/narratives/trees-background?n=11)
+[How are transmission networks related to phylogenetic trees?](https://nextstrain.org/narratives/trees-background?n=2).  
+[How do I read a tree?](https://nextstrain.org/narratives/trees-background?n=3).  
+[How does the "diversity" panel relate to the tree?](https://nextstrain.org/narratives/trees-background?n=4).    
+[Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=5).  
+[Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=6).  
+[Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=7).  
+[How should I interpret traits (colors) on the tree?](https://nextstrain.org/narratives/trees-background?n=8).  
+[How does the map relate to the tree?](https://nextstrain.org/narratives/trees-background?n=9).  
+[Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=10).  
+[About the dataset](https://nextstrain.org/narratives/trees-background?n=11).
 
 Scrolling through the left-hand sidebar will reveal explanations with a corresponding visualization on the right-hand side.
 
