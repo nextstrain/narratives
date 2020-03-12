@@ -1,6 +1,6 @@
 ---
 title: How to interpret phylogenetic trees
-authors: "Nicola Müller, James Hadfield, Sidney M. Bell, Trevor Bedford"
+authors: "Nicola Müller, Emma Hodcroft, Sidney M. Bell, Richard Neher, Trevor Bedford"
 authorLinks: "https://nextstrain.org"
 affiliations: "Fred Hutch, Seattle, USA; Chan Zuckerberg Initiative, CA, USA"
 date: "2020 March 13"
@@ -15,16 +15,16 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- This is left-side text -->
 # [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree,map&p=grid)
 
-### [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=1)?  
-### [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=2)?  
-### [How does the "diversity" panel relate to the tree](https://nextstrain.org/narratives/trees-background?n=3)?    
-### [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=4).  
-### [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=5).  
-### [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=6).  
-### [How should I interpret traits (colors) on the tree](https://nextstrain.org/narratives/trees-background?n=7)?  
-### [How does the map relate to the tree](https://nextstrain.org/narratives/trees-background?n=8)?  
-### [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=9).  
-### [About the dataset](https://nextstrain.org/narratives/trees-background?n=10).
+#### [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=1)?  
+#### [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=2)?  
+#### [How does the "diversity" panel relate to the tree](https://nextstrain.org/narratives/trees-background?n=3)?    
+#### [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=4).  
+#### [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=5).  
+#### [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=6).  
+#### [How should I interpret traits (colors) on the tree](https://nextstrain.org/narratives/trees-background?n=7)?  
+#### [How does the map relate to the tree](https://nextstrain.org/narratives/trees-background?n=8)?  
+#### [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=9).  
+#### [About the dataset](https://nextstrain.org/narratives/trees-background?n=10).
 
 Scrolling through the left-hand sidebar will reveal explanations with a corresponding visualization on the right-hand side.
 
@@ -36,7 +36,7 @@ Scrolling through the left-hand sidebar will reveal explanations with a correspo
 <!-- This is left-side text -->
 # [How are transmission networks related to phylogenetic trees?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
 Pathogens spread through rapid replication in one host followed by transmission to another host. An epidemic can only take off when one infection results in more than one subsequent infections.
-
+<br><br>
 As the pathogen replicates and spreads, its genome needs to be replicated many times and random mutations (copying mistakes) will accumulate in the genome; this is normal. Such random mutations can help to track the spread of the pathogen and learn about its transmission routes and dynamics.
 
 <!-- This is right-side text -->
@@ -44,7 +44,7 @@ As the pathogen replicates and spreads, its genome needs to be replicated many t
 # An example
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
 </p>
 <p>
 The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next. Here, we see the full picture of the transmission tree. In practice, however, only a subset of cases are sampled (blue); the transmission tree is unknown and typically only rough estimates of case counts are available. Genome sequences allow us to infer parts of the transmission tree. In this example, three mutations (little diamonds) are indicated on the tree. Sequences that have the same mutations are more closely related, so these mutations allow us to group samples into clusters of closely related viruses that belong to the same transmission chains.
@@ -58,9 +58,9 @@ The illustration above shows a sketch of a transmission tree. Each circle repres
 <!-- This is left-side text -->
 # [How do I read a tree?](https://nextstrain.org/ncov/2020-03-11)
 
-The **x axis of a tree represents the degree of difference** (in time or genetic divergence -- we'll get to that next). The **y axis just helps spread things out** so we can see everything; it doesn't have any units of measurement.
+The x axis of a tree represents the degree of difference (in time or genetic divergence -- we'll get to that next). The y axis just helps spread things out so we can see everything; it doesn't have any units of measurement.
 <br><br>
-The **tips of the tree represent samples** (i.e., blue cases from the last slide). The **internal nodes represent cases that weren't sampled**, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
+The tips of the tree represent samples (i.e., blue cases from the last slide). The internal nodes represent cases that weren't sampled, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
 
 ## Further reading  
 * [How to read a tree (tutorial from Arctic Network)](https://artic.network/how-to-read-a-tree.html)  
@@ -101,9 +101,9 @@ Let's take a look at the phylogeny.
 <!-- This is left-side text -->
 # [Measuring differences with genetic divergence](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
 This is a phylogeny of the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared.
-<br>
+<br><br>
 At the moment, this may not look much like a ‘tree’. Many of the sequences are identical – they sit together on vertical lines like A and B (some are on the left-most part of the tree). Others have unique or shared mutations and so sit on lines, or ‘branches’, going to the right. You can see how many mutations a branch has by hovering your mouse over it.
-<br>
+<br><br>
 Here, the x axis indicates divergence, which is the number of changes (mutations) in the genome, relative to the root of the tree (i.e., the start of the outbreak).
 Some sequences may have zero mutations -- meaning they are all identical to the root (center) of the tree.
 Other viruses have between one and eleven mutations.
@@ -113,7 +113,7 @@ Other viruses have between one and eleven mutations.
 <!-- ############ SLIDE BREAK ############# -->
 # [Measuring differences over time](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree)
 We can also visualize how the virus has spread over time by using the sampling date as the x axis.
-Here, the x axis represents the sampling date of each virus. The tips' positions reflect the date those samples were taken. The internal nodes -- the "missing cases" -- are positioned based on the inferred time, based on when their descendants were sampled and the rate at which the virus mutates.
+Here, the x axis represents the sampling date of each virus. The tips' positions reflect the date those samples were taken. The dates of internal nodes -- the "missing cases" -- are inferred based on when their descendants were sampled and the rate at which the virus mutates.
 <br><br>
 Notice how many sequences that previously sat in a line (indicating identical genomes) are now spread apart in time.
 This happens when the rate at which the virus mutates is slightly slower than the rate at which is spreads.
@@ -127,7 +127,7 @@ You can scroll up and down between the previous slide and this one, to see how t
 We can also use genomics to assign a date to when an outbreak started, even if this was before we realized it was happening.
 Because we can assign dates to each sample and node in the tree, we can use this to infer the date of the 'root' of the tree. This represents the "most recent common ancestor" of all the SARS-CoV-2 sequences we have so far. E.g., your grandparents are the "most recent common ancestors" of you and all of your first cousins.
 <br><br>
-If you mouse over the leftmost vertical line, you can see that the inferred **start date is between mid-November and mid-December of 2019 for this particular outbreak**.
+If you mouse over the leftmost vertical line, you can see that the inferred start date is between mid-November and mid-December of 2019 for this particular outbreak.
 
 <!-- There is NO right-side text -->
 
@@ -136,11 +136,12 @@ If you mouse over the leftmost vertical line, you can see that the inferred **st
 <!-- This is left-side text -->
 # [How should I interpret traits (colors) on the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&m=div&p=grid)
 Phylogenetic trees often contain additional information, such as the location of each sample collection. From this, we can infer the locations of internal nodes (hypothesized intermediate, unsampled cases) using mathematical models. This can help us understand how the virus is moving from one location to the next.
-
+<br><br>
 Interpreting these should, however, be done with caution, as the sampling and sequencing or lack thereof can significantly influence the interpretation.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
+# An example
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
