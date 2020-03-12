@@ -91,7 +91,9 @@ A and B also have unique mutations (the green circle) not shared by the other se
 Based on this tree, we would conclude that A & B closely related to each other, and D & E are closely related to each other. A & B are more closely related to C than they are to D & C.
 </p>
 </div>
+
 ```
+
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
