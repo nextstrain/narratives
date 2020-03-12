@@ -42,9 +42,9 @@ As the pathogen replicates and spreads, its genome needs to be replicated many t
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # An example
-<div width="70%" margin="auto">
+<div width="50%" margin="auto">
 <p>
-<img alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="700px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
 </p>
 <p>
 The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next. Here, we see the full picture of the transmission tree. In practice, however, only a subset of cases are sampled (blue); the transmission tree is unknown and typically only rough estimates of case counts are available. Genome sequences allow us to infer parts of the transmission tree. In this example, three mutations (little diamonds) are indicated on the tree. Sequences that have the same mutations are more closely related, so these mutations allow us to group samples into clusters of closely related viruses that belong to the same transmission chains.
@@ -58,7 +58,9 @@ The illustration above shows a sketch of a transmission tree. Each circle repres
 <!-- This is left-side text -->
 # [How do I read a tree?](https://nextstrain.org/ncov/2020-03-11)
 
-The x axis of a tree represents distance (in time or divergence -- we'll get to that next). The y axis just helps spread things out so we can see everything; it doesn't have any units of measurement. The tips of the tree represent samples (i.e., blue cases from the last slide). The internal nodes represent cases that weren't sampled, but that we think were the source of the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
+The **x axis of a tree represents the degree of difference** (in time or genetic divergence -- we'll get to that next). The **y axis just helps spread things out** so we can see everything; it doesn't have any units of measurement.
+<br><br>
+The **tips of the tree represent samples** (i.e., blue cases from the last slide). The **internal nodes represent cases that weren't sampled**, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
 
 ## Further reading  
 * [How to read a tree (tutorial from Arctic Network)](https://artic.network/how-to-read-a-tree.html)  
@@ -67,20 +69,19 @@ The x axis of a tree represents distance (in time or divergence -- we'll get to 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # An example
-<div width="70%" margin="auto">
+<div width="50%" margin="auto">
 <p>
-<img alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Above, we see an illustration with a phylogenetic tree on the left, where mutations are shown as colored circles. On the right are the corresponding sequences, also with mutations shown as colored circles. We can see that sequences that share the same mutations group together. When sequences appear linked by a flat vertical line, like A and B, this means there are no differences between them – their sequences are identical.
-<br>
+<br><br>
 When a sequence sits on a long line on its own, like C or E, this means it has unique mutations not found in other sequences. The longer the line, the more mutations.
 A and B also have unique mutations (the green circle) not shared by the other sequences, but they are identical to each other.
-<br>
+<br><br>
 Based on this tree, we would conclude that A & B closely related to each other, and D & E are closely related to each other. A & B are more closely related to C than they are to D & C.
 </p>
 </div>
-
 ```
 <!-- ############ SLIDE BREAK ############# -->
 
@@ -88,33 +89,32 @@ Based on this tree, we would conclude that A & B closely related to each other, 
 # [How does the "diversity" panel relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=entropy&p=full)  
 
 Let's take a look at the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared. Just in on the last page, we built an alignment of these viral sequences (you can see how all of the analyses mentioned here were done [on github](https://github.com/nextstrain/ncov)).
-<br>
+<br><br>
 Here, the x axis is each site in the viral genome. The y axis indicates how much variability there is at each site.
 Let's take a look at the phylogeny.
+
+<!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Measuring differences with genetic divergence](https://nextstrain.org/ncov/2020-03-11?c=clade_membership&d=tree&m=div)
-Here we present a phylogeny of the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared.
+# [Measuring differences with genetic divergence](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
+This is a phylogeny of the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared.
 <br>
 At the moment, this may not look much like a ‘tree’. Many of the sequences are identical – they sit together on vertical lines like A and B (some are on the left-most part of the tree). Others have unique or shared mutations and so sit on lines, or ‘branches’, going to the right. You can see how many mutations a branch has by hovering your mouse over it.
 <br>
-Here, the x axis indicates divergence, which is the measured as the number of changes (mutations) in the genome, relative to the root of the tree (i.e., the start of the outbreak).
+Here, the x axis indicates divergence, which is the number of changes (mutations) in the genome, relative to the root of the tree (i.e., the start of the outbreak).
 Some sequences may have zero mutations -- meaning they are all identical to the root (center) of the tree.
 Other viruses have between one and eleven mutations.
-<br>
-Sequencing the genome of a large novel RNA virus in an evolving outbreak situation is challenging.
-Some of the differences observed in these sequences may be sequencing errors rather than actual mutations.
-Insertions, deletions, and differences at the ends of the genome are more likely to be errors and so we masked these for the purposes of this analysis.
+<br><br>
 <!-- There is NO right-side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Measuring differences over time](https://nextstrain.org/ncov/2020-03-11?c=clade_membership&d=tree)
+# [Measuring differences over time](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree)
 We can also visualize how the virus has spread over time by using the sampling date as the x axis.
-Here, the x axis represents the sampling date of each virus. The tips reflect the date those samples were taken. The internal nodes -- the "missing cases" -- are positioned based on the inferred time, based on when their descendants were sampled and the rate at which the virus mutates.
-<br>
+Here, the x axis represents the sampling date of each virus. The tips' positions reflect the date those samples were taken. The internal nodes -- the "missing cases" -- are positioned based on the inferred time, based on when their descendants were sampled and the rate at which the virus mutates.
+<br><br>
 Notice how many sequences that previously sat in a line (indicating identical genomes) are now spread apart in time.
 This happens when the rate at which the virus mutates is slightly slower than the rate at which is spreads.
 You can scroll up and down between the previous slide and this one, to see how the tree changes.
@@ -122,10 +122,12 @@ You can scroll up and down between the previous slide and this one, to see how t
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Dating the start of an outbreak](https://nextstrain.org/ncov/2020-03-11?c=clade_membership&d=tree)
+# [Dating the start of an outbreak](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree)
 
 We can also use genomics to assign a date to when an outbreak started, even if this was before we realized it was happening.
-Because we can assign dates to each sample and node in the tree, we can use this to infer the date of the 'root' of the tree. This represents the "most recent common ancestor" of all the genomic sequences we have so far. If you mouse over the leftmost vertical line, you can see that the inferred date is between mid-November and mid-December of 2019 for this particular outbreak.
+Because we can assign dates to each sample and node in the tree, we can use this to infer the date of the 'root' of the tree. This represents the "most recent common ancestor" of all the SARS-CoV-2 sequences we have so far. E.g., your grandparents are the "most recent common ancestors" of you and all of your first cousins.
+<br><br>
+If you mouse over the leftmost vertical line, you can see that the inferred **start date is between mid-November and mid-December of 2019 for this particular outbreak**.
 
 <!-- There is NO right-side text -->
 
@@ -139,17 +141,17 @@ Interpreting these should, however, be done with caution, as the sampling and se
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-<div width="70%" margin="auto">
+<div width="50%" margin="auto">
 <p>
-<img alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
 </p>
 <p>
 On the left, we show a fully sampled phylogenetic tree, with samples from two different locations denoted by orange and blue. As we walk down the tree, we observe three instances where the color (location) switches from orange to blue. From this, we would conclude that there were three different introductions from the orange location to the blue location.
-<br>
+<br><br>
 But, this interpretation relies on sampling: in the middle tree, we've removed one orange sample. We now observe only one switch from orange to blue, suggesting that there was only one introduction into blue that happened much earlier.
-<br>
+<br><br>
 In the last example, we have only one sequence from orange, which could lead us to think that there was one introduction from orange into blue.
-<br>
+<br><br>
 Thus, while these inferences can be invaluable, they also must be interpreted with caution.
 </p>
 ```
@@ -158,10 +160,10 @@ Thus, while these inferences can be invaluable, they also must be interpreted wi
 <!-- This is left-side text -->
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How does the map relate to the tree?](https://nextstrain.org/ncov/2020-03-11?p=grid)
+# [How does the map relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&p=grid)
 
 Here, we show the tree colored by the location of each sample (and inferred location for each internal node).
-You can press 'play' on the map to animate how the inferred spread of the virus over the course of the outbreak.
+If you click 'Explore the data itself' in the top right, you can play an animation of how the inferred spread of the virus over the course of the outbreak.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -172,9 +174,9 @@ Earlier, we talked about how internal nodes represent _hypothesized_ unsampled c
 
 ```auspiceMainDisplayMarkdown
 # An illustration
-<div width="70%" margin="auto">
+<div width="50%" margin="auto">
 <p>
-<img alt="Illustration of the uncertainty inherent in tree reconstruction" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
+<img width="700px" alt="Illustration of the uncertainty inherent in tree reconstruction" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
 </p>
 </div>
 ```
@@ -187,7 +189,7 @@ Earlier, we talked about how internal nodes represent _hypothesized_ unsampled c
 We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, but particularly those working in China.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
 
-<br>
+<br><br>
 
 We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
 
@@ -287,7 +289,7 @@ We are grateful for the data gathered by these originating labs:
 These data were shared via [GISAID](https://gisaid.org).
 We gratefully acknowledge their contributions.
 
-<br>
+<br><br>
 
 To the right we give specific sequences shared by each lab.
 
