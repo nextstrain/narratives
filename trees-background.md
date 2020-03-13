@@ -15,7 +15,7 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- This is left-side text -->
 # [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree,map&p=grid)
 <p/>
-[How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=1).
+[How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=1)01/25/1994.
 <p/>
 [How do I read a tree?](https://nextstrain.org/narratives/trees-background?n=2).  
 <p/>
