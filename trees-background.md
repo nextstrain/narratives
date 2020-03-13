@@ -14,36 +14,17 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 
 <!-- This is left-side text -->
 # [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree,map&p=grid)
-<p/>
 
-[How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=1)
-<p/>
-
-[How do I read a tree?](https://nextstrain.org/narratives/trees-background?n=2)
-<p/>
-
-[How does the "diversity" panel relate to the tree?](https://nextstrain.org/narratives/trees-background?n=3) 
-<p/>
-
-[Measuring differences with genetic divergence?](https://nextstrain.org/narratives/trees-background?n=4)
-<p/>
-
-[Measuring differences over time?](https://nextstrain.org/narratives/trees-background?n=5)  
-<p/>
-
-[Dating the start of an outbreak?](https://nextstrain.org/narratives/trees-background?n=6)
-<p/>
-
-[How should I interpret traits (colors) on the tree?](https://nextstrain.org/narratives/trees-background?n=7)  
-<p/>
-
-[How does the map relate to the tree?](https://nextstrain.org/narratives/trees-background?n=8)
-<p/>
-
-[Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=9)
-<p/>
-
-[About the dataset](https://nextstrain.org/narratives/trees-background?n=10)
+* [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=1)?  
+* [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=2)?  
+* [How does the "diversity" panel relate to the tree](https://nextstrain.org/narratives/trees-background?n=3)?   
+* [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=4).  
+* [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=5).  
+* [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=6)?  
+* [How should I interpret traits (colors) on the tree](https://nextstrain.org/narratives/trees-background?n=7)?  
+* [How does the map relate to the tree](https://nextstrain.org/narratives/trees-background?n=8)?  
+* [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=9).  
+* [About the dataset](https://nextstrain.org/narratives/trees-background?n=10).  
 
 Scrolling through the left-hand sidebar will reveal explanations with a corresponding visualization on the right-hand side.
 
@@ -82,8 +63,8 @@ The x axis of a tree represents the degree of difference (in time or genetic div
 The tips of the tree represent samples (i.e., blue cases from the last slide). The internal nodes represent cases that weren't sampled, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
 
 ### Further reading  
-* [How to read a tree (tutorial from Arctic Network)](https://artic.network/how-to-read-a-tree.html).  
-* [How to read a tree (video from Khan academy)](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
+* [How to read a tree: tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
+* [How to read a tree: video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
