@@ -62,10 +62,6 @@ The x axis of a tree represents the degree of difference (in time or genetic div
 <br><br>
 The tips of the tree represent samples (i.e., blue cases from the last slide). The internal nodes represent cases that weren't sampled, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
 
-### Further reading  
-* [How to read a tree: tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
-* [How to read a tree: video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
-
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 ## An example
@@ -81,6 +77,11 @@ A and B also have unique mutations (the green circle) not shared by the other se
 <br><br>
 Based on this tree, we would conclude that A & B closely related to each other, and D & E are closely related to each other. A & B are more closely related to C than they are to D & C.
 </p>
+
+### Further reading  
+* [How to read a tree: tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
+* [How to read a tree: video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
+
 </div>
 
 ```
