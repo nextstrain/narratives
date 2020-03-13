@@ -1,10 +1,10 @@
 ---
 title: How to interpret phylogenetic trees
-authors: "Nicola Müller, Emma Hodcroft, Sidney M. Bell, Richard Neher, Trevor Bedford"
+authors: "Nicola Müller, Emma Hodcroft, James Hadfield, Sidney M. Bell, Richard Neher, Trevor Bedford"
 authorLinks: "https://nextstrain.org"
-affiliations: "Fred Hutch, Seattle, USA; Chan Zuckerberg Initiative, CA, USA"
+affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; Chan Zuckerberg Initiative, CA, USA"
 date: "2020 March 13"
-dataset: "https://nextstrain.org/ncov/2020-03-11"
+dataset: "https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country"
 abstract: "This narrative explains how to read and interpret the phylogenetic trees that inform genomic epidemiology. This website is optimized for display on desktop browsers."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -13,7 +13,7 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree,map&p=grid)
+# [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
 * [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=1)?  
 * [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=2)?  
@@ -86,15 +86,23 @@ Based on this tree, we would conclude that A & B closely related to each other, 
 
 ```
 
+
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How does the "diversity" panel relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=entropy&p=full)  
+# [How does the "diversity" panel relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
 
-Let's take a look at the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared. Just in on the last page, we built an alignment of these viral sequences (you can see how all of the analyses mentioned here were done [on github](https://github.com/nextstrain/ncov)).
+Let's take a look at the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared. Just as on the last page, we built an alignment of these viral sequences (you can see how all of the analyses mentioned here were done [on github](https://github.com/nextstrain/ncov)).
 <br><br>
-Here, the x axis is each site in the viral genome. The y axis indicates how much variability there is at each site.
-Let's take a look at the phylogeny.
+Here we're displaying the phylogenetic tree above a bar-chart showing the variation (i.e. mutations) in the genome.
+Without these mutations we couldn't build the tree, so the two are intimitely connected.
+<br><br>
+In this "divisity" panel, the horizontal axis is each site in the viral genome (all thirty thousand or so of them!).
+The vertical axis indicates how much variability there is at each site.
+<br><br>
+We've coloured the tree according to one of these mutations -- in this case codon 314 in the gene "ORF1b".
+There's no a priori reason to think this mutation is a functional mutation (i.e. conferring any biological change).
+It is precisely mutations such as this which we use to define the relationships between sequences and construct the tree.
 
 <!-- There is NO right-side text -->
 
@@ -105,16 +113,18 @@ Let's take a look at the phylogeny.
 # [Measuring differences with genetic divergence](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
 This is a phylogeny of the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared.
 <br><br>
-At the moment, this may not look much like a ‘tree’. Many of the sequences are identical – they sit together on vertical lines like A and B (some are on the left-most part of the tree). Others have unique or shared mutations and so sit on lines, or ‘branches’, going to the right. You can see how many mutations a branch has by hovering your mouse over it.
-<br><br>
-Here, the x axis indicates divergence, which is the number of changes (mutations) in the genome, relative to the root of the tree (i.e., the start of the outbreak).
+Here, the horizontal axis indicates divergence, which is the number of changes (mutations) in the genome, relative to the root of the tree (i.e., the start of the outbreak).
 Some sequences may have zero mutations -- meaning they are all identical to the root (center) of the tree.
 Other viruses have between one and eleven mutations.
 <br><br>
+At the moment, this may not look much like a ‘tree’. Many of the sequences are identical – they sit together on vertical lines like A and B (some are on the left-most part of the tree).
+Others have unique or shared mutations and so sit on lines, or ‘branches’, going to the right.
+You can see how many mutations a branch has by hovering your mouse over it.
+
 <!-- There is NO right-side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Measuring differences over time](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree)
+# [Measuring differences over time](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
 We can also visualize how the virus has spread over time by using the sampling date as the x axis.
 Here, the x axis represents the sampling date of each virus. The tips' positions reflect the date those samples were taken. The dates of internal nodes -- the "missing cases" -- are inferred based on when their descendants were sampled and the rate at which the virus mutates.
 <br><br>
@@ -125,7 +135,7 @@ You can scroll up and down between the previous slide and this one, to see how t
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Dating the start of an outbreak](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree)
+# [Dating the start of an outbreak](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
 
 We can also use genomics to assign a date to when an outbreak started, even if this was before we realized it was happening.
 Because we can assign dates to each sample and node in the tree, we can use this to infer the date of the 'root' of the tree. This represents the "most recent common ancestor" of all the SARS-CoV-2 sequences we have so far. E.g., your grandparents are the "most recent common ancestors" of you and all of your first cousins.
@@ -137,7 +147,7 @@ If you mouse over the leftmost vertical line, you can see that the inferred star
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How should I interpret traits (colors) on the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&m=div&p=grid)
+# [How should I interpret traits (colors) on the tree?](https://nextstrain.org/ncov/2020-03-11)
 Phylogenetic trees often contain additional information, such as the location of each sample collection. From this, we can infer the locations of internal nodes (hypothesized intermediate, unsampled cases) using mathematical models. This can help us understand how the virus is moving from one location to the next.
 <br><br>
 Interpreting these should, however, be done with caution, as the sampling and sequencing or lack thereof can significantly influence the interpretation.
@@ -164,7 +174,7 @@ Thus, while these inferences can be invaluable, they also must be interpreted wi
 <!-- This is left-side text -->
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How does the map relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&p=grid)
+# [How does the map relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
 
 Here, we show the tree colored by the location of each sample (and inferred location for each internal node).
 If you click 'Explore the data itself' in the top right, you can play an animation of how the inferred spread of the virus over the course of the outbreak.
