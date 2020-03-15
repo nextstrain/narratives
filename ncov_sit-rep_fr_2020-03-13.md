@@ -62,7 +62,7 @@ Dans les mises à jour de cette semaine, nous rapportons:
 
 Nous avons préparé quelques ressources qui valent la peine d'être lues pour vous familiariser avec COVID-19 et le virus qui le provoque, SARS-CoV-2.
 
-Ces informations faciliteront l'interprétation des données que nous présentons dans ce document. Si vous n'êtes pas familier avec les arbres phylogénétiques, nous vous encourageons à consulter le ["Comment lire les phylogénie" en anglais](https://nextstrain.org/narratives/trees-background) et à revenir quand vous serez prêt.
+Ces informations faciliteront l'interprétation des données que nous présentons dans ce document. Si vous n'êtes pas familier avec les arbres phylogénétiques, nous vous encourageons à consulter le ["Comment lire les phylogénie"](https://nextstrain.org/narratives/trees-background/fr) et à revenir quand vous serez prêt.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -74,7 +74,7 @@ Ces informations faciliteront l'interprétation des données que nous présenton
 
   <a href="https://nextstrain.org/help/coronavirus/SARS-CoV-2"><img alt="illustration d'un coronavirus" width="100" src="http://data.nextstrain.org/img_nCoV-CDC.jpg"/> Contexte de l'émergence de COVID-19 </a>
 
-  <a href="https://nextstrain.org/help/general/how-to-read-a-tree"><img alt="illustration d'un arbre phylogénétique" width="100" src="http://data.nextstrain.org/img_toy_alignment_mini.png"/> Comment lire les phylogénies </a>
+  <a href="https://nextstrain.org/narratives/trees-background/fr"><img alt="illustration d'un arbre phylogénétique" width="100" src="http://data.nextstrain.org/img_toy_alignment_mini.png"/> Comment lire les phylogénies </a>
 
 </div>
 
