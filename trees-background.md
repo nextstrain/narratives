@@ -1,7 +1,19 @@
 ---
 title: How to interpret phylogenetic trees
-authors: "Nicola Müller, Emma Hodcroft, James Hadfield, Sidney M. Bell, Richard Neher, Trevor Bedford"
-authorLinks: "https://nextstrain.org"
+authors:
+  - Emma Hodcroft
+  - Nicola Müller
+  - James Hadfield
+  - Sidney M. Bell
+  - Richard Neher
+  - Trevor Bedford
+authorLinks:
+  - https://neherlab.org/emma-hodcroft.html
+  - https://bedford.io/team/nicola-mueller/
+  - https://bedford.io/team/james-hadfield/
+  - https://twitter.com/sidneymbell
+  - https://neherlab.org/richard-neher.html
+  - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; Chan Zuckerberg Initiative, CA, USA"
 date: "2020 March 13"
 dataset: "https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country"
@@ -15,16 +27,16 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- This is left-side text -->
 # [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=1)?  
-* [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=2)?  
-* [How does the "diversity" panel relate to the tree](https://nextstrain.org/narratives/trees-background?n=3)?   
-* [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=4).  
-* [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=5).  
-* [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=6)?  
-* [How should I interpret traits (colors) on the tree](https://nextstrain.org/narratives/trees-background?n=7)?  
-* [How does the map relate to the tree](https://nextstrain.org/narratives/trees-background?n=8)?  
-* [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=9).  
-* [About the dataset](https://nextstrain.org/narratives/trees-background?n=10).  
+* [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=2)?  
+* [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=3)?  
+* [How does the "diversity" panel relate to the tree](https://nextstrain.org/narratives/trees-background?n=4)?   
+* [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=5).  
+* [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=6).  
+* [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=7)?  
+* [How should I interpret traits (colors) on the tree](https://nextstrain.org/narratives/trees-background?n=8)?  
+* [How does the map relate to the tree](https://nextstrain.org/narratives/trees-background?n=9)?  
+* [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=10).  
+* [About the dataset](https://nextstrain.org/narratives/trees-background?n=11).  
 
 <!-- No right-side text -->
 
@@ -75,7 +87,7 @@ Above, we see an illustration with a phylogenetic tree on the left, where mutati
 When a sequence sits on a long line on its own, like C or E, this means it has unique mutations not found in other sequences. The longer the line, the more mutations.
 A and B also have unique mutations (the green circle) not shared by the other sequences, but they are identical to each other.
 <br><br>
-Based on this tree, we would conclude that A & B closely related to each other, and D & E are closely related to each other. A & B are more closely related to C than they are to D & C.
+Based on this tree, we would conclude that A & B closely related to each other, and D & E are closely related to each other. A & B are more closely related to C than they are to D & E.
 </p>
 
 ### Further reading  
@@ -97,7 +109,7 @@ Let's take a look at the first 169</tag> strains of SARS-CoV-2 (the virus that c
 Here we're displaying the phylogenetic tree above a bar-chart showing the variation (i.e. mutations) in the genome.
 Without these mutations we couldn't build the tree, so the two are intimitely connected.
 <br><br>
-In this "divisity" panel, the horizontal axis is each site in the viral genome (all thirty thousand or so of them!).
+In this "diversity" panel, the horizontal axis is each site in the viral genome (all thirty thousand or so of them!).
 The vertical axis indicates how much variability there is at each site.
 <br><br>
 We've coloured the tree according to one of these mutations -- in this case codon 314 in the gene "ORF1b".
@@ -177,7 +189,7 @@ Thus, while these inferences can be invaluable, they also must be interpreted wi
 # [How does the map relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
 
 Here, we show the tree colored by the location of each sample (and inferred location for each internal node).
-If you click ['Explore the data'](https://nextstrain.org/ncov), you can play an animation of how the inferred spread of the virus over the course of the outbreak.
+If you click ['Explore the data'](https://nextstrain.org/ncov), you can play an animation of the inferred spread of the virus over the course of the outbreak.
 
 
 <!-- ############ SLIDE BREAK ############# -->
