@@ -1,5 +1,5 @@
 ---
-title: Hoe interpreteer je een fylogenetische boom
+title: Как интерпретировать филогенетические деревья
 authors:
   - Emma Hodcroft
   - Nicola Müller
@@ -16,13 +16,12 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; Chan Zuckerberg Initiative, CA, USA"
 translators:
-  - Jisca Huisman
-  - Roan van Scheppingen
-  - Jana S. Huisman
-  - Rutger Vos
-date: "13 maart 2020"
+  - Varvara Kozyreva
+  - Vadim Puller
+  - Irina Kalita
+date: "13 марта 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country"
-abstract: "Dit verhaal legt uit hoe je een fylogenetische boom die informatie over de genetische epidemidiologie bevat, leest en interpreteert. De website is geoptimaliseerd voor weergave in desktop browsers. "
+abstract: "Этот документ объясняет, как читать и интерпретировать филогенетические деревья, которые позволяют информировать геномную эпидемиологию. Данный сайт оптимизирован для отображения в браузерах настольных компьютеров"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -30,17 +29,18 @@ abstract: "Dit verhaal legt uit hoe je een fylogenetische boom die informatie ov
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Inhoud](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
-* [Hoe zijn transmissie netwerken gerelateerd aan fylogenetische bomen](https://nextstrain.org/narratives/trees-background/nl?n=2)?
-* [Hoe lees ik een boom](https://nextstrain.org/narratives/trees-background/nl?n=3)?
-* [Hoe verhoudt het diversiteitspaneel zich tot de boom](https://nextstrain.org/narratives/trees-background/nl?n=4)?  
-* [Verschillen meten met genetische afstand](https://nextstrain.org/narratives/trees-background/nl?n=5).
-* [Verschillen meten door de tijd](https://nextstrain.org/narratives/trees-background/nl?n=6).
-* [De start van een uitbraak dateren](https://nextstrain.org/narratives/trees-background/nl?n=7).
-* [Hoe moet ik eigenschappen (kleuren) op de boom interpreteren](https://nextstrain.org/narratives/trees-background/nl?n=8)?
-* [Hoe verhoudt de kaart zich tot de boom](https://nextstrain.org/narratives/trees-background/nl?n=9)?
-* [Voor gevorderden: onzekerheid in bomen](https://nextstrain.org/narratives/trees-background/nl?n=10).
-* [Over de dataset](https://nextstrain.org/narratives/trees-background/nl?n=11).
+# [Содержание](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
+
+* [Как цепи передачи соотносятся с филогенетическими деревьями](https://nextstrain.org/narratives/trees-background/ru?n=2)?  
+* [Как читать дерево](https://nextstrain.org/narratives/trees-background/ru?n=3)?  
+* [Как панель "разнообразия" соотносится с деревом](https://nextstrain.org/narratives/trees-background/ru?n=4)?   
+* [Измерение различий на основании генетической дивергенции](https://nextstrain.org/narratives/trees-background/ru?n=5).  
+* [Измерение различий на протяжении времени](https://nextstrain.org/narratives/trees-background/ru?n=6).  
+* [Датирование начала вспышки](https://nextstrain.org/narratives/trees-background/ru?n=7).  
+* [Как интерпретировать черты (цвета) дерева](https://nextstrain.org/narratives/trees-background/ru?n=8)?  
+* [Как карта связана с деревом](https://nextstrain.org/narratives/trees-background/ru?n=9)?  
+* [Дополнительное чтение: неопределенность в деревьях](https://nextstrain.org/narratives/trees-background/ru?n=10).  
+* [Благодарности](https://nextstrain.org/narratives/trees-background/ru?n=11).  
 
 <!-- No right-side text -->
 
@@ -48,23 +48,23 @@ abstract: "Dit verhaal legt uit hoe je een fylogenetische boom die informatie ov
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Hoe zijn transmissie netwerken gerelateerd aan fylogenetische bomen?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
-Ziekteverwekkers verspreiden zich door snelle vermenigvuldiging in een gastheer, gevolgd door overdracht naar andere gastheren. Een epidemie kan alleen optreden als een infectie leidt tot meer dan één volgende infectie.
-<br> <br>
-Terwijl de ziekteverwekker zich vermenigvuldigt en verspreidt, moet zijn genoom vele malen gekopieerd worden en zullen willekeurige mutaties (kopieerfouten) zich ophopen in het genoom; dit is normaal. Dergelijke willekeurige mutaties bevatten informatie over de transmissieroutes en populatie dynamiek van de ziekteverwekker. Ze kunnen als sporen dienen, die helpen de verspreiding van de ziekteverwekker te volgen.
+# [Как цепи передачи соотносятся с филогенетическими деревьями?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
+Патогены распространяются путем быстрой репликации в одном хозяине с последующей передачей к другому хозяину. Эпидемия может набрать обороты, только если одна инфекция ведет к более чем одной последующей инфекции.
+<br><br>
+По мере того как патоген размножается и распространяется, его геном проходит через множество репликаций и аккумулирует случайные мутации (ошибки копирования); это является нормальным процессом. Такие случайные мутации могут помочь отслеживать распространение патогена, а также понять пути и динамику его передачи.    
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Een voorbeeld
+# Пример
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="Afbeelding die laat zien hoe een besmettingsboom en een transmissieboom relateren" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
 </p>
 <p>
-De afbeelding hierboven toont een schets van een transmissie netwerk. Elke cirkel verbeeldt een geïnfecteerde persoon (een geval), waarbij de horizontale lijn naar rechts de duur van hun infectie aangeeft. Verbonden gevallen tonen overdracht van de ene persoon naar de andere.
-<br>
-<br>
-Hier zien we het volledige beeld van de transmissiestructuur. In de praktijk wordt echter slechts een subset van alle gevallen bemonsterd en gesequenced (blauw). De ware transmissiestructuur is dus onbekend en doorgaans zijn slechts ruwe schattingen van het aantal gevallen beschikbaar. Met genoomsequenties kunnen we delen van de transmissiestructuur afleiden. In dit voorbeeld zijn drie mutaties (kleine diamanten) op de boom aangegeven. Sequenties met dezelfde mutaties zijn nauwer verwant, dus met deze mutaties kunnen we monsters groeperen in clusters van nauw verwante virussen die tot dezelfde transmissieketen behoren.
+Рисунок сверху показывает схему трансмиссионного дерева (дерева передач). Каждый круг представляет собой случай (инфицированный человек), а длина горизонтальных линий соответствует длительности инфекций. Связанные между собой случаи представляют собой передачу от одного человека к следующему.
+<br> <br>
+Здесь мы наблюдаем полную картину трансмиссионного дерева. На практике, конечно, нам известна только часть случаев (голубой цвет); трансмиссионное дерево неизвестно и обычно доступны только приблизительные оценки количества случаев. Геномные последовательности позволяют нам реконструировать части трансмиссионного дерева. В данном примере, на дереве отмечены 3 мутации (маленькие ромбы). Последовательности, которые имеют одинаковые мутации, являются наиболее близкородственными. Таким образом, эти мутации позволяют нам группировать образцы в кластеры близкородственных вирусов, которые принадлежат одной и той же цепи передач.  
+
 </p>
 </div>
 ```
@@ -73,32 +73,32 @@ Hier zien we het volledige beeld van de transmissiestructuur. In de praktijk wor
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Hoe lees ik een boom?](https://nextstrain.org/ncov/2020-03-11)
+# [Как читать дерево?](https://nextstrain.org/ncov/2020-03-11)
 
-De x-as van een boom vertegenwoordigt de mate van verschil (in tijd, of genetische divergentie - daar komen we zo op terug). De y-as helpt alleen voor het spreiden zodat we alles kunnen zien; deze heeft geen meeteenheden.
-<br> <br>
-De uiteinden van de boom vertegenwoordigen monsters (d.w.z. de blauwe cirkels van de vorige pagina). De interne knooppunten vertegenwoordigen gevallen die niet zijn bemonsterd, maar waarvan we denken dat ze de bron waren van de gevallen die daarvan afstammen (d.w.z. de rode knooppunten van de vorige pagina). Deze relaties worden afgeleid uit het patroon van mutaties dat is waargenomen in de bemonsterde gevallen.
+Ось Х на дереве отражает степень различия (во времени или генетическую дивергенцию-- мы вернемся к этому попозже). Ось Y просто помогает разделить объекты друг от друга, чтобы мы могли их лучше видеть; у этой оси нет никаких единиц измерения.
 
+<br><br>
+Концы дерева представляют собой образцы (например, случаи, отмеченные голубым на предыдущем слайде). Внутренние узлы обозначают случаи, которые не были зафиксированы, но, как мы предполагаем, являются источниками всех случаев, произошедших от них (например, красные узлы на предыдущем слайде). Эти взаимоотношения реконструированы путем анализа набора мутаций, которые наблюдаются у собранных образцов.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-## Een voorbeeld
+## Пример
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Voorbeeld fylogenie waar alle, of enkel een deel van de gevallen zijn opgenomen in de uiteindelijke fylogenie" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-Hierboven zien we een illustratie met links een fylogenetische boom, waar mutaties worden weergegeven als gekleurde cirkels. Rechts staan de bijbehorende sequenties gealigneerd, ook met mutaties weergegeven als gekleurde cirkels. We kunnen zien dat sequenties die dezelfde mutaties delen samen groeperen. Wanneer sequenties verschijnen die met elkaar verbonden zijn door een vlakke verticale lijn, zoals A en B, betekent dit dat er geen verschillen tussen beide zijn - hun sequenties zijn identiek.
-<br> <br>
-Wanneer een sequentie op zichzelf op een lange lijn staat, zoals C of E, betekent dit dat het unieke mutaties heeft die niet in andere sequenties worden aangetroffen. De lengte van de lijn, is gerelateerd aan het aantal mutaties: hoe langer de lijn, hoe meer mutaties.
-A en B hebben een unieke mutatie (de groene cirkel) die niet wordt gedeeld door de andere sequenties, maar toch zijn A en B identiek aan elkaar.
-<br> <br>
-Op basis van deze boom concluderen we dat A & B nauw verwant zijn, en D & E ook. A & B zijn nauwer verwant aan C dan aan D & E.
+Выше вы видите иллюстрацию филогенетического дерева (слева), где мутации показаны цветными кругами. С правой стороны - соответствующие последовательности, в которых мутации так же отмечены цветными кругами. Мы видим, что последовательности с одинаковыми мутациями группируются вместе. Когда последовательности соединены прямой вертикальной линией, как А и В, это означает, что между ними нет никакой разницы - их последовательности идентичны.   
+<br><br>
+Когда последовательность находится на длинной линии сама по себе, как С или Е, это означает, что у нее имеются уникальные мутации, не найденные у других последовательностей. Чем длинее линия, тем больше мутаций.
+А и В также имеют уникальные мутации (зеленый круг), которые не найдены у других последовательностей, но они идентичны друг другу.
+<br><br>
+На основании этого дерева мы можем заключить, что А и В близкородственны между собой, а также D и E в свою очередь близкородственны друг другу. А и В более близкородственны с С, чем с D и E.
 </p>
 
-### Meer informatie (in het Engels)
-* [How to read a tree: tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
-* [How to read a tree: video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
+### Дальнейшее чтение  
+* [Как читать дерево: урок от Arctic Network (на английском)](https://artic.network/how-to-read-a-tree.html).  
+* [Как читать дерево: видео от Khan academy (на английском)](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
 
 </div>
 
@@ -108,59 +108,18 @@ Op basis van deze boom concluderen we dat A & B nauw verwant zijn, en D & E ook.
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Hoe verhoudt het diversiteitspaneel zich tot de boom?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
+# [Как панель "разнообразия" соотносится с деревом?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
 
-Laten we eens kijken naar de eerste 169 </tag> monsters van SARS-CoV-2 -- het virus dat COVID-19 veroorzaakt -- die openbaar zijn gedeeld. Net als op de laatste pagina hebben we een sequentie alignering van deze virale sequenties geconstrueerd (je kunt [op GitHub](https://github.com/nextstrain/ncov) zien hoe alle hier genoemde analyses zijn uitgevoerd).
-<br> <br>
-Hier tonen we de fylogenetische boom boven een staafdiagram met de variatie (d.w.z. mutaties) in het genoom.
-Zonder deze mutaties zouden we de boom niet kunnen construeren, dus de twee horen bij elkaar.
-<br> <br>
-In dit "diversiteitspaneel" representeert de horizontale as elke positie in het virale genoom (ongeveer dertigduizend locaties).
-De verticale as geeft aan hoeveel variatie er is op elke locatie.
-<br> <br>
-We hebben de boom gekleurd aan de hand van een van deze mutaties - in dit geval codon 314 in het gen "ORF1b".
-Er is in beginsel geen reden om aan te nemen dat deze mutatie een functionele mutatie is (die een biologische verandering veroorzaakt).
-Het zijn mutaties zoals deze die we gebruiken om de relaties tussen sequenties te definiëren en de boom te reconstrueren.
-
-<!-- There is NO right-side text -->
-
-
-<!-- ############ SLIDE BREAK ############# -->
-
-<!-- This is left-side text -->
-# [Verschillen meten met genetische afstand](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
-Dit is een fylogenie van de eerste 169 </tag> monsters van SARS-CoV-2 (het virus dat COVID-19 veroorzaakt) die openbaar zijn gedeeld.
-<br> <br>
-Hier geeft de horizontale as divergentie aan, het aantal mutaties in het genoom ten opzichte van de wortel van de boom (d.w.z. sinds het begin van de uitbraak).
-Sommige sequenties hebben mogelijk geen mutaties, wat betekent dat ze identiek zijn aan de wortel (links) van de boom.
-Andere monsters hebben tussen één en elf mutaties.
-<br> <br>
-Op dit moment lijkt dit misschien niet veel op een ‘boom’. Veel van de sequenties zijn identiek - ze zitten samen op verticale lijnen zoals A en B op de vorige slides (sommige bevinden zich in het meest linkse deel van de boom).
-Anderen hebben unieke of gedeelde mutaties en zitten dus op lijnen of ‘takken’ die zich naar rechts uitstrekken.
-Je kunt zien hoeveel mutaties een tak heeft door er met je muis over heen te bewegen.
-
-<!-- There is NO right-side text -->
-
-<!-- ############ SLIDE BREAK ############# -->
-
-# [Verschillen meten door de tijd](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
-We kunnen ook visualiseren hoe het virus zich in de tijd heeft verspreid door de x-as te vertalen naar de bemonsteringsdatum.
-De posities van de uiteinden van de fylogenie geven de datum aan waarop die monsters zijn genomen. De datums van interne vertakkingen -- de 'ontbrekende gevallen' -- worden afgeleid op basis van wanneer hun nakomelingen zijn bemonsterd en de snelheid waarmee het virus muteert.
-<br> <br>
-Merk op hoeveel sequenties die voorheen op een lijn zaten (die identieke genomen aangeeft) nu in de tijd van elkaar verwijderd liggen.
-Dit gebeurt wanneer de snelheid waarmee het virus muteert iets langzamer is dan de snelheid waarmee het wordt verspreid.
-Je kunt op en neer scrollen tussen deze en de vorige pagina om te zien hoe de boom verandert.
-
-<!-- There is NO right-side text -->
-
-
-<!-- ############ SLIDE BREAK ############# -->
-
-# [De start van een uitbraak dateren](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
-We kunnen genomische data ook gebruiken om de datum waarop de uitbraak is begonnen te reconstrueren, zelfs als dit was voordat we ons realiseerden dat het gebeurde.
-Omdat we aan elk monster en knooppunt in de boom een datum kunnen toewijzen, kunnen we dit gebruiken om de datum van de 'wortel' van de boom af te leiden. Dit vertegenwoordigt de meest recente gemeenschappelijke voorouder van alle SARS-CoV-2-sequenties die we tot nu toe hebben, ongeveer zoals je grootouders de 'meest recente gemeenschappelijke voorouders' van jou en al jouw neven en nichten zijn.
-<br> <br>
-Als je met de muis over de meest linkse verticale lijn beweegt, kun je zien dat de afgeleide startdatum tussen half november en half december 2019 ligt voor deze specifieke uitbraak.
+Давайте взглянем на первые 169</tag> штамма SARS-CoV-2 (вирус вызывающий заболевание COVID-19), которые были предоставлены в общественный доступ. Так же, как и на предыдущем слайде, мы построили сравнение (alignment) этих вирусных последовательностей (вы можете увидеть все методы анализа, предоставленные [на GitHub](https://github.com/nextstrain/ncov)).
+<br><br>
+Здесь мы отображаем филогенетическое дерево над столбчатой диаграммой, показывающей вариацию (другими словами, мутации) в геноме. Без этих мутаций мы не могли бы построить дерево, так что они неразрывно связаны.
+<br><br>
+В этой панели "разнообразия" горизонтальная ось представляет собой каждую позицию вирусного генома (все 30 тысяч или около того!)
+Вертикальная ось отражает долю вариации в каждой из этих позиций.
+<br><br>
+Мы раскрасили дерево в соответствии с одной из этих мутаций -- в данном случае кодон 314 в гене "ORF1b".
+Нет никакой причины, чтобы априори считать эту мутацию функциональной (т.е., которая вызывает какое-либо биологическое изменение).
+Мы используем именно такие мутации, как эта, чтобы определить взаимоотношения между последовательностями и построить дерево.
 
 <!-- There is NO right-side text -->
 
@@ -168,54 +127,89 @@ Als je met de muis over de meest linkse verticale lijn beweegt, kun je zien dat 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Hoe moet ik eigenschappen (kleuren) op de boom interpreteren?](https://nextstrain.org/ncov/2020-03-11)
-Fylogenetische bomen bevatten vaak aanvullende informatie, zoals de locatie van elke bemonstering. Hieruit kunnen we de locaties van interne knooppunten (veronderstelde tussenliggende, niet-bemonsterde gevallen) afleiden met behulp van wiskundige modellen. Dit kan ons helpen begrijpen hoe het virus zich van de ene naar de andere locatie verspreidt.
-<br> <br>
-De interpretatie hiervan moet echter met de nodige voorzichtigheid gebeuren, aangezien de bemonstering en sequencing of het ontbreken daarvan de interpretatie aanzienlijk kunnen beïnvloeden.
+# [Измерение различий на основании генетической дивергенции](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
+Здесь представлена филогения первых 169</tag> штаммов SARS-CoV-2 (вируса вызывающего заболевание COVID-19), которые были выложены в общественный доступ.
+<br><br>
+На горизонтальной оси отмечена дивергенция, которая соответствует количеству изменений (мутаций) в геноме, по отношению к корню дерева (т.е. начало вспышки).
+У некоторых последовательностей может не быть ни одной мутации -- это означает, что эти последовательности идентичны корню (центру) дерева. Другие вирусы имеют от одной до одиннадцати мутаций.
+<br><br>
+На данный момент, эта схема может не очень напоминать "дерево". Многие последовательности идентичны - они находятся вместе на одной вертикальной линии, как А и В (некоторые в левой части дерева). Другие же обладают уникальными или одинаковыми мутациями и поэтому сидят на линиях или ветвях, протягивающихся вправо.
+Вы можете увидеть количество мутаций в каждой ветви, если наведете на нее указатель мыши.
 
+<!-- There is NO right-side text -->
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Измерение различий на протяжении времени](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+Мы также можем визуализировать распространение вируса на протяжении времени, отобразив дату выделения на оси Х.
+Здесь ось Х представляет дату выделения каждого вируса. Расположение концов отражает дату, когда эти конкретные образцы были собраны. Даты внутренних узлов -- "пропущенные случаи" -- реконструированы на основании того, когда их потомки были собраны, и на основании уровня мутирования вируса.
+<br><br>
+Обратите внимание, что многие последовательности, которые до этого находились на одной линии (что означает идентичность геномов), теперь разнесены друг от друга во времени. Это происходит, когда скорость, с которой вирус мутирует, немного медленнее, чем скорость, с которой он распространяется.
+Вы можете пролистать вверх и вниз между предыдущим и данным слайдом, чтобы увидеть, как изменилось дерево.
+<!-- There is NO right-side text -->
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Датирование начала вспышки](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+
+Мы можем также использовать геномику, чтобы установить дату, когда вспышка началась, даже если это произошло до того, как мы осознали, что это происходит.
+Поскольку мы можем установить дату для каждого образца и узла в дереве, мы можем это использовать, чтобы реконструировать дату для "корня" дерева. Этот корень представляет собой "последнего общего предка" для всех последовательностей SARS-CoV-2, находящихся в нашем распоряжении на данный момент. Например, ваши дедушка с бабушкой являются "последними общими предками" для вас и всех ваших двоюродных братьев и сестер.
+<br><br>
+Если вы наведёте указатель мыши на самую левую вертикальную линию, вы увидите, что реконструированная дата начала этой конкретной вспышки находится между серединой ноября и серединой декабря 2019 г.
+
+<!-- There is NO right-side text -->
+
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [Как интерпретировать черты (цвета) дерева?](https://nextstrain.org/ncov/2020-03-11)
+Филогенетические деревья часто содержат дополнительную информацию, например, географическое место выделения каждого образца. Исходя из этого, мы можем предсказать географическое местоположение внутренних узлов (гипотетические промежуточные незафиксированные случаи), используя математические модели. Это может помочь нам понять, как вирус передвигается из одного места в другое.   
+<br><br>
+Данная интерпретация, однако, должна быть сделана с осторожностью, поскольку сбор образцов и секвенирование, или отсутствие таковых, могут значительно влиять на выводы.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Een voorbeeld
+# Пример
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Afbeelding die laat zien hoe bemonstering de interpretatie van virale verspreiding kan beïnvloeden" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
 </p>
 <p>
-Links tonen we een volledig bemonsterde fylogenetische boom, met monsters van twee verschillende locaties aangegeven met oranje en blauw. Als we langs de boom omlaag bewegen, zien we drie gevallen waarin de kleur (locatie) verandert van oranje naar blauw. Hieruit zouden we kunnen concluderen dat er drie verschillende introducties waren van de oranje locatie naar de blauwe locatie.
-<br> <br>
-Maar deze interpretatie is gebaseerd op bemonstering: in de middelste boom hebben we één oranje monster verwijderd. We zien nu slechts één omschakeling van oranje naar blauw, wat suggereert dat er maar één introductie van oranje naar blauw was die veel eerder plaatsvond.
-<br> <br>
-In het laatste voorbeeld hebben we maar één oranje genoom, waardoor we reconstrueren dat er maar één introductie was, maar dit keer van blauw naar oranje.
-<br> <br>
-Hoewel fylogenetische conclusies van onschatbare waarde kunnen zijn, moeten ze dus ook voorzichtig worden geïnterpreteerd.
+Слева мы показываем дерево с полным набором образцов, в котором образцы из двух разных местностей обозначены оранжевым и синим цветами. По мере продвижения вниз по дереву мы наблюдаем 3 случая когда цвет (географическое местоположение) изменяется с оранжевого на синий. Из этого мы сделаем вывод, что произошло 3 независимых заноса из оранжевой местности в голубую местность.
+<br><br>
+Однако интерпретация зависит от собранных образцов: в дереве посередине мы удалили один из оранжевых образцов. Теперь мы видим только одно изменение цвета с оранжевого на синий, предполагающее один единственный занос в голубую местность, который произошел намного раньше.
+<br><br>
+В последнем примере у нас есть только одна последовательность из оранжевой местности, что может навести нас на мысль, что произошел только один занос из оранжевой в голубую местность.
+<br><br>
+Таким образом, несмотря на то, что подобные предсказания могут быть чрезвычайно полезны, они также должны быть интерпретированы с осторожностью.
 </p>
 ```
+<!-- ############ SLIDE BREAK ############# -->
+
+<!-- This is left-side text -->
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [Как карта связана с деревом?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
+
+Здесь представлено дерево, окрашенное согласно географическому местоположению каждого образца (и определенному теоретически местоположению внутренних узлов).
+Кликнув на ['Explore the data'](https://nextstrain.org/ncov), вы можете проиграть с анимацией определенного теоретически распространения вируса в течение эпидемии.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Hoe verhoudt de kaart zich tot de boom?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
-Hier tonen we de boom gekleurd aan de hand van de locatie van elk monster en de gereconstrueerde locatie voor elk intern knooppunt.
-Als je rechtsboven op ['Explore the data'](https://nextstrain.org/ncov) ('verken de data') klikt, kun je een animatie afspelen van de gereconstrueerde verspreiding van het virus in de loop van de uitbraak.
-
-
-
-<!-- ############ SLIDE BREAK ############# -->
-
-<!-- This is left-side text -->
-# [Voor gevorderden: onzekerheid in bomen](https://nextstrain.org/ncov/2020-03-11)
-Eerder bespraken we hoe interne knooppunten _veronderstelde_, niet-bemonsterde gevallen vertegenwoordigen. In feite vertegenwoordigen alle bomen _veronderstellingen_ over hoe een ziekteverwekker in de loop van de tijd is geëvolueerd en zich heeft verspreid. De bomen die we presenteren op Nextstrain zijn 'puntschattingen', dat wil zeggen, veronderstelde geschiedenissen die zodanig zijn geconstrueerd dat ze de kans op het patroon van gegevens dat we hebben, maximaliseren.
-<br> <br>
-Er is echter altijd onzekerheid in deze schattingen. Over het algemeen zijn delen van de boom die dicht bemonsterd zijn zekerder; gebieden die spaarzaam bemonsterd zijn, zijn minder zeker.
-
+# [Дополнительное чтение: неопределенность в деревьях](https://nextstrain.org/ncov/2020-03-11)
+Прежде мы уже говорили о том, как внутренние узлы представляют _гипотетические_ ненаблюдаемые случаи заражения.
+На самом деле, все деревья представляют _гипотезу_ о том, как патоген эволюционировал и распространялся со временем.
+Деревья, показанные на Nextstrain это точечные оценки -- то есть версия истории, которая максимизирует вероятность наблюдения имеющихся данных.
+<br><br>
+Однако в этих оценках всегда есть неопределенность.
+Вообще говоря, части дерева с большей плотностью образцов - более вероятны, а части дерева с малой плотностью образцов - менее вероятны.
 
 ```auspiceMainDisplayMarkdown
-# Een illustratie
+# Иллюстрация
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustratie van de inherente onzekerheid die optreedt bij het schatten van bomen" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
+<img width="700px" alt="Illustration of the uncertainty inherent in tree reconstruction" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
 </p>
 </div>
 ```
@@ -223,20 +217,20 @@ Er is echter altijd onzekerheid in deze schattingen. Over het algemeen zijn dele
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
-
-Wij willen onze dank uitspreken voor het fantastische en tijdige werk dat is verricht door alle wetenschappers die bij deze uitbraak betrokken zijn, en met name door degenen die in China werkzaam zijn.
-Alleen door het snel delen van genomische gegevens en metadata zijn dit soort analyses mogelijk.
+# [Благодарности](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+Мы хотели бы отметить удивительную и своевременную работу всех ученых, вовлеченных в исследование этой эпидемии, особенно тех, кто работает в Китае. Только благодаря интенсивному и быстрому обмену генетическими данными и метаданными стали возможны анализы, подобные этому.
 
 <br><br>
 
-Wij zijn ook [GISAID](https://gisaid.org) dankbaar voor het leveren van het platform waarmee deze gegevens kunnen worden geüpload en gedeeld.
+Мы хотели бы поблагодарить [GISAID](https://gisaid.org) за обеспечение платформы, где эти данные могут храниться и передаваться.
 
 <!-- Do not need to translate insitutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We zijn dankbaar voor de gegevens die door deze laboratoria zijn verzameld:
+<br>
+Мы благодарны за данные, собранные следующими лабораториями:
+
 
 * Arizona Department of Health Services
 * Auckland Hospital
@@ -364,19 +358,19 @@ We zijn dankbaar voor de gegevens die door deze laboratoria zijn verzameld:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Gedetailleerd wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Подробные научные благодарности](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-Deze gegevens werden gedeeld via [GISAID](https://gisaid.org).
-Wij zijn dankbaar voor hun bijdragen.
+Эти данные были переданы через [GISAID](https://gisaid.org).
+Мы с удовольствием признаем их вклад.
 
 <br><br>
 
-Rechts geven we specifieke sequenties die door elk lab zijn gedeeld.
+Справа мы указываем конкретные генетические последовательности, переданные каждой лабораторией.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-De SARS-CoV-2 genomen werden ruimhartig gedeeld door de wetenschappers in deze inzendende laboratoria:
+Геномы  SARS-CoV-2 были переданы учеными из следующих лабораторий:
 
 * Arizona Department of Health Services
 	* USA/AZ1/2020
