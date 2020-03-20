@@ -197,7 +197,7 @@ These new outbreaks may, in turn, seed further introductions to other locations.
 We can see a clear example of this in the data from Washington state.
 Mousing over root of the main clade shows that the virus was likely introduced to this area between the end of January and the middle of February 2020 ([methods](https://nextstrain.org/narratives/trees-background?n=6)).
 <br><br>
-Now, in mid-March (~6 weeks later), we see that a local outbreak is in full swing in this area. This is consistent with a doubling rate of about 4 days, assuming an exponentially growing population.  
+Now, in mid-March (~6 weeks later), we see that a local outbreak is in full swing in this area. From the sequence data alone, we estimate a doubling rate of 3-6 days, assuming an exponentially growing population.  
 <br>
 <img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
@@ -209,7 +209,7 @@ Now, in mid-March (~6 weeks later), we see that a local outbreak is in full swin
 <!-- This is left-side text 11-->
 # [How outbreaks spread: an example](https://nextstrain.org/ncov/2020-03-20?legend=closed&d=tree,map&f_division=Washington,Utah&label=clade:B1&p=grid)
 
-We can also see an example of how intially localized outbreaks seed introductions to other locations.
+We can also see an example of how initially localized outbreaks seed introductions to other locations.
 The samples from Utah near the top of the tree (orange) nest within the main clade from the Washington outbreak.
 This is consistent with an introduction from Washington to Utah, although it's also possible that there were intermediary step(s) in the transmission chain.
 <br><br>
