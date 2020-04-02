@@ -176,7 +176,7 @@ On the left, we show a fully sampled phylogenetic tree, with samples from two di
 <br><br>
 But, this interpretation relies on sampling: in the middle tree, we've removed one orange sample. We now observe only one switch from orange to blue, suggesting that there was only one introduction into blue that happened much earlier.
 <br><br>
-In the last example, we have only one sequence from orange, which could lead us to think that there was one introduction from orange into blue.
+In the last example, we have only one sequence from orange, which could lead us to think that there was one introduction from blue into orange.
 <br><br>
 Thus, while these inferences can be invaluable, they also must be interpreted with caution.
 </p>
