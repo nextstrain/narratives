@@ -148,7 +148,7 @@ This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
 # [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+We received 8 new genomes this week from Kinshasa in the Democratic Republic of the Congo.
 <br><br>
 All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
 This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
