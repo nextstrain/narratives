@@ -184,7 +184,7 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 <!-- This is left-side text 10-->
 # [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+We recently received 301 sequences -- from 25\% of [confirmed cases](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) -- from Iceland.
 <br><br>
 Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
 <br><br>
