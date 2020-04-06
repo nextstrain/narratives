@@ -86,7 +86,7 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## مصادر Nextrstrain  
+## مصادر Nextstrain  
 
 [كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/ar).  
 
