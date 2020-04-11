@@ -23,7 +23,7 @@ translators:
 translatorLinks:
   - https://taehoonh.github.io
   - https://twitter.com/minkyuxyz
-date: "2020 April 9"
+date: "2020 April 10"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19의 전파를 추적합니다. 이 보고서는 매주 업데이트 됩니다."
 ---
