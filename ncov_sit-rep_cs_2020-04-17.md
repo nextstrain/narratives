@@ -52,7 +52,7 @@ Provedli jsme analýzu 1 347 veřejně dostupných genomů viru SARS-CoV-2 ze Sp
 
 * Ohnisko nákazy ve státě New York má sice kosmopolitní původ, většinu případů však lze připsat přenosu z Evropy.   
 * Ohnisko ve městě New York vykazuje příznaky mísení případů napříč všemi pěti městskými obvody.  
-* Ohnisko v Kalifornii souvisí se nedalekým státem Washington i vzdáleným New Yorkem.  
+* Ohnisko v Kalifornii souvisí s nedalekým státem Washington i vzdáleným New Yorkem.  
 * Ohnisko na středozápadě USA je heterogenní a je výsledkem řady nezávislých případů zanesení nákazy.
 * Probíhající šíření nákazy ve státech Utah a Idaho je úzce provázané.
 * Rozhodnutí přijímaná jednotlivými státy USA mají hluboký dopad na osud ostatních států. Bezpečné uvolňování omezení v libovolném státě bude vyžadovat koordinovanou kontrolu tak, aby všechny státy jednaly v zájmu vzájemné ochrany.
@@ -124,7 +124,7 @@ V rámci města New York vidíme jen malé rozdíly mezi jednotlivými případy
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Propuknutí nákazy v Kalifornii souvisí se nedalekými i vzdálenými státy](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [Propuknutí nákazy v Kalifornii souvisí s nedalekými i vzdálenými státy](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
 Pozorujeme také důkazy o opakovaných přenosech mezi státy. Například případy z Kalifornie pokrývají genetickou diverzitu celého stromu a seskupují se se vzorky z nedalekého státu Washington i z New Yorku. To je důkazem přenosu mezi Kalifornií a blízkými i vzdálenými státy.
 
@@ -178,7 +178,7 @@ Také do horských států na západě USA byla nákaza zanesena několika způs
 <br><br>
 * Ohnisko nákazy ve městě New York vykazuje příznaky mísení případů napříč všemi pěti městskými obvody.
 <br><br>
-* Ohnisko v Kalifornii souvisí se nedalekým státem Washington i vzdáleným New Yorkem.
+* Ohnisko v Kalifornii souvisí s nedalekým státem Washington i vzdáleným New Yorkem.
 <br><br>
 * Ohnisko ve středozápadních státech je heterogenní a v této oblasti se vyskytuje několik linií přenosu.
 <br><br>
