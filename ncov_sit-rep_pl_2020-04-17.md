@@ -1,5 +1,5 @@
 ---
-title: Genomová analýza šíření nemoci COVID-19. Situační zpráva ze dne 17. 4. 2020.
+title: Analiza genomiczna rozprzestrzeniania się COVID-19. Raport sytuacyjny 2020-04-17.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,12 +18,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Anna Fijarczyk
+  - Marta Niedzicka
 translatorLinks:
+  - https://twitter.com/afijarczyk
+  - https://www.researchgate.net/profile/Marta_Niedzicka
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-date: "17. dubna 2020"
+date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "Předkládaná týdenní zpráva využívá k sledování šíření nemoci COVID-19 veřejně dostupné genomové údaje. Tento týden se zaměříme na propuknutí nákazy ve Spojených státech. Ve většině oblastí USA nacházíme důkazy více případů zanesení nákazy, a to zahraničního i domácího původu. Tato data zřetelně ukazují, že rozhodnutí přijímaná jednotlivými státy USA mají hluboký dopad na osud ostatních států."
+abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. W tym tygodniu koncentrujemy się na epidemii w Stanach Zjednoczonych. Dla większości obszarów USA, znajdujemy dowody na wielokrotne introdukcje -- o międzynarodowym jak i krajowym pochodzeniu. Te dane podkreślają, że decyzje podejmowane przez każdy stan mają ogromny wpływ na losy w innych stanach." 
 
 ---
 
@@ -33,29 +37,38 @@ abstract: "Předkládaná týdenní zpráva využívá k sledování šíření 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Obsah](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+# [Spis treści](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Výchozí zdroje](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=2).     
-* [O těchto údajích](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=3).
-* [Aktuální vývoj v New Yorku](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=4).
-* [Aktuální vývoj v Kalifornii](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=7).
-* [Aktuální vývoj na středozápadě USA](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=8).
-* [Aktuální vývoj v horských státech na západě USA](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=9).
-* [Co můžete udělat vy](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=10).
-* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=11).
+* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=2).     
+* [Opis próbkowania](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=3).
+* [Aktualizacja sytuacji w Nowym Jorku](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=4).
+* [Aktualizacja sytuacji w Kalifornii](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=7).
+* [Aktualizacja sytuacji w Środkowym Zachodzie](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=8).
+* [Aktualizacja sytuacji w stanach Gór Skalistych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=9).
+* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=10).
+* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Úvodní přehled
+# Streszczenie
 
-Provedli jsme analýzu 1 347 veřejně dostupných genomů viru SARS-CoV-2 ze Spojených států. Vzájemným porovnáním těchto virových genomů můžeme popsat, jak virus SARS-CoV-2 postupuje světem a šíří se v rámci různých lokalit. Novinky tohoto týdne:  
+Przeanalizowaliśmy 1,347</tag> publicznie dostępnych genomów SARS-CoV-2 ze Stanów Zjednoczonych. Porównując je, potrafimy ocenić, w jaki sposób wirus SARS-CoV2 rozprzestrzenia się po świecie i wewnątrz społeczności. W tym tygodniu opisujemy:
 
-* Ohnisko nákazy ve státě New York má sice kosmopolitní původ, většinu případů však lze připsat přenosu z Evropy.   
-* Ohnisko ve městě New York vykazuje příznaky mísení případů napříč všemi pěti městskými obvody.  
-* Ohnisko v Kalifornii souvisí se nedalekým státem Washington i vzdáleným New Yorkem.  
-* Ohnisko na středozápadě USA je heterogenní a je výsledkem řady nezávislých případů zanesení nákazy.
-* Probíhající šíření nákazy ve státech Utah a Idaho je úzce provázané.
-* Rozhodnutí přijímaná jednotlivými státy USA mají hluboký dopad na osud ostatních států. Bezpečné uvolňování omezení v libovolném státě bude vyžadovat koordinovanou kontrolu tak, aby všechny státy jednaly v zájmu vzájemné ochrany.
+* Epidemia w stanie Nowym Jorku ma kosmopolityczne pochodzenie, ale większość przypadków jest związana z introdukcjami z Europy.
+* Epidemia w mieście Nowy Jork pokazuje, że przypadki z wszystkich 5 dzielnic są ze sobą wymieszane.
+* Epidemia w stanie Kalifornia jest powiązana z przypadkami w pobliskim stanie Waszyngton jak i odległym Nowym Jorku.
+* Epidemia w środkowo-zachodnich Stanach Zjednoczonych ma heterogeniczne pochodzenie i jest wynikiem wielu niezależnych introdukcji.
+* Trwające epidemie w stanach Utah i Idaho są ściśle powiązane.
+* Decyzje podjęte przez każdy stan mają ogromny wpływ na losy w pozostałych stanach. Bezpieczne złagodzenie restrykcji w jakimkolwiek stanie wymaga skoordynowanych działań wszystkich stanów. <!--shortened a bit, I think reads better -->
+
+<!-- We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
+
+* The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
+* The outbreak in New York City shows mixing of cases across all 5 boroughs.  
+* The outbreak in California is related to both nearby Washington State and distant New York.  
+* The Midwest outbreak is heterogeneous and is the result of many independent introductions.
+* Ongoing outbreaks in Utah and Idaho are closely related.
+* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other. -->
 
 
 ```
@@ -64,127 +77,157 @@ Provedli jsme analýzu 1 347 veřejně dostupných genomů viru SARS-CoV-2 ze Sp
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-Připravili jsme materiály dostupné online, které usnadňují interpretaci zde uváděných dat.
-#### Zdroje na webu Nextstrain  
-* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/).  
-* [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Materiały o COVID-19](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+Przygotowaliśmy materiały online, które ułatwią interpretowanie przygotowanych danych:
+#### Materiały Nextstrain  
+* [ZACZNIJ TUTAJ: Jak interpretować drzewa filogenetyczne](https://nextstrain.org/narratives/trees-background/pl).  
+* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-13?n=11).
 
-#### Externí zdroje  
-* [Zeptejte se odborníka a časté dotazy](https://covid19.fas.org/l/en).
-* [Situační zprávy Světové zdravotnické organizace (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [Zdroje publikované Centrem pro kontrolu a prevenci nemocí (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Informace o nemoci COVID-19 v deníku The New York Times](https://www.nytimes.com/news-event/coronavirus).
+#### Inne źródła  
+* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Poznámka k odběru vzorků](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-V současnosti máme k dispozici sekvence ze vzorků odebraných ve 36 státech. To je neuvěřitelný úspěch – sekvenování neznámého, velkého RNA viru uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
+# [Opis próbkowania](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+Obecnie dysponujemy sekwencjami próbek pobranych w 36</tag> stanach. To niesamowity wyczyn -- sekwencjonowanie nieznanego wirusa o sporym genomie RNA w środku pandemii jest trudne i możliwe jedynie dzięki ogromnej pracy i sprawnemu udostępnianiu danych przez naukowców i lekarzy z całego świata.
 <br><br>
-I když nám tato data umožňují vyvodit mnoho užitečných charakteristik propuknutí nákazy a sledovat její šíření v reálném čase, je důležité zdůraznit, že naše závěry jsou limitovány dostupnými údaji.
+Choć zgromadzone dane umożliwiają wyciąganie wniosków na temat wielu przydatnych aspektów epidemii oraz pozwalają śledzić jej rozprzestrzenianie w czasie rzeczywistym, należy podkreślić, że nasze wnioski są ograniczone dostępnością danych.
 <br><br>
-Mapa například ukazuje relativně málo sekvencí z střední části Spojených států. Důvodem rozhodně není to, že by se nemoc COVID-19 snad v těchto oblastech nevyskytovala nebo že by zjištěné případy nebyly natolik zásadní, abychom se jim snažili porozumět. Z těchto oblastí především nemáme k dispozici dostatečné množství údajů. Velikost jednotlivých kruhů na mapě tedy neoznačuje skutečný rozsah nákazy, ale spíše kolik dat je aktuálně z dané oblasti k dispozici.
+Na przykład, mapa pokazuje bardzo niewiele sekwencji z środkowych Stanów Zjednoczonych. Powodem NIE jest to, że COVID-19 nie znajduje się w tych regionach, bądź przypadki z tych regionów są mniej istotne dla zrozumienia sytuacji; powodem jest po prostu niewielka ilość danych docierająca z tych obszarów. Wielkość każdego kółka na mapie wskazuje, jak wiele danych z tego regionu jest dostępnych w danym momencie, a nie jaka jest rzeczywista skala ogniska epidemii.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Provázání hlavního newyorského kladu s evropským ohniskem](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
-
-Jak jste mohli zahlédnout [tento týden ve zprávách](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), většina vzorků viru z New Yorku (barevné) je těsně seskupena se vzorky z Evropy (šedé).
+# [Główny klad z Nowego Jorku jest powiązany z epidemią w Europie](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+Jak zapewne widzieliście [w wiadomościach z tego tygodnia](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html),  większość próbek wirusa pobranych w stanie Nowy Jork (kolorowe) grupuje się ściśle z próbkami z Europy (szare).
 <br><br>
-Newyorský klad (neboli všechny dceřiné větve se společným předkem) je olemován i proložen sekvencemi z Evropy, což jasně naznačuje, že většina raných případů je výsledkem zanesení nákazy z Evropy.
+Klad z Nowego Jorku jest zarówno otoczony, jak i przemieszany z próbkami z Europy, co silnie sugeruje, że większość wczesnych przypadków wynikło w związku z introdukcją wirusa z Europy.
+
+<!-- [Main New York clade linked to European outbreak], 
+As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).
+<br><br>
+The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.-->
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Mnoho případů přenosu do New Yorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
-
-Většinová část ohniska nákazy v New Yorku má původ v přenosu z Evropy). Kontextuální sekvence z jiných oblastí světa nám však umožňují pozorovat další případy zanesení nákazy do města New York. V souladu s kosmopolitní povahou města se v New Yorku vyskytují případy úzce související se vzorky každého jiného světového regionu.
+# [Liczne introdukcje do Nowego Jorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+Większa część epidemii w Nowym Jorku została zapoczątkowana w wyniku jednej bądź wielu introdukcji z Europy. Ale dane na temat sekwencji z innych regionów świata pozwalają nam zaobserwować dodatkowe introdukcje do miasta Nowy Jork. Zgodnie z jego kosmopolityczną naturą, znajdujemy w mieście Nowy Jork przypadki blisko spokrewnione z próbkami z każdego innego regionu świata.
 <br><br>
-Rané newyorské případy pravděpodobně představují případy přenosu nákazy z vnějšího prostředí. Později v průběhu šíření nákazy vidíme daleko vyšší míru mísení mezi evropskými a newyorskými vzorky, na základě čehož je
-směr pozdějších případů přenosu méně zřejmý. Jak jsme referovali [minulý týden](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=11), existují rovněž důkazy o nedávném zpětném přenosu z USA do Evropy a Asie.
+Wczesne przypadki z Nowego Jorku przedstawiają najprawdopodobniej transmisje przychodzące do regionu<!-- here I'm not sure -->. Później w trakcie epidemii, obserwujemy więcej mieszania się próbek z Europy i Nowego Jorku, co utrudnia śledzenie kierunku transmisji w późniejszych etapach epidemii. Jak raportowaliśmy [w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=11), mamy również dowody na niedawne introdukcje z USA do Europy i Azji.
+
+<!-- [Many introductions to New York]
+The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
+<br><br>
+The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
+direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.-->
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Vzájemné mísení případů ze všech 5 městských obvodů New Yorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [Mieszanie się przypadków w obrębie 5 dzielnic Nowego Jorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+W mieście Nowy Jork nie widzimy grupowania się przypadków względem dzielnic. Jest to zgodne z częstym przemieszczaniem się wirusa wewnątrz miasta.
 
-V rámci města New York vidíme jen malé rozdíly mezi jednotlivými případy podle městského obvodu. Toto zjištění je v souladu s častým mísením případů v rámci města.
+<!-- [Intermingling of cases from all 5 NYC boroughs]
+Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.-->
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Propuknutí nákazy v Kalifornii souvisí se nedalekými i vzdálenými státy](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [Ognisko epidemii w Kalifornii powiązane z bliskimi i odległymi stanami](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+Widzimy również dowody na wielokrotne introdukcje z innych stanów. Na przykład, przypadki w Kalifornii obejmują różnorodność genetyczną całego drzewa, grupując się z próbkami zarówno z  pobliskiego stanu Waszyngton, jak i Nowego Jorku. Jest to dowód na transmisje wirusa pomiędzy Kalifornią i bliskimi, jak i daleko położonymi stanami.
 
-Pozorujeme také důkazy o opakovaných přenosech mezi státy. Například případy z Kalifornie pokrývají genetickou diverzitu celého stromu a seskupují se se vzorky z nedalekého státu Washington i z New Yorku. To je důkazem přenosu mezi Kalifornií a blízkými i vzdálenými státy.
+<!-- [California outbreak related to both nearby and distant states]
+We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.-->
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Ohniska na středozápadě USA vyvolalo mnoho případů zanesení nákazy](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [Epidemie w Środkowym Zachodzie wywodzą się z licznych introdukcji](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+Zaznaczając sekwencje z środkowo-zachodnich Stanów Zjednoczonych na drzewie, widzimy, że przypadki z tego regionu są równomiernie rozprzestrzenione na drzewie i nie tworzą ścisłych klastrów. To mówi nam, że nastąpiły wielokrotne, niezależne introdukcje do tych stanów, z kilkoma różnymi łańcuchami transmisji będącymi w obiegu w tym samym czasie.
 
-Pokud zvýrazníme sekvence ze středozápadu USA, vidíme, že případy z této oblasti netvoří řadu těsných klastrů, ale jsou v rámci stromu rozmístěny spíše rovnoměrně. Tato skutečnost ukazuje, že došlo k řadě nezávislých případů zanesení nákazy do těchto států a že se zde souběžně vyskytuje několik různých linii přenosu.
+<!-- [Midwest outbreaks were seeded by many introductions]
+Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.-->
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Související ohniska v horských státech na západě USA](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [Powiązane epidemie w stanach Gór Skalistych](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+Kilka introdukcji nastąpiło również w stanach Gór Skalistych. Na przybliżeniu widzimy wyraźny łańcuch transmisji przebiegający przez Idaho. Co ważne, ten zestaw przypadków jest otoczony grupą przypadków z Utah, pokazując ścisły związek pomiędzy tymi dwoma ogniskami epidemii.  
 
-Také do horských států na západě USA byla nákaza zanesena několika způsoby. Po přiblížení vidíme jasně zřetelnou linii přenosu procházející napříč státem Idaho. Za povšimnutí stojí, že je tento soubor případů lemován klastrem případů z Utahu, což ukazuje úzký vztah mezi těmito dvěma ohnisky nákazy.
+<!-- [Related outbreaks across the Rocky Mountain West]
+There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.-->
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Co můžete udělat vy](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
-#### ... jako běžný občan
-* Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
-* Na veřejnosti nosit roušku.
-* Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
-* Myjte si ruce, „jako byste právě nakrájeli silně pálivou papriku a chystali se vyměnit si kontaktní čočky“.  
-* Co nejvíce se zdržujte doma – zejména pokud jste nemocní. Pořiďte si zásoby pro případ, že budete muset zůstat v domácí karanténě.  
-* Jste-li zaměstnavatel, nabídněte všem zaměstnancům, u kterých je to možné, práci z domova.
+# [Co możesz zrobić](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+#### ...jako jednostka
+* Stosuj ścisłą izolację społeczną, zwłaszcza jeśli jesteś w grupie podwyższonego ryzyka.
+* Noś maseczkę ochronną w miejscach publicznych.
+* Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
+* Myj ręce "jakbyś właśnie pokroił papryczkę jalapeno i musiał zmienić soczewkę kontaktową".  
+* Zostań w domu na tyle, na ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
+* Jeśli jesteś pracodawcą, zachęć swoich pracowników, aby pracowali z domu, gdziekolwiek jest to możliwe.
 
-#### ... jako představitel veřejné moci  
-* Zpřístupněte bezplatné a široce dostupné testování.  
-* Zaveďte přísná pravidla omezení společenského kontaktu (tzv. social distancing).  
-* Financujte a zavádějte rozsáhlé projekty trasování kontaktů.  
-* Podpořte finančně osoby postižené pravidly omezení společenského kontaktu.
+#### ...jako urzędnik  
+* Spraw, aby testy na obecność wirusa były darmowe i szeroko dostępne.  
+* Wprowadź ścisłe regulacje ograniczające bezpośrednie kontakty.
+* Sfinansuj i wprowadź obszerne śledzenie kontaktów.  
+* Wspomóż finansowo tych, którzy najbardziej ucierpią w wyniku ograniczania kontaków.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Klíčové závěry
+# Konkluzje
+* Introdukcje z Europy przyczyniły się w największym stopniu do ogniska epidemii w Nowym Jorku, ale wystąpiły również introdukcje z innych części świata.
+<br><br>
+* W miarę postępowania epidemii, możemy również obserwować dowody na reintrodukcje z USA do Europy i Azji. 
+<br><br>
+* Ognisko epidemii w mieście Nowy Jork pokazuje mieszanie się przypadków z wszystkich 5 dzielnic.
+<br><br>
+* Ognisko epidemii w Kalifornii jest powiązane zarówno z epidemią w pobliskim stanie Waszyngton, jak i epidemią w odległym Nowym Jorku.
+<br><br>
+* Ognisko epidemii w Środkowym Zachodzie ma heterogeniczne pochodzenie, z licznymi łańcuchami transmisji będącymi w obiegu w tym regionie.
+<br><br>
+* Ogniska epidemii w Utah i Idaho są ściśle powiązane; transmisje w obrębie społeczności trwają.
+<br><br>
+* Decyzje podjęte przez każdy stan mają znaczny wpływ na losy pozostałych stanów. Aby w bezpieczny sposób złagodzić panujące restrykcje w jakimkolwiek stanie, wszystkie stany muszą działać w sposób skoordynowany.
 
-* Hlavním zdrojem nákazy v New Yorku byly případy zanesení viru z Evropy, současně ale docházelo k přenosu i z jiných oblastí světa.
+
+<!-- * Introductions from Europe seeded the majority of the New York outbreak, but there were also introductions from other areas of the world.
 <br><br>
-* Během postupného šíření nákazy pozorujeme rovněž důkazy o zpětném přenosu z USA do Evropy a Asie.
+* As the outbreak has progressed, we also see evidence for re-introductions from the U.S. to Europe and Asia.
 <br><br>
-* Ohnisko nákazy ve městě New York vykazuje příznaky mísení případů napříč všemi pěti městskými obvody.
+* The outbreak in New York City shows mixing of cases across all 5 boroughs.
 <br><br>
-* Ohnisko v Kalifornii souvisí se nedalekým státem Washington i vzdáleným New Yorkem.
+* The outbreak in California is related to both nearby Washington State and distant New York.
 <br><br>
-* Ohnisko ve středozápadních státech je heterogenní a v této oblasti se vyskytuje několik linií přenosu.
+* The Midwest outbreak is heterogeneous, with multiple transmission chains circulating in the region.
 <br><br>
-* Ohniska nákazy ve státech Utah a Idaho spolu úzce souvisí a trvá zde komunitní přenos.
+* Outbreaks in Utah and Idaho are closely related, with ongoing community transmission.
 <br><br>
-* Rozhodnutí přijímaná jednotlivými státy USA mají hluboký dopad na osud ostatních států. Bezpečné uvolňování omezení v libovolném státě bude vyžadovat koordinová omezení tak, aby všechny státy jednaly v zájmu vzájemné ochrany.  
+* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  -->
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -197,20 +240,20 @@ Také do horských států na západě USA byla nákaza zanesena několika způs
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+# [Podziękowania](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou, zejména těch, kteří pracují v Číně.
-Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
+Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. W szczególności dziękujemy tym, którzy pracują w Chinach. 
+Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
 
 <br>
 
-Dále děkujeme organizaci [GISAID](https://gisaid.org) za poskytnutí platformy, přes kterou lze tyto údaje nahrávat a sdílet.
+Ponadto szczególnie dziękujemy [GISAID](https://gisaid.org) za udostępnienie platformy do wymiany tego typu danych.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovými laboratořemi:
+Dziękujemy za dane zebrane w tych ośrodkach badawczych:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -680,19 +723,19 @@ Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovým
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Individuální poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Szczególne podziękowania](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-Tyto údaje byly sdíleny prostřednictvím neziskové organizace [GISAID](https://gisaid.org).
-Srdečně děkujeme za její pomoc.
+Te dane były udostępniane poprzez platformę [GISAID](https://gisaid.org).
+Szczególnie dziękujemy za wkład ich drużyny.
 
 <br>
 
-Vpravo uvádíme konkrétní sekvence poskytnuté jednotlivými laboratořemi.
+Po prawej stronie znajduje się szczegółowy spis sekwencji opublikowanych przez poszczególne instytucje badawcze.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-Genomy viru SARS-CoV-2 laskavě sdíleli vědci z těchto přispívajících laboratoří:
+Genomy wirusa SARS-CoV-2 zostały udostępnione przez naukowców pracujących w niżej wymienionych instytucjach badawczych:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
