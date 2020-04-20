@@ -106,7 +106,7 @@ Newyorský klad (neboli všechny dceřiné větve se společným předkem) je ol
 <!-- This is left-side text 5-->
 # [Mnoho případů přenosu do New Yorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-Většinová část ohniska nákazy v New Yorku má původ v přenosu z Evropy). Kontextuální sekvence z jiných oblastí světa nám však umožňují pozorovat další případy zanesení nákazy do města New York. V souladu s kosmopolitní povahou města se v New Yorku vyskytují případy úzce související se vzorky každého jiného světového regionu.
+Většinová část ohniska nákazy v New Yorku má původ v přenosu z Evropy). Kontextuální sekvence z jiných oblastí světa nám však umožňují pozorovat další případy zanesení nákazy do města New York. V souladu s kosmopolitní povahou města se v New Yorku vyskytují případy úzce související se vzorky z každého jiného světového regionu.
 <br><br>
 Rané newyorské případy pravděpodobně představují případy přenosu nákazy z vnějšího prostředí. Později v průběhu šíření nákazy vidíme daleko vyšší míru mísení mezi evropskými a newyorskými vzorky, na základě čehož je
 směr pozdějších případů přenosu méně zřejmý. Jak jsme referovali [minulý týden](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=11), existují rovněž důkazy o nedávném zpětném přenosu z USA do Evropy a Asie.
