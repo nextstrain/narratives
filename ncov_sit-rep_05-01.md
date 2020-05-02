@@ -1,5 +1,5 @@
 ---
-title: COVID-19 salgınının genomik analizi. 1 Mayıs 2020 tarihli durum raporu.
+title: Genomic analysis of COVID-19 spread. Situation report 2020-05-01.
 authors:
   - Sidney Bell  
   - Nicola Müller
@@ -17,17 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html/
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: 
-- Zeynep Harcanoğlu 
-- Benura Azeroglu
+translators:
 translatorLinks:
-- https://twitter.com/zharcanoglu
-- https://twitter.com/benuraaa
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
-date: 1 Mayıs 2020
-abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık olarak paylaşılan genomik dizi verilerini kullanmaktadır. Bu hafta Orta ve Doğu Avrupa salgın dinamiklerine odaklanıyoruz."
+date: 2020-May-01
+abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on outbreak dynamics in Central and Eastern Europe."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -35,122 +31,125 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [İçindekiler](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
+# [Table of Contents](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [Arkaplan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-01?n=2).     
-* [Veriler hakkında](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-01?n=3).
-* [Rusya'dan güncellemeler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-01?n=4).
-* [Çek Cumhuriyeti'nden güncellemeler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-01?n=7).
-* [Türkiye'den güncellemeler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-01?n=8).
-* [Polonya'dan güncellemeler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-01?n=9).
-* [Macaristan, Slovakya, Slovenya ve Letonya'dan veriler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-01?n=10).
-* [Ne yapabilirsiniz?](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-01?n=11).
-* [Bilimsel Katkılar](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-01?n=12).
+* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
+* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
+* [Updates for Russia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
+* [Updates for the Czech Republic](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
+* [Updates for Turkey](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
+* [Updates for Poland](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
+* [Data from Hungary, Slovakia, Slovenia and Latvia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
+* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
+* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Yönetici Özeti
+# Executive summary
 
-Şu ana kadar kamuya açık 4.442 COVID-19 genomunu analiz ettik. Bu viral genomları birbirleriyle karşılaştırarak, COVID-19'un dünyada nasıl hareket ettiğini ve yerel ölçekte nasıl yayıldığını ortaya koyabiliriz. Bu haftanın güncellemelerinde Orta ve Doğu Avrupa'ya odaklanıyor ve şunları bildiriyoruz:
+We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on Central & Eastern Europe and report:
 
-* Rusya'ya birden fazla virüs girişi oldu.
-* Moskova'daki salgın heterojendir. 
-* St. Petersburg'daki salgının büyük bir kısmı çoğunlukla Batı Avrupa'dan gelen tek bir virüs girişiyle bağlantılı gözüküyor.  
-* Türkiye'de seyahat ile ilişkili tekrarlanan virüs girişlerini takiben geniş çaplı vaka karışımları,  
-* Yüksek ihtimalle Batı Avrupa'daki tekrarlanan virüs girişleri dolayısıyla Çek Cumhuriyeti'nde en az 5 adet yerli bulaşı zinciri,
-* Polonya'ya en az 11 ayrı virüs girişi oldu. 
-* Macaristan, Letonya, Slovakya ve Slovenya'dan gelen erken örneklerle dair çıkarımlar.  
+* Many introductions to Russia  
+* Heterogeneous outbreak in Moscow  
+* Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
+* Extensive mixing of cases across Turkey following repeated travel-related introductions  
+* At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
+* At least 11 separate introductions to Poland
+* Early samples from Hungary, Latvia, Slovakia and Slovenia  
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Kaynakları](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
-Burada sunduğumuz verilerin yorumlanmasını kolaylaştıracak bazı kaynaklar hazırladık.
-#### Nextstrain Kaynakları  
-* [BURADAN BAŞLA: Filogenetik ağaçları nasıl okumalı?](https://nextstrain.org/narratives/trees-background/tr).  
-* [Koronavirüslerin arkaplanı](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Ortak yanlış kanılar](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19 Resources](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
+We've prepared some resources that will make interpreting the data we present in this narrative easier.
+#### Nextstrain Resources  
+* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### İlave Kaynaklar
-* [SARS-CoV-2 nasıl mutasyona uğrar ve yayılır?](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Bir Biliminsanına Sorun & FAQs](https://covid19.fas.org/).
-* [Dünya Sağlık Örgütü Durum Raporları](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Kaynakları](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Neden koronavirüs bu kadar karmaşık?](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
+#### External Resources  
+* [How SARS-CoV-2 mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Ask a Scientist & FAQs](https://covid19.fas.org/).
+* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Why the coronavirus is so confusing](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Örnekleme hakkında not](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
-Şu anda elimizde 6 kıtadan alınan örneklerden elde ettiğimiz genom dizileri var. Bu kesinlikle inanılmaz bir başarı, çünkü bilinmeyen ve büyük bir RNA virüsünü bir pandeminin ortasında dizilemek oldukça zor ve bu ancak dünyanın dört bir yanındaki bilim insanları ve doktorların olağanüstü çabaları ve verileri hızlıca paylaşabilmeleriyle mümkün.
+# [A note on sampling](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
+We currently have sequences from samples collected across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
 <br><br>
-Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yayılışını gerçek zamanlı olarak takip etmemize olanak sağlasa da, çıkan sonuçların yalnızca eldeki veriler ile sınırlı olduğuna dikkat çekmekte fayda var.
+While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
 <br><br>
-Örneğin, bu haritada İzlanda, Birleşik Krallık and Hollanda’dan çok sayıda genomik dizi verisi var. Bunun nedeni, COVID-19'un bu alanlarda daha fazla yayılmış olması değil, elimizde bu ülkelerden daha çok veri olmasıdır. Haritadaki her dairenin boyutu salgının gerçek boyutunu değil, o bölge hakkında sahip olduğuğumuz veriyi göstermektedir.
+For example, the map shows many samples from Iceland, the U.K., and the Netherlands. This does not necessarily indicate that SARS-CoV-2 is circulating more broadly in these areas; rather, we just have more data available from these countries. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Rusya'ya çoklu virüs girişi](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-Rusya'daki örnekleri vurguladığımızda hem coğrafi olarak (Rusya boyunca) hem de genomik olarak (ağaç boyunca) dağılmış olduklarını görüyoruz.
+Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
 <br><br>
-Bu, Rusya'daki salgının, tek bir virüs girişini takiben oluşan ülke içi salgından ziyade birçok ayrı virüs girişinden kaynaklandığını gösteriyor.
+This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
 <br><br>
-Her ne kadar ağacın alt kısımlarına doğru Asya ile yakından ilişkili birkaç örnek görsek de Rusya'dan gelen örneklerin çok büyük bir kısmı Avrupa kökenli.
+While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Moskova'daki heterojen salgın](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
-Sık dış kaynaklı bulaşılar Moskova örneklerine yakından bakıldığında görülebilir.
+An example of frequent importation can be seen by zooming in on samples from Moscow.
 <br><br>
-Muhtemel yerel bulaşıyı gösteren Moskova'daki diğer örneklerle yakından ilişkili birkaç grup vaka var.
-Ancak, Moskova'daki örneklerin büyük bir çoğu dış kaynaklı vakalarla tutarlı bir şekilde başka yerlerdeki örneklerle yakından ilişkili.
+There are a few clusters of cases which are most closely related to other samples from Moscow, indicating likely local transmission.
+However, most samples from Moscow are most closely related to samples from elsewhere, consistent with importation.
 <br><br>
-Moskova'daki doğrulanmış vakaların sayısı göz önünde bulundurulduğunda, virüs girişlerinin en azından bir kısmının daha fazla yerel bulaşıya yol açması muhtemeldir, ancak bunu görmek için henüz yeterli veriye sahip değiliz.
+Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Mart ayında ilk kıvılcımlarını vermiş St.Petersburg'daki büyük salgın](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
-Bunun tersi bir örneği St. Petersburg'a görebiliriz.
+We can look at St. Petersburg as a counterexample.
 <br><br>
-Moskova'da olduğu gibi, St.Petersburg'da da ağaç boyunca çok sayıda virüs girişi olduğunu gösteren örnekler var.
-Çelişkili bir biçimde, eğer 'Explore the Data Yourself' butonuna tıklarsanız ve bu görüntüdeki ana kümeye zoom yaparsanız  sadece St.Petersburg'daki örneklerden oluşan büyük bir klad görebilirsiniz.
+As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
+Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
 <br><br>
-Bu, bu girişlerden birinin Mart ayının ilk haftasından itibaren St.Petersburg’da geniş çaplı yayılıma sebep olamasi ile tutarlıdır.   Başka bir yerden örneklenmemiş bir ara bulaşı olasılığını göz ardı edemesek de bu büyük salgın kümesi en çok Bati Avrupa'daki örneklerle çok yakında ilişkili.
+This pattern is consistent with one of these introductions to St. Petersburg taking off to spark widespread transmission across the city, starting around the first week of March. This large outbreak cluster is most closely related to samples from Western Europe, although we cannot rule out the possibility of an unsampled, intermediate transmission from elsewhere.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Çek Cumhuriyeti'ndeki 5 ayrı yerel bulaşı zinciri](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Five local transmission chains in the Czech Republic](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
-Çek Cumhuriyeti'nden alının veriler iki farklı girişin karıştığını gösteriyor. 
+The data from the Czech Republic show a mix of these two patterns.
 <br><br>
-Çek Cumhuriyeti'nden izole edilen örneklerin en az yedisinin, yüksek olasıkla, daha önceden Avrupa'da dolanan bir virüsten geliyor olması, 1 Mart ve 2 Nisan arasında yeni girişlere işaret ediyor. 
+There are at least 7 instances where a sample isolated in the Czech Republic descends from a virus that was mostly likely circulating elsewhere in Europe, indicating new introductions between March 1 and April 2.
 <br><br>
-Bu girişlerden 5'i için, aynı zamanda örneklenmiş, yakından ilişkili yerel vakaları da görüyoruz. Bu durum, yerel bulaşı zincirleri ile tutarlıdır.
+For 5 of these introductions, we also see closely related local cases, sampled over time. This is consistent with local transmission.
 <br><br>
-Burdan yola çıkarak, Çek Cumhuriyeti’ne en az 7 giriş oldugunu ve bunlardan en az 5’inin yerel bulaşılara yol açtığını söyleyebiliriz. 
+From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Türkiye genelindeki geniş çaplı vaka karışımları](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
-Ağacın ortasında, Türkiye'nin dört bir yanındaki illerden örneklenmiş bir grup vaka görüyoruz.Bu vakalardan bazıları da yakın geçmişte alakalı vakalar ile birlikte Suudi Arabistan'a seyahat ettiklerini bildirmiştir.
-<br><br> 
-Normalde, geri dönen yolcuların virüsü aynı ortamda yaşadıkları diğer bireylere veya komşularına geçirdiğini varsayabiliriz. Fakat ilginçtir ki, bu vakalar kendileri ile yakından ilişkili vakalardan ziyade genellikle farklı illerdeki vakalar ile örneklenmiştir.
+In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
+Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
 <br><br>
-Bu, viral soyların kapsamlı bir şekilde karıştığını ve bir hafta içinde Türkiye'nin birçok iline ulaştığını göstermektedir. Ayrıca, daha fazla araştırma için ek epidemiyolojik verilere ihtiyacımız olsa dahi, kalabalık toplantıların bu gözlemlere açıklık getirebileceğini düşünüyoruz.
+Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
+Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
+<br><br>
+This indicates that there has been extensive mixing of viral lineages, reaching many provinces of Turkey within one week.
+We may also speculate that a large gathering could explain these observations, although we would need additional epidemiological data to further investigate.
 <!-- There is no right-side text -->
 
 
@@ -158,54 +157,55 @@ Bu, viral soyların kapsamlı bir şekilde karıştığını ve bir hafta içind
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Polonya'ya en az 11 ayrı virüs girişi](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [At least 11 introductions to Poland](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-Nextstrain'de Polonya'dan gelen 15 genom dizisi bulunmaktadir. Bunların en az 11'i dünyanın farklı yerlerinden gelen ayrı virüs girişlerini temsil etmektedir.
-Moskova'da olduğu gibi, tanılanmış vakaların sayısı göz önüne alındığında, bu virüs girişlerinin birçoğunun Polonya'da yerel bulaşı zincirlerinin tohumlarını attığını söyleyebiliriz, ancak bunu genomik verilerde henüz göremiyoruz
+We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
+As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Macaristan, Letonya, Polonya, Slovakya ve Slovenya'dan gelen erken örnekler](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Early samples from Hungary, Latvia, Slovakia and Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
-Mart ayında Macaristan, Letonya, Slovakya ve Slovenya'dan 20 genom dizi gönderildi. Bu ülkelerden kesin sonuçlar çıkarmak için henüz yeterli veriye sahip olmasak da, bu erken çabaları alkışlıyoruz ve gelen verileri takip etmeye devam edeceğiz.
+In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
+While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data.
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Ne Yapabilirsiniz?](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...bireysel olarak
-* Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız.
-* Hassas grupta olmasanız da etrafınızdaki pek çok kişinin bu kategoriye girdiğini unutmayın. Diğerlerini korumak için bu kurallara uyun.
-* Ellerinizi "acı biber doğradıktan sonra lenslerinizi değiştirmek zorundaymışçasına" yıkayın.
-* Mümkün olabildiğince evde kalın -- özellikle de hastaysanız kendinizi karantinaya alma durumunda yeterli olacak malzemelerinizi hazır edin.  
-* Eğer bir işverenseniz, mümkün olduğunca çalışanlarınızın evden çalışmalarına izin verin veya teşvik edin.
+# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...as an individual
+* Practice strict social distancing, especially if you are in a vulnerable group.
+* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
+* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
+* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
+* If you are an employer, encourage your employees to work from home wherever possible.
 
-#### ...yetkililer olarak
-* Testleri ücretsiz ve geniş ölçüde yapılabilir hale getirin.
-* Sert sosyal mesafe uygulamalarını yürürlüğe koyun.
-* Kapsamlı temas izleme çalışmalarına maddi destek verin ve uygulamaya geçirin.
-* Sosyal mesafe önlemlerinden etkilenenleri maddi olarak destekleyin.
+#### ...as an official  
+* Make testing free and broadly available.  
+* Put strong social distancing measures in place.  
+* Fund and implement extensive contact tracing efforts.  
+* Financially support those impacted by social distancing measures.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Buradan çıkarılacak sonuçlar
+# Takeaways
 
-#### SARS-COV-2 Rusya’ya bircok kez giriş yapmıştır. Moskova'daki salgin heterojen bir yapiya sahipdir.
+#### SARS-COV-2 has been introduced to Russia many times; Moscow's outbreak is highly heterogeneous.
 <br><br>
-#### St. Petersburg'daki birden fazla giriş oldu.  Mart ayının başlarında Batı Avrupa kaynaklı virüs girişi büyük bir yerel vaka kümesine sebep olmuştur.  
+#### There have been multiple introductions to St. Petersburg. One of these introductions, from Western Europe in early March, sparked a large cluster of locally transmitted cases.
 <br><br>
-#### Türkiye'de seyehat ile ilişkili tekrarlanan virüs girişlerini takiben geniş çaplı ve hızlı viral soy karışımları olmuştur.
+#### Following repeated travel-related introductions, there has been extensive and rapid mixing of viral lineages across Turkey.
 <br><br>
-#### Çek Cumhuriyeti'ne az 5 ayrı yerel bulaşı zinciri dolaşmaktadır.
+#### There are at least 5 local transmission chains circulating across the Czech Republic.  
 <br><br>
-#### Polonya'ya en az 11 ayrı virüs girişi oldu.
+#### There have been at least 11 separate introductions of the virus to Poland.  
 <br><br>
-#### Elimizde Macaristan, Letonya, Slovakya ve Slovenya'dan örnekler var. Fakat sonuç çıkarmak için yeterli veriye sahip olmamakla birlikte, gelen verileri takip etmeye ve mümkün olan en kısa sürede güncelleme yapmaya devam edeceğiz.
+#### We have received early samples from Hungary, Latvia, Slovakia and Slovenia. While we don't yet have enough data to draw conclusions, we will continue monitoring and provide updates as soon as possible.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -218,20 +218,20 @@ Mart ayında Macaristan, Letonya, Slovakya ve Slovenya'dan 20 genom dizi gönder
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Bilimsel Katkılar](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Scientific credit](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
 
-Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına teşekkür etmek istiyoruz. Bu gibi çalışmalar yalnızca genomik verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
+We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
+Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
 <br><br>
-Her laboratuvardan elde edilmiş spesifik genomik diziler [burada listelenmiştir](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
+The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
 <br><br>
-Ayrıca, bu verilerin yüklenebileceği ve paylaşılabileceği platformu sağladığı için GISAID minnettarlıkla teşekkür ederiz.
-
+We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
+We are grateful for the data gathered by these originating labs:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
