@@ -23,7 +23,6 @@ translators:
 translatorLinks:
   - https://twitter.com/DrSalehAhmad
   - https://twitter.com/biofadialnaji
-translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
