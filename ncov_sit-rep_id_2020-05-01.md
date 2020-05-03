@@ -40,7 +40,7 @@ abstract: "Laporan mingguan ini menggunakan data genomik yang dibagikan secara p
 * [Bacaan latar belakang](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-05-01?n=2).     
 * [Perihal data ini](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-05-01?n=3).
 * [Pembaruan untuk Rusia](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-05-01?n=4).
-* [Pembaruan untuk Republik Ceko](https://nextstrain.org/narratives/ncov/id/sit-rep/2020-05-01?n=7).
+* [Pembaruan untuk Republik Ceko](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-05-01?n=7).
 * [Pembaruan untuk Turki](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-05-01?n=8).
 * [Pembaruan untuk Polandia](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-05-01?n=9).
 * [Data dari Hongaria, Slowakia, Slovenia, dan Latvia](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-05-01?n=10).
