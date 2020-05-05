@@ -43,7 +43,7 @@ abstract: "Questo rapporto usa sequenze genomiche virali pubblicamente condivise
 <!-- * [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).-->
 * [Risorse di base](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-05-01?n=2). 
 <!-- * [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).-->
-* [Una nota sulla raccolta dei campioni](https://nextstrain.org/narratives/ncov/sit-rep/it/020-05-01?n=3).
+* [Una nota sulla raccolta dei campioni](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-05-01?n=3).
 <!-- * [Updates for Russia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).-->
 * [Aggiornamenti sulla Russia](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-05-01?n=4).
 <!--* [Updates for the Czech Republic](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).-->
