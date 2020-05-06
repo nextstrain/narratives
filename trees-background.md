@@ -107,7 +107,7 @@ Based on this tree, we would conclude that A & B closely related to each other, 
 Let's take a look at the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared. Just as on the last page, we built an alignment of these viral sequences (you can see how all of the analyses mentioned here were done [on GitHub](https://github.com/nextstrain/ncov)).
 <br><br>
 Here we're displaying the phylogenetic tree above a bar-chart showing the variation (i.e. mutations) in the genome.
-Without these mutations we couldn't build the tree, so the two are intimitely connected.
+Without these mutations we couldn't build the tree, so the two are intimately connected.
 <br><br>
 In this "diversity" panel, the horizontal axis is each site in the viral genome (all thirty thousand or so of them!).
 The vertical axis indicates how much variability there is at each site.
