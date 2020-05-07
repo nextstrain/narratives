@@ -119,7 +119,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <!-- This is left-side text 5-->
 # [최소 7번의 유입이 발생한 콩고민주공화국](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-콩고민주공화국에서 확인된 [코로나19 확진 사례는 359건이고, 25명이 사망](https://africacdc.org/covid-19/) 했습니다. Nextstrain에서는 40건의 콩고민주공확국 염기서열 자료 표본을 가지고 있습니다.
+콩고민주공화국에서 확인된 [코로나19 확진 사례는 359건이고, 25명이 사망](https://africacdc.org/covid-19/) 했습니다. Nextstrain에서는 40건의 콩고민주공화국 염기서열 자료 표본을 가지고 있습니다.
 <br><br>
 이 사례들은 계통수 곳곳에 퍼져 있으며, 최소 7번의 개별적인 유입이 있었다는 것을 보여줍니다. 이 슬라이드에서는 유입을 바이러스 표본(계통수 끝 부분)과 조상(내부 노드 또는 가지가 갈라지는 지점) 사이의 색상 차이를 통해 표시했습니다.
 <br><br>
@@ -129,7 +129,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [킨사샤 지역에서 2건의 전파 연쇄 해당 지역 내에서 발생하였으며, 이는 3월 초에 유입된 것으로 보임](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
+# [킨사샤 지역에서 2건의 전파 연쇄가 해당 지역 내에서 발생하였으며, 이는 3월 초에 유입된 것으로 보임](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
 분기군들을 확대해서 보면, 지역사회 전파를 초래했을 것으로 보이는 2개의 사례군을 확인할 수 있습니다.
 이 지역사회 전파는 동일한 지역의 사례군처럼 보이는데, 이 사례군은 시간이 지남에 따라 표본 수집이 이루어졌으며, 이 기간 동안 유전적 다양성(더 많은 돌연변이를 의미하며 더 긴 계통수 가지의 길이로 표현됨)을 축적한 것으로 보입니다.
@@ -140,8 +140,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <br><br>
 이를 통해, 2020년 3월 초에서 4월 초 사이에 킨사샤 지역 내에서 최소 2개의 개별적인 전파 연쇄가 순환했다는 결론을 내릴 수 있었습니다.
 <br><br>
-콩고민주공화국은 3월 10일에 첫 코로나19 사례를 [WHO에 보고했습니다](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf).
->>>>>>> sit-rep_ko
+콩고민주공화국은 3월 10일에 첫 코로나19 사례를 [WHO에 보고했습니다](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf).    
 Nextstrain에서의 첫 번째 표본은 3월 9일에 수집되었으며, [3월 27일 상황 보고서](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=16) 에 보고되었습니다.
 <!-- There is no right-side text -->
 
