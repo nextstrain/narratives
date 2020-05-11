@@ -60,7 +60,7 @@ Chúng tôi đã tiến hành phân tích 2.226 bộ gen COVID-19 được chia 
 # [Tài nguyên về COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 Chúng tôi đã chuẩn bị sẵn một số tài nguyên để giúp người đọc diễn giải dữ liệu trình bày trong báo cáo tường thuật này được dễ dàng hơn.
 #### Tài nguyên của Nextstrain  
-* [BẮT ĐẦU Ở ĐÂY: Cách đọc hiểu cây phát sinh chủng loại](https://nextstrain.org/narratives/trees-background/).  
+* [BẮT ĐẦU Ở ĐÂY: Cách đọc hiểu cây phát sinh chủng loại](https://nextstrain.org/narratives/trees-background/vi).  
 * [Bối cảnh về vi-rút corona](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Các quan niệm sai lầm thường gặp](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
