@@ -60,7 +60,7 @@ abstract: "এই সাপ্তাহিক রিপোর্টে COVID-19 
 # [COVID-19 এর রিসোর্সসমূহ](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 আমরা কিছু রিসোর্স প্রস্তুত করেছি যেগুলো আমাদের এই বর্ণনায় উপস্থাপিত ডাটা ব্যাখ্যা করাকে সহজতর করবে।
 #### Nextstrain-এর রিসোর্সসমূহ  
-* [এখান থেকে শুরু করুন: কিভাবে একটি ফাইলোজেনি পড়তে হবে](https://nextstrain.org/narratives/trees-background/).  
+* [এখান থেকে শুরু করুন: কিভাবে একটি ফাইলোজেনি পড়তে হবে](https://nextstrain.org/narratives/trees-background/bn).  
 * [করোনাভাইরাস এর পটভূমি](https://nextstrain.org/help/coronavirus/human-CoV).
 * [সাধারণ ভুল ধারণাসমূহ](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
