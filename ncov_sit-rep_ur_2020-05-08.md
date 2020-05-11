@@ -60,7 +60,7 @@ abstract: "یہ ہفتہ واری رپورٹ COVID-19 کے پھیلاؤ کا پ�
 # [COVID-19 سے متعلق وسائل](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 ہم نے چند وسائل تیار کیے ہیں جو ہمارے اس بیان میں پیش کردہ ڈیٹا کی تشریح کو آسان بنائیں گے۔
 #### Nextstrain وسائل  
-* [یہاں سے شروع کریں: نسلی ارتقاء کو کیسے پڑھیں](https://nextstrain.org/narratives/trees-background/).  
+* [یہاں سے شروع کریں: نسلی ارتقاء کو کیسے پڑھیں](https://nextstrain.org/narratives/trees-background/ur).  
 * [کورونا وائرسز کا پس منظر](https://nextstrain.org/help/coronavirus/human-CoV).
 * [عام غلط فہمیاں](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
