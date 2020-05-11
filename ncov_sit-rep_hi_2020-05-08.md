@@ -60,7 +60,7 @@ abstract: "यह साप्ताहिक रिपोर्ट COVID-19 क
 # [COVID-19 संसाधन](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 हमने कुछ संसाधन तैयार किए हैं जो इस कहानी में हमारे द्वारा प्रस्तुत आंकड़ों की व्याख्या आसान बना देंगे।
 #### Nextstrain संसाधन  
-* [यहां आरंभ करें: जातिवृत्त कैसे पढ़ें](https://nextstrain.org/narratives/trees-background/).  
+* [यहां आरंभ करें: जातिवृत्त कैसे पढ़ें](https://nextstrain.org/narratives/trees-background/hi).  
 * [कोरोनावायरसों की पृष्ठभूमि](https://nextstrain.org/help/coronavirus/human-CoV).
 * [आम गलत-धारणाएं](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
