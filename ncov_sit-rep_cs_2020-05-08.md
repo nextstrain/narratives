@@ -59,7 +59,7 @@ Provedli jsme analýzu 2 226 veřejně dostupných genomů viru způsobujícího
 # [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 Připravili jsme materiály dostupné online, které usnadňují interpretaci zde uváděných dat.
 #### Zdroje na webu Nextstrain  
-* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/).  
+* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/cs).  
 * [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
