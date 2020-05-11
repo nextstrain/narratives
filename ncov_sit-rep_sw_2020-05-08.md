@@ -60,7 +60,7 @@ Tulichunguza jeni 2,226 za COVID-19 zinazoonyeshwa kwa umma. Kwa kulinganisha je
 # [Nyenzo za COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 Tumeandaa nyenzo zitakazosaidia kurahisisha ufasiri wa data tuliyowasilisha katika makala haya.
 #### Nyenzo za Nextstrain  
-* [ANZA HAPA: Jinsi ya kufasiri mchoro wa kimatawi wa kifilojenetiki](https://nextstrain.org/narratives/trees-background/).  
+* [ANZA HAPA: Jinsi ya kufasiri mchoro wa kimatawi wa kifilojenetiki](https://nextstrain.org/narratives/trees-background/sw).  
 * [Utangulizi kuhus virusi vya corona](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Dhana potovu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
