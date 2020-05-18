@@ -165,7 +165,7 @@ Salah satu hipotesis paling menonjol tentang galur SARS-CoV-2 membandingkan kemu
 
 [Sebuah pra-cetak baru-baru ini](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) menunjukkan bahwa satu mutasi, D614G (dari asam amino "D" ke "G" pada situs 614 di protein "S" ['*spike*']), mungkin bertanggung jawab untuk meningkatkan transmisibilitas SARS-CoV-2.
 <br><br>
-Di banyak wilayah geografis, frekuensi relatif 614D dibandingkan dengan 614G meningkat seiring waktu.
+Di banyak wilayah geografis, frekuensi relatif 614G dibandingkan dengan 614D meningkat seiring waktu.
 Jika suatu genotipe meningkatkan transmisibilitas, kita dapat menduga bahwa frekuensinya meningkat seiring waktu.
 Namun demikian, ada penjelasan lain mengapa frekuensi relatif dari genotipe tertentu dapat meningkat seiring waktu.
 <br><br>

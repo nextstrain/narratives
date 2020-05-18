@@ -161,7 +161,7 @@ Jedna z nejvýznamnějších hypotéz o kmenech SARS-CoV-2 porovnává možné k
 
 [Nedávno zveřejněný článek](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1), který zatím neprošel kritickým posouzením vědeckou komunitou, naznačuje, že za zvýšení přenosnosti viru SARS-CoV-2 může být odpovědná jediná mutace, a to D614G (z aminokyseliny D na G v pozici 614 v proteinu S („spike“)).
 <br><br>
-V mnoha geografických oblastech se relativní četnost výskytu 614D ve srovnání s 614G postupem času zvyšovala.
+V mnoha geografických oblastech se relativní četnost výskytu 614G ve srovnání s 614D postupem času zvyšovala.
 Pokud určitý genotyp vede k vyšší přenosnosti, očekáváme, že se jeho četnost v průběhu času zvyšuje.
 Existují však i jiná vysvětlení, proč by se relativní četnost některých genotypů časem mohla zvyšovat.
 <br><br>

@@ -161,7 +161,7 @@ L'une des principales hypothèses concernant les souches du SARS-CoV-2 compare l
 
 [Un préimprimé récent](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggère qu'une seule mutation, D614G (de l'acide aminé "D" à "G" au site 614 dans la protéine "S" ("spike")), pourrait être responsable de l'augmentation de la transmissibilité du SARS-CoV-2.
 <br><br>
-Dans de nombreuses zones géographiques, la fréquence relative du 614D par rapport au 614G a augmenté avec le temps.
+Dans de nombreuses zones géographiques, la fréquence relative du 614G par rapport au 614D a augmenté avec le temps.
 Si un certain génotype conduit à une meilleure transmissibilité, on peut s'attendre à ce que sa fréquence augmente avec le temps.
 Il existe cependant d'autres explications à l'augmentation de la fréquence relative de certains génotypes au fil du temps.
 <br><br>

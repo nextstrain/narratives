@@ -159,7 +159,7 @@ Eine der bekanntesten Hypothesen zu SARS-CoV-2 Stämmen vergleicht mögliche "D6
 
 [Ein kuerzlich veroeffentliches preprint](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) deutet darauf hin, dass eine einzelne Mutation - D614G (Aminosaeure "D" zu "G" an der Stelle 614 im "S" ('spike') Protein) - moeglicherweise fuer die hoehere Uebertragbarkeit von SARS-CoV-2 verantwortlich ist.
 <br><br>
-In vielen geografischen Regionen hat die relative Haeufigkeit von 614D im Vergleich zu 614G ueber die Zeit zugenommen.
+In vielen geografischen Regionen hat die relative Haeufigkeit von 614G im Vergleich zu 614D ueber die Zeit zugenommen.
 Falls ein bestimmter Genotyp zu einer besseren Uebertragbarkeit fuehrt, wuerden wir erwarten, dass seine Haeufigkeit ueber die Zeit zunimmt. Es gibt aber auch andere Erklaerungen dafuer, dass die relative Haeufigkeit von einigen Genotypen ueber die Zeit zunimmt.
 <br><br>
 Fuer diese Position sehen wir eine Anzahl an geografischen Lokalisationen, wo zu Beginn viele viralen Linien mit dem D-Allel zirkulierten; spaeter drehte sich das Gleichgewicht und die meisten Linien weisen das G-Allel auf.
