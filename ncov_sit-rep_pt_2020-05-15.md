@@ -166,7 +166,7 @@ Uma das hipóteses mais proeminentes sobre as cepas de SARS-CoV-2 compara possí
 
 [Um pre-print recente](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) sugere que uma única mutação, D614G (do aminácido "D" para "G" no sítio 614 na proteína "S" ('spike')), pode ser responsável por aumentar a capacidade de transmissão do SARS-CoV-2.
 <br><br>
-Em diferentes áreas geográficas, a frequência relativa de 614D comparada com 614G aumentou ao longo do tempo.
+Em diferentes áreas geográficas, a frequência relativa de 614G comparada com 614D aumentou ao longo do tempo.
 Se um determinado genótipo leva a uma melhor capacidade de transmissão, nós experaríamos que a sua frequência aumentasse ao longo do tempo.
 Existem, porém, outras explicações para o aumento da frequencia relativa de alguns genótipos ao longo do tempo.
 <br><br>

@@ -164,7 +164,7 @@ SARS-CoV-2 suşlarıyla ilgili olarak öne çıkan en önemli hipotezlerden biri
 
 [Yakın zaman önce yayımlanan bir ön-baskı](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) SARS-CoV-2'nin bulaşıcılığını arttırmaktan (“S” (‘spike’) proteininde 614. sıradaki “D” aminoasitinin “G”ye dönüştüğü) tek bir mutasyonun, yani D614G'nin (614 sahasında "D" amino asidinden "G" ye "G") sorumlu olabileceğini düşündürmektedir.
 <br><br>
-Pek çok coğrafi bölgede 614D’nin görülme sıklığı 614G’ye göre zamanla artmıştır.
+Pek çok coğrafi bölgede 614G’nin görülme sıklığı 614D’ye göre zamanla artmıştır.
 Belirli bir genotip daha iyi bulaşıcılığa neden olursa zaman içinde onun görülme sıklığının artmasını bekleriz.
 Bununla birlikte, bazı genotiplerin göreli sıklığının zaman içinde neden artacağına ilişkin başka açıklamalar da söz konusudur.
 <br><br>

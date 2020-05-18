@@ -120,7 +120,7 @@ Ni nadra kwa mabadiliko ya mfuatano wa kijeni wa virusi kusaidia virusi kujirudu
 Tofauti hizi za kijeni za virusi zinaweza kutumika kuwa "vidokezo" vya kufuatilia historia ya sampuli fulani.
 Kama vile wanafamilia wana sifa sawa za kijeni zilizo mahsusi kwao, virusi vinavyohusiana kwa ukaribu vina mabadiliko sawa ya kijeni yaliyo mahsusi kwao.
 <br><br>
-Kwa mfano, hapa tunaonyesha "mchoro wa kimatawi" wa virusi ambapo kila sampuli inalingana na asidi amino inayopatikana mahali mahsusi katika mfuatano wa kijeni wa virusi (jeni ya "ORF1a", inapatikana 57).
+Kwa mfano, hapa tunaonyesha "mchoro wa kimatawi" wa virusi ambapo kila sampuli inalingana na asidi amino inayopatikana mahali mahsusi katika mfuatano wa kijeni wa virusi (jeni ya "ORF3a", inapatikana 57).
 <br><br>
 Kwa kuangazia sampuli kutoka New York, tunaona kuwa visa vingi vilivyoripotiwa New York na Ulaya vina asidi amino ya aina ya Histidine ("H") badala ya Glutamine ("Q") katika sehemu hii. Hii, pamoja na sehemu zingine zote kwenye mfuatano, zinatuarifu kuwa visa hivi vyote vinahusiana kwa ukaribu.
 <br><br>
@@ -161,7 +161,7 @@ Mojawapo kati ya nadharia maarufu zaidi za aina za SARS-CoV-2 inalinganisha aina
 
 [Uchunguzi wa hivi majuzi](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) unapendekeza kuwa badilko moja la kijeni, D614G (kutoka asidi amino "D" hadi "G" kwenye sehemu ya 614 katika protini ya "S" ('spike')), huenda ndilo linasababisha kuongezeka kwa msambao wa SARS-CoV-2.
 <br><br>
-Katika maeneo mengi ya kijiografia, 614D iliongezeka baada ya muda ikilinganishwa na 614G.
+Katika maeneo mengi ya kijiografia, 614G iliongezeka baada ya muda ikilinganishwa na 614D.
 Ikiwa aina fulani ya jeni inasababisha kuongezeka kwa msambao, tunatarajia iongezeke baada ya muda.
 Hata hivyo, kuna fafanuzi nyinginezo kuhusu kuongeza kwa aina fulani za jeni baada ya muda.
 <br><br>

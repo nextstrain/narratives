@@ -240,7 +240,7 @@ One of the most prominent hypotheses about SARS-CoV-2 strains compares possible 
 
 [Niedawny preprint](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) sugeruje, że pojedyncza mutacja, D614G (z aminokwasu "D" do "G" w pozycji 614 w białku "S" (od 'spike')), może być odpowiedzialna za zwiększoną łatwość przenoszenia się SARS-CoV-2.
 <br><br>
-W wielu obszarach geograficznych względna częstość 614D w porównaniu z 614G wzrasta z czasem. 
+W wielu obszarach geograficznych względna częstość 614G w porównaniu z 614D wzrasta z czasem. 
 Jeśli pewien genotyp prowadzi do zwiększonej zdolności rozprzestrzeniania, możemy oczekiwać, że jego częstość będzie wzrastać z czasem.
 <br><br>
 Dla tej pozycji widzimy kilka geograficznych obszarów, gdzie początkowo większość krążących linii wirusa miało allel D; potem ten stan się odwraca tak, że większość linii ma allel G.
