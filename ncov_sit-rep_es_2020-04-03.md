@@ -44,7 +44,7 @@ abstract: "Este reporte utiliza datos genómicos públicos para el seguimiento d
 * [Actualizaciones de África](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=4).
 * [Actualizaciones de Asia](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=7).
 * [Actualizaciones de Europa ](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=9).
-* [Actualizaciones de América del Norte ](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=12).
+* [Actualizaciones de América del Norte](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=12).
 * [Qué puedes hacer tú](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=15).
 * [Créditos Científicos](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=16).
 
@@ -65,13 +65,13 @@ Analizamos 2.544 genomas de COVID-19 compartidos públicamente. Comparando estos
 * Secuenciación extensa de parte de Irlanda demuestra el alcance de la propagación del virus asociada con viajes
 * Historiales de viaje implican transmisión local en Austria
 
-**América del Norter**   
+**América del Norte**   
 * Apreciamos una extensa mezcla de casos en los EEUU  
-* -	Reportamos que probablemente existen dos cadenas de transmisión local circulando en Ontario  
+* Reportamos que probablemente existen dos cadenas de transmisión local circulando en Ontario  
 
 **Otras áreas del mundo**
 <br>
-También hemos recibido nuevos genomas virales procedientes de América del Sur y Oceanía. La mayoría de estas nuevas muestras se encuentran dispersas por todo el árbol filogenético y se agrupan con muestras recolectadas en otras regiones del mundo. Sin embargo, sin más datos contextuales, aún no podemos hacer inferencias sobre estas nuevas secuencias.
+También hemos recibido nuevos genomas virales procedentes de América del Sur y Oceanía. La mayoría de estas nuevas muestras se encuentran dispersas por todo el árbol filogenético y se agrupan con muestras recolectadas en otras regiones del mundo. Sin embargo, sin más datos contextuales, aún no podemos hacer inferencias sobre estas nuevas secuencias.
 <br><br>
 Aplaudimos a los grupos que están trabajando para generar datos adicionales para estas regiones. Cuando sea posible obtener inferencias más específicas, compartiremos inmediatamente los hallazgos.
 ```
@@ -200,10 +200,10 @@ Para una muestra dada, es posible hacer inferencias acerca de sus predecesores p
 
 Este es también un excelente ejemplo de como los esfuerzos para secuenciar y registrar el historial de viajes en un país puede ayudarnos a entender la situación en otros, incluso aquellos donde hay aun secuencias genómicas.
 <br><br>
-Al ver los casos secuenciados en Islandia luego de viajes a Austria, podemos apreciar varios aglomerados de casos austriacos que han sido secuenciados en un periodo de tiempo corto.
+Al ver los casos secuenciados en Islandia luego de viajes a Austria, podemos apreciar varios aglomerados de casos austríacos que han sido secuenciados en un periodo de tiempo corto.
 Esto es consistente con un escenario donde ha habido múltiples introducciones a Austria. Sin embargo, no es posible asegurar que estos grupos de secuencias representan transmisión comunitaria en Austria o viajeros retornados que fueron expuestos a la misma cepa del virus durante su viaje.
 <br><br>
-Aunque coloreada en gris, el numero de conexiones entre países de Europa es muy importante. La mayoría de países europeos parecen haber tenido introducciones múltiples, por tanto, no es posible simplificar la forma de como el virus se ha expandido en Europa. Es altamente probable que el virus se haya estado propagando desde hace varias semanas.
+Aunque coloreada en gris, el número de conexiones entre países de Europa es muy importante. La mayoría de países europeos parecen haber tenido introducciones múltiples, por tanto, no es posible simplificar la forma de como el virus se ha expandido en Europa. Es altamente probable que el virus se haya estado propagando desde hace varias semanas.
 
 
 
@@ -220,7 +220,7 @@ Aunque coloreada en gris, el numero de conexiones entre países de Europa es muy
 
 Conforme logramos tener un panorama general del alcance del brote en EEUU, es claro que los brotes localizados son el resultado de una mezcla extendida de casos.
 <br><br>
-Aunque la mayoría de casos iniciales estaban asociados a viajes, los casos mas recientes de muchos estados están grandemente entremezclados en el árbol filogenético.   
+Aunque la mayoría de casos iniciales estaban asociados a viajes, los casos más recientes de muchos estados están grandemente entremezclados en el árbol filogenético.   
 <br><br>
 Esto enfatiza la necesidad de una estrategia unificada para poder detener el brote.
 <!-- This is no right-side text -->
@@ -230,7 +230,7 @@ Esto enfatiza la necesidad de una estrategia unificada para poder detener el bro
 <!-- This is left-side text 14-->
 # [Dos cadenas de transmisión local circulan en Ontario, Canadá](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Dos aglomerados de secuencias pueden apreciarse en Ontario. Estos aglomerados están distanciados entre si y se relacionan con muestras de otros países, indicando que han sido resultado de dos introducciones independientes a Canadá.
+Dos aglomerados de secuencias pueden apreciarse en Ontario. Estos aglomerados están distanciados entre sí y se relacionan con muestras de otros países, indicando que han sido resultado de dos introducciones independientes a Canadá.
 <br><br>
 Por otro lado, los casos en cada aglomerado se relacionan cercanamente, sugiriendo transmisión local comunitaria.
 <br><br>
@@ -249,11 +249,11 @@ También es importante notar que las secuencias cercanas (en gris) son de EEUU, 
 * Practica distanciamiento social estricto.
 * Incluso si no perteneces a ningún grupo vulnerable, practica distanciamiento social para proteger a otros.
 * Lávate las manos “como si hubieses terminado de picar un jalapeño y tuvieras que cambiar tus lentes de contacto”.
-* Quédate en casa lo mas posible, especialmente si estas enfermo. Prepárate con unas provisiones extras.
+* Quédate en casa lo más posible, especialmente si estás enfermo. Prepárate con unas provisiones extras.
 * Si eres empleador, permite que tus empleados trabajen desde casa en lo posible.
 
 #### ...como funcionario público
-* Haz que las pruebas de diagnostico sean gratuitas y estén disponibles para toda la población.
+* Haz que las pruebas de diagnóstico sean gratuitas y estén disponibles para toda la población.
 * Impone medidas estrictas de distanciamiento social.
 * Financia e implementa seguimiento de contagiados y esfuerzos de aislamiento.
 * Financia aquellos que son impactados por la medidas de distanciamiento social.
