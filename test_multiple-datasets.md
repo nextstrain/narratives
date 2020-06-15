@@ -36,3 +36,18 @@ On **current master**, this slide doesn't display errors, and the URL query is c
 <br/>
 
 Going to the preceeding slide should change back to the North American mumps dataset.
+
+# [color by region](https://nextstrain.org/zika?d=tree,map&c=region)
+color by region.
+
+# [color, georesolution = region](https://nextstrain.org/zika?d=tree,map&c=region&r=region)
+color, georesolution = region.
+
+# [zika + entropy](https://nextstrain.org/zika?d=tree,map,entropy)
+Add in the entropy panel.
+
+# [Flu](https://nextstrain.org/flu/seasonal/h3n2/ha/2y)
+So we can test frequencies.
+
+# [Ncov](https://nextstrain.org/ncov/global)
+ncov/global is a large dataset that is a good standard for performance!
