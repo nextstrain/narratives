@@ -157,7 +157,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [私たちができること](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [私たちができること](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ...個人ができること
 * 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
 * 外ではマスクをしましょう。
@@ -685,7 +685,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データの詳細](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [分析データの詳細](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 これらのデータは [GISAID](https://gisaid.org) を介して共有されました。彼らの貢献に感謝します。
 

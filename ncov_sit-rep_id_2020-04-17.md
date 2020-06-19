@@ -154,7 +154,7 @@ Introduksi multipel terjadi juga ke Rocky Mountain West. Jika ditinjau lebih dek
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ...sebagai pribadi
 * Lakukanlah perenggangan sosial secara ketat.
 * Meskipun Anda tidak rentan, lakukanlah perenggangan sosial untuk melindungi orang lain.
@@ -682,7 +682,7 @@ Kami sangat berterima kasih atas sumbangan data yang dikumpulkan dari laboratori
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 Data ini telah dibagikan melalui [GISAID](https://gisaid.org).
 Kami sangat menghargai dan berterima kasih atas kontribusi mereka.

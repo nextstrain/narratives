@@ -97,7 +97,7 @@ Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yay
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Rusya'ya çoklu virüs girişi](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Rusya'ya çoklu virüs girişi](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 Rusya'daki örnekleri vurguladığımızda hem coğrafi olarak (Rusya boyunca) hem de genomik olarak (ağaç boyunca) dağılmış olduklarını görüyoruz.
 <br><br>
@@ -109,7 +109,7 @@ Her ne kadar ağacın alt kısımlarına doğru Asya ile yakından ilişkili bir
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Moskova'daki heterojen salgın](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Moskova'daki heterojen salgın](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 Sık dış kaynaklı bulaşılar Moskova örneklerine yakından bakıldığında görülebilir.
 <br><br>
@@ -120,7 +120,7 @@ Moskova'daki doğrulanmış vakaların sayısı göz önünde bulundurulduğunda
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Mart ayında ilk kıvılcımlarını vermiş St.Petersburg'daki büyük salgın](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Mart ayında ilk kıvılcımlarını vermiş St.Petersburg'daki büyük salgın](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 Bunun tersi bir örneği St. Petersburg'a görebiliriz.
 <br><br>
@@ -132,7 +132,7 @@ Bu, bu girişlerden birinin Mart ayının ilk haftasından itibaren St.Petersbur
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Çek Cumhuriyeti'ndeki 5 ayrı yerel bulaşı zinciri](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Çek Cumhuriyeti'ndeki 5 ayrı yerel bulaşı zinciri](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 Çek Cumhuriyeti'nden alının veriler iki farklı girişin karıştığını gösteriyor. 
 <br><br>
@@ -144,7 +144,7 @@ Burdan yola çıkarak, Çek Cumhuriyeti’ne en az 7 giriş oldugunu ve bunlarda
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Türkiye genelindeki geniş çaplı vaka karışımları](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Türkiye genelindeki geniş çaplı vaka karışımları](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 Ağacın ortasında, Türkiye'nin dört bir yanındaki illerden örneklenmiş bir grup vaka görüyoruz.Bu vakalardan bazıları da yakın geçmişte alakalı vakalar ile birlikte Suudi Arabistan'a seyahat ettiklerini bildirmiştir.
 <br><br> 
@@ -158,7 +158,7 @@ Bu, viral soyların kapsamlı bir şekilde karıştığını ve bir hafta içind
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Polonya'ya en az 11 ayrı virüs girişi](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Polonya'ya en az 11 ayrı virüs girişi](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Nextstrain'de Polonya'dan gelen 15 genom dizisi bulunmaktadir. Bunların en az 11'i dünyanın farklı yerlerinden gelen ayrı virüs girişlerini temsil etmektedir.
 Moskova'da olduğu gibi, tanılanmış vakaların sayısı göz önüne alındığında, bu virüs girişlerinin birçoğunun Polonya'da yerel bulaşı zincirlerinin tohumlarını attığını söyleyebiliriz, ancak bunu genomik verilerde henüz göremiyoruz
@@ -167,7 +167,7 @@ Moskova'da olduğu gibi, tanılanmış vakaların sayısı göz önüne alındı
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Macaristan, Letonya, Polonya, Slovakya ve Slovenya'dan gelen erken örnekler](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Macaristan, Letonya, Polonya, Slovakya ve Slovenya'dan gelen erken örnekler](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 Mart ayında Macaristan, Letonya, Slovakya ve Slovenya'dan 20 genom dizi gönderildi. Bu ülkelerden kesin sonuçlar çıkarmak için henüz yeterli veriye sahip olmasak da, bu erken çabaları alkışlıyoruz ve gelen verileri takip etmeye devam edeceğiz.
 <!-- There is no right-side text -->
@@ -175,7 +175,7 @@ Mart ayında Macaristan, Letonya, Slovakya ve Slovenya'dan 20 genom dizi gönder
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Ne Yapabilirsiniz?](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Ne Yapabilirsiniz?](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ...bireysel olarak
 * Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız.
 * Hassas grupta olmasanız da etrafınızdaki pek çok kişinin bu kategoriye girdiğini unutmayın. Diğerlerini korumak için bu kurallara uyun.
@@ -218,7 +218,7 @@ Mart ayında Macaristan, Letonya, Slovakya ve Slovenya'dan 20 genom dizi gönder
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Bilimsel Katkılar](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Bilimsel Katkılar](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına teşekkür etmek istiyoruz. Bu gibi çalışmalar yalnızca genomik verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
 <br><br>

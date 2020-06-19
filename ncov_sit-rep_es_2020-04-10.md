@@ -83,7 +83,7 @@ Hemos compilado información para facilitar la interpretación de los datos que 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Acerca del muestreo de datos](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [Acerca del muestreo de datos](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 Actualmente tenemos secuencias virales de 57 países en 6 continentes. Este es un logro increíble: secuenciar un virus de ARN desconocido y de gran tamaño durante una pandemia es difícil, y solo es posible gracias al increíble trabajo y al intercambio de datos por parte de científicos y médicos de todo el mundo.
 <br><br>
 Si bien estos datos nos permiten inferir muchas características útiles del brote y seguir su propagación en tiempo real, es importante destacar que nuestras conclusiones se ven limitadas por los datos disponibles.
@@ -177,7 +177,7 @@ Esto demuestra de manera contundente que esta pandemia es una lucha global; todo
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Resumen](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Resumen](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 Los brotes regionales y nacionales están y estarán profundamente entrelazados.
 <br><br>
@@ -213,7 +213,7 @@ Esta pandemia es una lucha global; todos debemos ayudar a controlar este virus e
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Créditos científicos](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Créditos científicos](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Quisiéramos reconocer la excelente y oportuna labor realizada por todos los científicos que participaron en este brote, y en particular los que trabajan en China. Sólo mediante el rápido intercambio de datos y metadatos genómicos es posible realizar análisis como éste.
 
@@ -630,7 +630,7 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Créditos Científicos Detallados](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Créditos Científicos Detallados](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Los datos utilizados en este reporte son datos públicos compartidos por cada laboratorio a través de [GISAID](https://gisaid.org).
 

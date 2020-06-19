@@ -35,7 +35,7 @@ abstract: "Raporty Nextstrain wykorzystują publicznie dostępne dane genomowe w
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Streszczenie wykonawcze](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Streszczenie wykonawcze](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Przeanalizowaliśmy 5,193</tag> publicznie dostępnych genomów SARS-CoV-2. Porównując je, potrafimy ocenić, w jaki sposób wirus COVID-19 ewoluuje i rozprzestrzenia się po świecie. W tym tygodniu koncentrujemy się na mutacjach wirusa. Opisujemy:
 <br><br>
@@ -272,7 +272,7 @@ There's a fair amount of debate regarding the relative merits of these two hypot
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Co ty możesz zrobić](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [Co ty możesz zrobić](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...jako jednostka
 * Stosuj ścisłą izolację społeczną, zwłaszcza, jeśli jesteś w grupie podwyższonego ryzyka.
 * Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.

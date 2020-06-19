@@ -187,7 +187,7 @@ Das ist ein Anzeichen fuer mehrere unabhaengige Einschleppungen, hauptsaechlich 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Was Sie tun koennen](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Was Sie tun koennen](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### ...als Einzelperson
 * Reduzieren Sie die Anzahl an Personen, mit denen Sie taeglich Kontakt haben, besonders wenn Sie zu einer Risikogruppe gehoeren (z.B. Senioren und Leute mit Vorerkrankungen).
 * Bedenken Sie, dass selbst wenn Sie nicht zu einer Risikogruppe gehoeren, Leute in Ihrer Umgebung dies eventuell tun. Halten Sie sich an die Anweisungen, um Andere zu schuetzen.
@@ -230,7 +230,7 @@ Das ist ein Anzeichen fuer mehrere unabhaengige Einschleppungen, hauptsaechlich 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 
 Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderbares Engagement bedanken, die in dieser Epidemie ihren unentbehrlichen Beitrag leisten. Nur durch das schnelle Teilen von Genom- und Metadaten sind Analysen wie diese moeglich.
 <br><br>

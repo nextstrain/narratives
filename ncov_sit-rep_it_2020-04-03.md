@@ -104,7 +104,7 @@ Plaudiamo ai gruppi che lavorano per generare dati aggiuntivi per queste regioni
 
 <!-- This is left-side text 2-->
 <!-- # [COVID-19 Resources]-->
-# [Risorse sul COVID-19](https://nextstrain.org/ncov/2020-03-27)
+# [Risorse sul COVID-19](https://nextstrain.org/ncov/2020-04-03)
 <!-- We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
 This information will make interpreting the data we present in this narrative easier.-->
 Abbiamo preparato alcune letture che possono essere utili per familiarizzare con il COVID-19 e il virus che ne è la causa, il SARS-CoV-2, conosciuto anche come hCov-19.
@@ -338,7 +338,7 @@ Da ciò, possiamo inferire statisticamente che la trasmissione comunitaria in On
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
 <!-- # [What you can do]-->
-# [Cosa puoi fare](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Cosa puoi fare](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 <!-- #### ...as an individual-->
 #### ...come individuo
 <!-- * Practice strict social distancing.-->
@@ -728,8 +728,8 @@ Ringraziamo i seguenti laboratori per i dati raccolti::
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-<!--# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)-->
-# [Riconoscimenti scientifici dettagliati](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+<!--# [Detailed scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)-->
+# [Riconoscimenti scientifici dettagliati](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 <!-- These data were shared via [GISAID](https://gisaid.org).
 We gratefully acknowledge their contributions.-->

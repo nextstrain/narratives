@@ -37,7 +37,7 @@ abstract: "Deze wekelijkse rapportage maakt gebruik van openbaar gedeelde genomi
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Inhoud](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Inhoud](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Achtergrondbronnen](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-05-08?n=2).     
 * [Over deze data](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-05-08?n=3).  
@@ -146,7 +146,7 @@ Dit herhaalde patroon is een sterk bewijs dat het virus regelmatig de internatio
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Wat u kunt doen](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Wat u kunt doen](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...als individu
 * beoefen strikte social distancing, vooral als u tot een kwetsbare groep behoort.
 * Onthoud dat zelfs als je niet super kwetsbaar bent, veel mensen om je heen dat wel zijn; volg deze handelingen om anderen te beschermen.
@@ -184,7 +184,7 @@ Dit herhaalde patroon is een sterk bewijs dat het virus regelmatig de internatio
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Wetenschappelijke verdienste](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Wetenschappelijke verdienste](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Wij willen onze erkentelijkheid betuigen voor het verbazingwekkende en tijdige werk dat is verricht door alle wetenschappers die bij deze uitbraak betrokken zijn. Alleen door het snel delen van genomische gegevens en metadata zijn analyses zoals deze mogelijk.
 <br><br>

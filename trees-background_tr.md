@@ -208,7 +208,7 @@ Ancak bu tahminler her zaman bir miktar belirsizlik de içerir. Genel olarak ağ
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Bilimsel katkılar](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Bilimsel katkılar](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına, özellikle de Çin'de çalışanlara, teşekkür etmek istiyoruz. Bu gibi çalışmalar yalnızca genomik verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
 <br><br>
@@ -348,7 +348,7 @@ Bu laboratuvarlar tarafından toplanan veriler için minnettarız:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Bilimsel katkı detayları](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Bilimsel katkı detayları](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Bu veriler [GISAID](https://gisaid.org) üzerinden paylaşılabiliyor. Katkıları için çok teşekkür ediyoruz.
 

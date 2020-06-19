@@ -79,7 +79,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [背景资料](https://nextstrain.org/ncov/2020-03-05)
+# [背景资料](https://nextstrain.org/ncov/2020-03-13)
 我们准备了一些值得一读的材料，让您了解COVID-19（2019冠状病毒病）及其致病病毒SARS-CoV-2（严重急性呼吸综合征冠状病毒2型）。
 这些资料将让我们在本报告中提供的数据更容易理解；如果你不熟悉系统进化树，我们建议你先阅读[如何解读系统进化树](https://nextstrain.org/narratives/trees-background)并在阅读后再回到此页。
 
@@ -218,7 +218,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [常见问题和误区](https://nextstrain.org/ncov/2020-03-05)
+# [常见问题和误区](https://nextstrain.org/ncov/2020-03-13)
 
 #### 我们知道很多人对 COVID-19 有疑问.
 
@@ -261,7 +261,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [科学贡献人员](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 我们要感谢参与此次疫情的所有科学家所做的令人惊叹和及时的工作，特别是那些在中国工作的科学家。
 只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
@@ -402,7 +402,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [科学贡献详情](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [科学贡献详情](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 所有数据已被共享至[GISAID](https://gisaid.org)数据库。
 我们感谢各位科学家的慷慨分享。

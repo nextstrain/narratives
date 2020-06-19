@@ -97,7 +97,7 @@ Sebagai contoh, peta di samping menunjukkan banyak sampel dari Islandia, Inggris
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Introduksi berulang ke Rusia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Introduksi berulang ke Rusia](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 Menyoroti sampel dari Rusia, kita melihat bahwa sampel-sampel ini tersebar baik secara geografis (di seluruh Rusia) maupun secara genom (di seluruh pohon).
 <br><br>
@@ -109,7 +109,7 @@ Walaupun ada beberapa sampel di bagian bawah pohon yang berkaitan paling erat de
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Perebakan heterogen di Moskwa](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Perebakan heterogen di Moskwa](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 Contoh importasi berulang dapat dilihat dengan memperhatikan sampel dari Moskwa.
 <br><br>
@@ -120,7 +120,7 @@ Mengingat jumlah kasus terkonfirmasi di Moskwa, boleh jadi ada beberapa introduk
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Klaster perebakan besar di Sankt-Peterburg, dimulai pada awal Maret](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Klaster perebakan besar di Sankt-Peterburg, dimulai pada awal Maret](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 Kita bisa melihat Sankt-Peterburg (St. Petersburg) sebagai contoh tandingan.
 <br><br>
@@ -132,7 +132,7 @@ Pola ini menunjukkan bahwa salah satu introduksi ke Sankt-Peterburg memicu penul
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Lima rantai penularan lokal di Republik Ceko](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Lima rantai penularan lokal di Republik Ceko](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 Data dari Republik Ceko menunjukkan campuran dari dua pola ini.
 <br><br>
@@ -144,7 +144,7 @@ Dari sini, kita dapat mengatakan bahwa setidaknya ada 7 kali introduksi ke Repub
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Percampuran kasus yang luas di seluruh Turki](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Percampuran kasus yang luas di seluruh Turki](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 Di tengah-tengah pohon filogenetik ini, kita melihat serangkaian kasus yang diambil dari berbagai provinsi di Turki. Beberapa dari kasus ini telah melaporkan riwayat perjalanan ke Arab Saudi, dengan kasus-kasus terkait erat berikutnya di Turki.
 <br><br>
@@ -159,7 +159,7 @@ Ini menunjukkan bahwa telah ada percampuran garis keturunan virus yang luas, men
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Setidaknya 11 kali introduksi ke Polandia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Setidaknya 11 kali introduksi ke Polandia](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Kami memiliki 15 sekuens dari Polandia di Nextstrain. Dari 15 sekuens ini, setidaknya 11 di antaranya mewakili introduksi terpisah dari tempat lain di dunia.
 Seperti di Moskwa, melihat banyaknya kasus yang dilaporkan, kita dapat menduga bahwa beberapa introduksi ini telah menyebabkan rantai penularan lokal di Polandia, tetapi kami belum dapat melihat ini dalam data genomik.
@@ -168,7 +168,7 @@ Seperti di Moskwa, melihat banyaknya kasus yang dilaporkan, kita dapat menduga b
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Sampel awal dari Hongaria, Latvia, Slowakia dan Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Sampel awal dari Hongaria, Latvia, Slowakia dan Slovenia](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 Pada bulan Maret, 20 sekuens dikumpulkan dari Hongaria, Latvia, Slowakia, dan Slovenia.
 Meskipun kami belum memiliki cukup data dari negara-negara ini untuk menarik kesimpulan, kami memuji upaya awal ini dan akan terus memantau data yang masuk.
@@ -177,7 +177,7 @@ Meskipun kami belum memiliki cukup data dari negara-negara ini untuk menarik kes
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ...sebagai pribadi
 * Lakukanlah perenggangan sosial secara ketat, terutama jika Anda tergolong dalam kelompok rentan.
 * Ingatlah bahwa meskipun Anda tidak sangat rentan, banyak orang di sekitar Anda sangatlah rentan; lakukanlah hal-hal ini untuk melindungi orang lain.
@@ -220,7 +220,7 @@ Meskipun kami belum memiliki cukup data dari negara-negara ini untuk menarik kes
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Pengakuan ilmiah](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Pengakuan ilmiah](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 Kami menyampaikan penghargaan atas kerja keras luar biasa yang telah dilakukan oleh semua ilmuwan yang terlibat dalam wabah ini. Hanya melalui berbagi cepat data genomik dan metadata analisis ini dapat dilakukan.
 <br><br>

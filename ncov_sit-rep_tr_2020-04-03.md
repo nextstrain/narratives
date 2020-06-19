@@ -88,7 +88,7 @@ Bu bölgelerde ek veri üretmek üzere çalışan grupları takdir ediyoruz. Dah
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Kaynakları](https://nextstrain.org/ncov/2020-03-27)
+# [COVID-19 Kaynakları](https://nextstrain.org/ncov/2020-04-03)
 COVID-19 ve buna neden olan SARS-CoV-2 virüsünü (diğer bir adıyla hCov-19) tanımak için okumaya değer bazı kaynaklar hazırladık. Bu bilgi, bu açıklamada sunduğumuz verilerin yorumlanmasını kolaylaştıracaktır.
 <br><br>
 Filogenetik ağaçlara aşina değilseniz, ['Filogenetik ağaçları nasıl yorumlamalı?'](https://nextstrain.org/narratives/trees-background/tr) metnini okuyup, hazır olduğunuzda buraya geri dönmenizi öneririz.
@@ -252,7 +252,7 @@ Buradan hareketle Ontario'da en az 3 Mart'tan itibaren süregelen bir yerel bula
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [Ne yapabilirsiniz?](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Ne yapabilirsiniz?](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### ...bireysel olarak
 * Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız.
 * Hassas grupta olmasanız da etrafınızdaki pek çok kişinin bu kategoriye girdiğini unutmayın. Diğerlerini korumak için bu kurallara uyun.
@@ -621,7 +621,7 @@ Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Bilimsel katkı detayları](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Bilimsel katkı detayları](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 Bu veriler [GISAID](https://gisaid.org) üzerinden paylaşılabiliyor.
 Onlara katkıları için çok teşekkür ediyoruz.

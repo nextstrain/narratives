@@ -186,7 +186,7 @@ Ini adalah bukti terjadinya banyak introduksi terpisah, sebagian besar dari Erop
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### ...sebagai pribadi
 * Lakukanlah perenggangan sosial secara ketat, terutama jika Anda tergolong dalam kelompok rentan.
 * Ingatlah bahwa meskipun Anda tidak sangat rentan, banyak orang di sekitar Anda sangatlah rentan; lakukanlah hal-hal ini untuk melindungi orang lain.
@@ -228,7 +228,7 @@ Ini adalah bukti terjadinya banyak introduksi terpisah, sebagian besar dari Erop
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Pengakuan ilmiah](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [Pengakuan ilmiah](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 
 Kami menyampaikan penghargaan atas kerja keras luar biasa yang telah dilakukan oleh semua ilmuwan yang terlibat dalam wabah ini. Hanya melalui berbagi cepat data genomik dan metadata analisis ini dapat dilakukan.
 <br><br>

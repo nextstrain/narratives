@@ -35,7 +35,7 @@ abstract: "本周报告使用公开共享的基因组学数据来追踪 COVID-19
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [目录](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [目录](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-08?n=2).     
 * [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-08?n=3).  
@@ -138,7 +138,7 @@ abstract: "本周报告使用公开共享的基因组学数据来追踪 COVID-19
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [你能做的](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [你能做的](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...个人可采取的行动
 * 保持严格的社交距离，尤其是高风险人群。
 * 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循这里列出的做法可以保护他人。
@@ -175,7 +175,7 @@ abstract: "本周报告使用公开共享的基因组学数据来追踪 COVID-19
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Scientific credit](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和很强时效性的工作。
 只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。

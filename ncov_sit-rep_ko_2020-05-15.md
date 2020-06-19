@@ -34,7 +34,7 @@ abstract: "Nextstrain 상황 보고서는 공개된 유전체 정보를 이용�
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [개요](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [개요](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 저희는 5,193개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계와 지역 내에서 곳곳으로 퍼지고 있는지 분석할 수 있습니다. 이번 주 보고서는 바이러스 돌연변이에 초점을 맞추어 보았습니다. 다음 내용을 다룹니다:
 <br><br>
@@ -171,7 +171,7 @@ SARS-CoV-2 변종에 대해 최근 가장 뜨거운 쟁점 중 하나는 "D614"�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### 개인이 할 수 있는 것들   
 * 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
 * 당신이 취약계층이 아니더라도 여러분 주변의 많은 사람들이 그렇다는 것을 기억 하십시오. 이 원칙들을 지켜야 다른 사람들을 보호할 수 있습니다.

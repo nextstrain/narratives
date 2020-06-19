@@ -153,7 +153,7 @@ Também houve várias introduções no Oeste, na região das Montanhas Rochosas.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [O que você pode fazer](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [O que você pode fazer](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ... como um indivíduo
 * Pratique distanciamento social estrito, especialmente se você faz parte de algum grupo de risco.
 * Use uma máscara em público.
@@ -681,7 +681,7 @@ Somos gratos pelos dados coletados pelos seguintes laboratórios:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédito cientifíco detalhado](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Crédito cientifíco detalhado](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 Esses dados foram compartilhados através da [GISAID](https://gisaid.org). Agradecemos profundamente as suas contribuições.
 

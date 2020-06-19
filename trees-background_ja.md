@@ -213,7 +213,7 @@ Nextstarin で私たちが提示している系統樹は点推定です -- つ�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [クレジット](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [クレジット](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。これらのような解析は、ゲノム情報とメタデータの迅速な共有を通じてのみ可能です。
 
@@ -354,7 +354,7 @@ Nextstarin で私たちが提示している系統樹は点推定です -- つ�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データの詳細](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [分析データの詳細](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 これらのデータは [GISAID](https://gisaid.org) を介して共有されました。 彼らの貢献に感謝します。
 

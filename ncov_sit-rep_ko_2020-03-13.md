@@ -81,7 +81,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/2020-03-05)
+# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/2020-03-13)
 코로나바이러스감염증-19와 이를 유발하는 SARS-CoV-2 바이러스에 대한 몇 가지 자료를 준비했습니다.
 이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
 계통유전학적 나무가 익숙하지 않은 분들은 ['계통도를 읽는 법'](https://nextstrain.org/narratives/trees-background/ko)을 읽고 오십시오.
@@ -261,7 +261,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [자주 묻는 질문과 잘못된 사실들](https://nextstrain.org/ncov/2020-03-05)
+# [자주 묻는 질문과 잘못된 사실들](https://nextstrain.org/ncov/2020-03-13)
 
 #### 우리는 많은 분들이 코로나19에 대해 궁금해 한다는 것을 잘 알고 있습니다.
 
@@ -303,7 +303,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [과학적 기여자들](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [과학적 기여자들](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 이번 유행에 관련된 모든 과학자들, 특히 중국의 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
 
@@ -445,7 +445,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [과학적 기여: 상세 내역](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [과학적 기여: 상세 내역](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 이 데이터는 [GISAID](https://gisaid.org)를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 

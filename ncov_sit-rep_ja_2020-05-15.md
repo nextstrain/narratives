@@ -37,7 +37,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [概要](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [概要](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 ここでは、公に共有されている 5,193 種の COVID-19 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、COVID-19 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新ではウイルスの変異について報告します:
 <br><br>
@@ -180,7 +180,7 @@ SARS-CoV-2 の株に関する最も顕著な仮説の一つは、可能性のあ
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [私たちができること](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [私たちができること](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...個人ができること
 * 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
 * あなたが健康であるとしても、他の人を守るために社会的距離を保つことを実践して下さい。

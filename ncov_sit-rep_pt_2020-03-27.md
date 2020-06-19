@@ -239,7 +239,7 @@ Os esforços para sequenciação estão a acelerar, e continuaremos a informar �
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Exportação da COVID-19 a partir do Irão](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [Exportação da COVID-19 a partir do Irão](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 Ainda não temos genomas virais com origem no Irão.

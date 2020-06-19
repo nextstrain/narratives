@@ -620,7 +620,7 @@ Nous sommes reconnaissants pour les données recueillies par ces laboratoires d'
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédit scientifique détaillé](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédit scientifique détaillé](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 Ces données ont été partagées par [GISAID](https://gisaid.org). Nous remercions chaleureusement leurs contributions.
 

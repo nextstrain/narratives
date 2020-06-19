@@ -37,7 +37,7 @@ abstract: "Ce rapport hebdomadaire utilise des données génomiques partagées p
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Résumé exécutif](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Résumé exécutif](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Nous avons analysé 5193 génomes de COVID-19 partagés publiquement. En comparant ces génomes viraux les uns aux autres, nous pouvons caractériser la façon dont COVID-19 se déplace dans le monde et se propage localement. Cette semaine, nous nous concentrons sur les mutations du virus et rapportons:
 <br><br>
@@ -177,7 +177,7 @@ Les mérites relatifs de ces deux hypothèses font l'objet de nombreux débats. 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...en tant que particulier
 * Réduisez drastiquement le nombre de personnes avec lesquelles vous êtes en contact chaque jour, surtout si vous faites partie d'un groupe vulnérable.
 * N'oubliez pas que même si vous ne faites pas partie de ces personnes vulnérables, de nombreuses personnes autour de vous le sont ; suivez ces pratiques pour protéger les autres.

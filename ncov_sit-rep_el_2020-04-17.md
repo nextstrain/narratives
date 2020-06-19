@@ -156,7 +156,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
 
-# [Τι μπορείτε να κάνετε](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [Τι μπορείτε να κάνετε](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 
 #### ...ο καθένας ξεχωριστά
 * Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
@@ -683,7 +683,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Λεπτομερής επιστημονική αναγνώριση](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Λεπτομερής επιστημονική αναγνώριση](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 Αυτά τα δεδομένα κοινοποιήθηκαν μέσω της πλατφόρμας [GISAID](https://gisaid.org).
 Ευχαριστούμε πολύ για τη συμβολή τους.

@@ -35,7 +35,7 @@ abstract: "Dieser woechentliche Bericht verwendet oeffentlich geteilte genomisch
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Inhaltsverzeichnis](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Inhaltsverzeichnis](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-08?n=2).     
 * [Ueber diese Daten](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-08?n=3).  
@@ -137,7 +137,7 @@ Diese Durchgaengigkeit ist ein starkes Anzeichen dafuer, dass sich das Virus hae
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Was Sie tun koennen](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Was Sie tun koennen](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...als Einzelperson
 * Praktizieren Sie raeumliche Distanzierung, besonders wenn Sie zu einer Risikogruppe gehoeren.
 * Bedenken Sie, dass selbst wenn Sie nicht zu einer Risikogruppe gehoeren, Leute in Ihrer Umgebung dies eventuell tun. Halten Sie sich an die Anweisungen, um Andere zu schuetzen.
@@ -174,7 +174,7 @@ Diese Durchgaengigkeit ist ein starkes Anzeichen dafuer, dass sich das Virus hae
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderbares Engagement bedanken, die in dieser Epidemie ihren unentbehrlichen Beitrag leisten. Nur durch das schnelle Teilen von Genom- und Metadaten sind Analysen wie diese moeglich.
 <br><br>

@@ -37,8 +37,8 @@ abstract: "Questo rapporto usa sequenze genomiche virali pubblicamente condivise
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-<!-- # [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)-->
-# [Sommario](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+<!-- # [Executive summary](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)-->
+# [Sommario](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 <!-- We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:-->
 Abbiamo analizzato 5193 genomi del virus SARS-CoV-2 condivisi pubblicamente. Confrontando questi genomi virali tra loro, possiamo tracciare come il virus SARS-CoV-2 si sta spostando nel mondo e si sta diffondendo all'interno delle comunità. Questa settimana ci focalizziamo sulle mutazioni del virus. Riportiamo: 
@@ -253,8 +253,8 @@ C'è un ampio dibattito sui meriti relativi di queste due ipotesi. Sarà importa
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-<!-- # [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)-->
-# [Cosa puoi fare](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+<!-- # [What you can do](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)-->
+# [Cosa puoi fare](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 <!-- #### ...as an individual-->
 #### ...come individuo
 <!-- * Practice strict social distancing, especially if you are in a vulnerable group.

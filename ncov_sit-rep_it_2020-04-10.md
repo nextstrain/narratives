@@ -112,8 +112,8 @@ Abbiamo preparato alcune letture che aiuteranno a capire più facilmente i dati 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-<!-- # [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)-->
-# [Una nota sulla raccolta dei campioni](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+<!-- # [A note on sampling](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)-->
+# [Una nota sulla raccolta dei campioni](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 <!-- We currently have sequences from samples taken in 57 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.-->
 Al momento abbiamo sequenze raccolte in 57 Paesi in 6 continenti. Questa è un'impresa incredibile, sequenziare un virus con un RNA così grande e sconosciuto nel bel mezzo di una pandemia è difficile ed è stato possibile solamente grazie all'incredibile sforzo e la tempestiva condivisione dei dati da parte di scienziati e medici in tutto il mondo.
 <br><br>
@@ -251,8 +251,8 @@ Ciò dimostra con forza che questa pandemia è una lotta globale; tutti dobbiamo
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-<!--# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)-->
-# [Cose da ricordare](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+<!--# [Takeaway](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)-->
+# [Cose da ricordare](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 <!--Regional and national outbreaks are and will be deeply intertwined.-->
 Le epidemie regionali e nazionali sono e saranno profondamente intrecciate.
@@ -302,8 +302,8 @@ Questa pandemia è una lotta globale; tutti dobbiamo aiutare a controllare quest
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-<!-- # [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)-->
-# [Riconoscimenti scientifici](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+<!-- # [Scientific credit](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)-->
+# [Riconoscimenti scientifici](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 <!-- We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible. -->
@@ -724,8 +724,8 @@ Ringraziamo i seguenti laboratori per i dati raccolti:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-<!-- # [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)-->
-# [Riconoscimenti scientifici dettagliati](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+<!-- # [Detailed scientific credit](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)-->
+# [Riconoscimenti scientifici dettagliati](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 <!--These data were shared via [GISAID](https://gisaid.org).
 We gratefully acknowledge their contributions.-->

@@ -81,7 +81,7 @@ Burada sunduğumuz verilerin yorumlanmasını kolaylaştıracak bazı kaynaklar 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Örnekleme hakkında not](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [Örnekleme hakkında not](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 Şu anda elimizde 6 kıta, 57 ülkeden alınan örneklerden elde ettiğimiz genom diziler var. Bu kesinlikle inanılmaz bir başarı, çünkü bilinmeyen ve büyük bir RNA virüsünü bir pandeminin ortasında dizilemek oldukça zor ve bu ancak dünyanın dört bir yanındaki bilim insanları ve doktorların olağanüstü çabaları ve verileri hızlıca paylaşabilmeleriyle mümkün.
 <br><br>
 Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yayılışını gerçek zamanlı olarak takip etmemize olanak sağlasa da, bu çıkan sonuçların yalnızca eldeki veriler ile sınırlı olduğuna dikkat çekmekte fayda var.
@@ -176,7 +176,7 @@ Bu, bir kez daha bu pandeminin küresel bir mücadele olduğunu göstermektedir.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Buradan çıkarılacak sonuçlar](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Buradan çıkarılacak sonuçlar](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 Bölgesel ve ulusal salgınlar birbirlerine derinlemesine bir şekilde dolanmış durumda ve dolanmaya da devam edecek.
 <br><br>
@@ -212,7 +212,7 @@ Bu salgın küresel bir mücadeledir. Bu virüsü herhangi bir yerde yenmeyi umu
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Bilimsel Katkılar](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Bilimsel Katkılar](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına, özellikle de Çin'de çalışanlara, teşekkür etmek istiyoruz.
 Bu gibi çalışmalar yalnızca genomik verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
@@ -630,7 +630,7 @@ Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Bilimsel katkı detayları](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Bilimsel katkı detayları](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Bu veriler [GISAID](https://gisaid.org) üzerinden paylaşılabiliyor.
 Onlara katkıları için çok teşekkür ediyoruz.

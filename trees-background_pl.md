@@ -307,7 +307,7 @@ However, there is always uncertainty in these estimates. Generally speaking, par
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Podziękowania](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Podziękowania](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. W szczególności dziękujemy tym, którzy pracują w Chinach. Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
 
@@ -447,7 +447,7 @@ Jesteśmy wdzięczni za dane zebrane w tych ośrodkach badawczych:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Szczegółowe podziękowania](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Szczegółowe podziękowania](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Te dane były udostępnione poprzez platformę [GISAID](https://gisaid.org).
 Szczególnie dziękujemy za wkład ich drużyny. 

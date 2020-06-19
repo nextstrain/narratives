@@ -80,7 +80,7 @@ In de updates van deze week rapporteren we het volgende:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [COVID-19 Bronnen](https://nextstrain.org/ncov/2020-03-05)
+# [COVID-19 Bronnen](https://nextstrain.org/ncov/2020-03-13)
 We hebben een aantal bronnen voorbereid die het waard zijn om te lezen om jezelf vertrouwd te maken met COVID-19 en het virus dat het veroorzaakt, SARS-CoV-2.
 <br><br>
 Deze informatie maakt het interpreteren van de gegevens die we in dit verhaal presenteren makkelijker; als u niet bekend bent met fylogenetische bomen, raden we u aan de ['Hoe kan ik Fylogenieën lezen?' narratief](https://nextstrain.org/narratives/trees-background/nl) te bekijken en terug te komen wanneer u klaar bent.
@@ -219,7 +219,7 @@ Beperken van sociale contacten - dat wil zeggen, het verminderen van het aantal 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Veelgestelde vragen & misvattingen](https://nextstrain.org/ncov/2020-03-05)
+# [Veelgestelde vragen & misvattingen](https://nextstrain.org/ncov/2020-03-13)
 
 #### We weten dat veel mensen vragen hebben over COVID-19.
 
@@ -262,7 +262,7 @@ In een poging om te proberen uit te leggen waarom deze opvattingen onjuist zijn,
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Wetenschappelijke verantwoording](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Wetenschappelijke verantwoording](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 Wij willen onze dank uitspreken voor het fantastische en tijdige werk dat is verricht door alle wetenschappers die bij deze uitbraak betrokken zijn, en met name door degenen die in China werkzaam zijn.
 Alleen door het snel delen van genomische gegevens en metadata zijn dit soort analyses mogelijk.
@@ -403,7 +403,7 @@ We zijn dankbaar voor de gegevens die door deze laboratoria zijn verzameld:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Gedetailleerde wetenschappelijk credits](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Gedetailleerde wetenschappelijk credits](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 Deze gegevens werden gedeeld via [GISAID](https://gisaid.org).
 Wij zijn dankbaar voor hun bijdragen.

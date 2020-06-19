@@ -212,7 +212,7 @@ V těchto odhadech se však vždy vyskytuje prvek neurčitosti. Obecně řečeno
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou, ale zejména těch, kteří pracují v Číně.
 Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
@@ -353,7 +353,7 @@ Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovým
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Individuální poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Individuální poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Tyto údaje byly sdíleny prostřednictvím neziskové organizace [GISAID](https://gisaid.org)..
 Srdečně děkujeme za její pomoc.

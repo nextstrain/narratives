@@ -238,7 +238,7 @@ Genom dizileme çalışmaları hızlanıyor, durum biraz daha netleştikçe biz 
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [COVID-19'un İran'dan dışarıya yayılması](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [COVID-19'un İran'dan dışarıya yayılması](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 Henüz İran'dan elde edilmiş viral genomumuz yok.

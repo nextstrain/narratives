@@ -221,7 +221,7 @@ Sin embargo, siempre hay incertidumbre estadística en estas estimaciones. En t�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédito científico](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédito científico](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Nos gustaría reconocer el trabajo increíble y oportuno realizado por todos los científicos involucrados en este brote, pero particularmente aquellos que trabajan en China.
 Solo mediante el intercambio rápido de datos genómicos y metadatos se pueden realizar análisis como estos.
@@ -362,7 +362,7 @@ Agradecemos los datos recopilados por estos laboratorios:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédito científico detallado](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédito científico detallado](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Estos datos se compartieron a través de [GISAID](https://gisaid.org).
 Agradecemos sus contribuciones.

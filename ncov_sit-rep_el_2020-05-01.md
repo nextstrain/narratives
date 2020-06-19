@@ -96,7 +96,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Πολλές εισαγωγές στη Ρωσία](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Πολλές εισαγωγές στη Ρωσία](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 Εστιάζοντας στα δείγματα από τη Ρωσία, βλέπουμε ότι είναι διάσπαρτα τόσο γεωγραφικά (σε ολόκληρη τη Ρωσία) όσο και γονιδιωματικά (σε όλο το δέντρο). 
 <br><br>
@@ -108,7 +108,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Ανομοιογενής επιδημία στη Μόσχα](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Ανομοιογενής επιδημία στη Μόσχα](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 Ένα παράδειγμα συχνών εισαγωγών γίνεται φανερό όταν εστιάσουμε στα δείγματα από τη Μόσχα. 
 <br><br>
@@ -119,7 +119,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Μεγάλη εξάπλωση στην Αγία Πετρούπολη, ξεκίνησε στις αρχές Μαρτίου](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Μεγάλη εξάπλωση στην Αγία Πετρούπολη, ξεκίνησε στις αρχές Μαρτίου](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 Μπορούμε να δούμε την Αγία Πετρούπολη ως αντιπαράδειγμα.
 <br><br>
@@ -131,7 +131,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [5 τοπικές αλυσίδες διασποράς στην Τσεχία](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [5 τοπικές αλυσίδες διασποράς στην Τσεχία](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 Τα δεδομένα από την Τσεχία δείχνουν ένα συνδυασμό αυτών των δύο μοτίβων. 
 <br><br>
@@ -143,7 +143,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Εκτεταμένη ανάμιξη κρουσμάτων σε όλη την Τουρκία](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Εκτεταμένη ανάμιξη κρουσμάτων σε όλη την Τουρκία](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 Στη μέση του δέντρου βλέπουμε μια σειρά από κρούσματα που προέρχονται από πολλές διαφορετικές επαρχίες της Τουρκίας.
 Ορισμένα από αυτά έχουν ιστορικό ταξιδιού στη Σαουδική Αραβία και ακολούθως σχετίζονται στενά με άλλα κρούσματα στην Τουρκία.
@@ -160,7 +160,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Τουλάχιστον 11 εισαγωγές στην Πολωνία](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Τουλάχιστον 11 εισαγωγές στην Πολωνία](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Έχουμε 15 αλληλουχίες από την Πολωνία στο Nextstrain. Από αυτες τις 15, τουλάχιστον 11 αντιπροσωπεύουν ξεχωριστές εισαγωγές από άλλες χώρες.
 Όπως και στη Μόσχα, δεδομένου του αριθμού των κρουσμάτων που αναφέρθηκαν, θα μπορούσαμε να αναμένουμε ότι πολλές από αυτές τις εισαγωγές έχουν δημιουργήσει τοπικές αλυσίδες διασποράς στην Πολωνία, αλλά ακόμα δεν μπορούμε να δούμε κάτι τέτοιο από τα γονιδιωματικά δεδομένα.
@@ -169,7 +169,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Τα πρώτα δείγματα από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Τα πρώτα δείγματα από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 Τον Μάρτιο κατατέθηκαν 20 ιικά γονιδιώματα από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία.
 Αν και δεν έχουμε ακόμη αρκετά δεδομένα από αυτές τις χώρες για να εξαγάγουμε συμπεράσματα με βεβαιότητα, επικροτούμε αυτές τις πρώτες προσπάθειες και θα συνεχίσουμε να παρακολουθούμε τα εισερχόμενα δεδομένα.
@@ -178,7 +178,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ...ο καθένας ξεχωριστά
 * Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
 * Να θυμάστε πως ακόμα κι αν εσείς δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις αντίστοιχες πρακτικές ώστε να τους προστατέψετε.
@@ -218,7 +218,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 Θα θέλαμε να ευχαριστήσουμε την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία. Μόνο μέσα από τον άμεσο διαμοιρασμό γονιδιακών δεδομένων και μεταδεδομένων είναι δυνατό να πραγματοποιηθούν αναλύσεις σαν κι αυτήν.
 <br><br>

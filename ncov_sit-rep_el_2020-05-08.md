@@ -35,7 +35,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Περιεχόμενα](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Περιεχόμενα](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=2). 
 * [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=3). 
@@ -137,7 +137,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...ο καθένας ξεχωριστά
 * Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
 * Να θυμάστε πως ακόμα κι αν εσείς δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις αντίστοιχες πρακτικές ώστε να τους προστατέψετε.
@@ -173,7 +173,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Θα θέλαμε να ευχαριστήσουμε την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία. Μόνο μέσα από τον άμεσο διαμοιρασμό γονιδιακών δεδομένων και μεταδεδομένων είναι δυνατό να πραγματοποιηθούν αναλύσεις σαν κι αυτήν.
 <br><br>

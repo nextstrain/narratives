@@ -85,7 +85,7 @@ En la actualización de esta semana, reportamos que:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Información básica del COVID-19](https://nextstrain.org/ncov/2020-03-05)
+# [Información básica del COVID-19](https://nextstrain.org/ncov/2020-03-13)
 A continuación, hemos preparado algunos recursos de información (actualmente en inglés) que vale la pena leer para familiarizarse con el COVID-19 y el virus que lo causa, SARS-CoV-2. Esta información facilitará la interpretación de los datos que presentamos en este reporte.
 
 Si no estas familiarizado con la filogenética, te recomendamos leer la siguiente introduccion ['Cómo leer philogenias'](https://nextstrain.org/narratives/trees-background/es) antes de leer el presente reporte.
@@ -219,7 +219,7 @@ Distanciación social – es decir, disminuir el número de personas con cual te
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Preguntas frecuentes y conceptos erróneos](https://nextstrain.org/ncov/2020-03-05)
+# [Preguntas frecuentes y conceptos erróneos](https://nextstrain.org/ncov/2020-03-13)
 
 #### Sabemos que mucha gente tiene preguntas sobre el COVID-19.
 
@@ -262,7 +262,7 @@ En un esfuerzo por tratar de explicar por qué estos puntos de vista son incorre
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédito científico](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédito científico](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 Nos gustaría reconocer el increíble y oportuno trabajo realizado por todos los científicos involucrados en este brote, pero particularmente aquellos que trabajan en China.
 Solo mediante el intercambio rápido de datos genómicos y metadatos se pueden realizar análisis como estos.
@@ -403,7 +403,7 @@ Agradecemos los datos generados por estos laboratorios:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédito científico detallado](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédito científico detallado](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 Estos datos se compartieron a través de [GISAID](https://gisaid.org).
 Agradecemos sus contribuciones.

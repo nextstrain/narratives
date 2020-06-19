@@ -181,7 +181,7 @@ El hecho de que ocurra una agrupación tan fuerte de las infecciones humanas por
 
 Por el momento, la mayoría de las mutaciones observadas corresponden a lo que llamamos singletons: genomas con mutaciones únicas. Solamente las secuencias que forman los dos grupos de Guangdong y la secuencias de los Estados Unidos comparten mutaciones únicas; exploraremos esto en las diapositivas siguientes.
 
-# [Transmisión dentro de la familia 1](https://nextstrain.org/2020-01-25/ncov?m=div&d=tree&f_location=Zhuhai)
+# [Transmisión dentro de la familia 1](https://nextstrain.org/ncov/2020-01-25?m=div&d=tree&f_location=Zhuhai)
 
 Hay dos aislamientos genéticamente idénticos de Zhuhai (en el sureste de China, provincia de Guangdong) que forman un grupo. Estas secuencias comparten una mutación que no se ve en ningún otro aislado (puede pasar el mouse sobre las ramas para ver qué mutaciones están presentes).
 

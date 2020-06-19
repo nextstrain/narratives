@@ -99,7 +99,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [ロシア連邦への多くの伝播](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [ロシア連邦への多くの伝播](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 ロシア連邦のサンプルを表示すると、地理的に（ロシア全体に）、ゲノム的に（系統樹全体に）散らばっていることがわかります。
 <br><br>
@@ -111,7 +111,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [モスクワで不均一的に感染拡大](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [モスクワで不均一的に感染拡大](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 モスクワからのサンプルを拡大すると、頻繁な伝播の例を見ることができます。
 <br><br>
@@ -122,7 +122,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [サンクトペテルブルクでの３月初旬に発生した感染拡大](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [サンクトペテルブルクでの３月初旬に発生した感染拡大](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 サンクトペテルブルクを反例としてみてみます。
 <br><br>
@@ -134,7 +134,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [チェコ共和国での５つの地域関連の連鎖](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [チェコ共和国での５つの地域関連の連鎖](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 チェコ共和国からのデータは前述のような２つのパターンが混在が現れています。
 <br><br>
@@ -146,7 +146,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [トルコ共和国各地での症例の広範囲での混合](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [トルコ共和国各地での症例の広範囲での混合](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 系統樹の中央に、トルコ共和国中の多数の様々な地方から収集された症例の列が見られます。
 これらの症例の中には、サウジアラビアへの渡航履歴が報告され、トルコ共和国国内で関連が強く、それに続くような症例があるものもあります。
@@ -163,7 +163,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [ポーランド共和国への少なくとも１１度の伝播](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [ポーランド共和国への少なくとも１１度の伝播](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Nextstrain 上では１５のポーランド共和国からの遺伝子配列があります。これら１５のうち少なくとも１１サンプルは世界の他の地域からの独立した伝播であることを表しています。
 モスクワのように、報告された症例数を考慮すると、これらのうちのいくつかの伝播によって、ポーランド共和国国内での感染の連鎖が発生したと考えることができるかもしれませんが、ゲノムデータからはこのことはまだ見えていません。
@@ -172,7 +172,7 @@ Nextstrain 上では１５のポーランド共和国からの遺伝子配列が
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [ハンガリー、ラトビア共和国、スロバキア共和国、スロベニア共和国からの早期のサンプル](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [ハンガリー、ラトビア共和国、スロバキア共和国、スロベニア共和国からの早期のサンプル](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 ３月、ハンガリー、ラトビア共和国、スロバキア共和国、スロベニア共和国から２０の遺伝子配列が提供されました。
 これらの国からのデータは確かな結論を述べるにはまだ十分ではありませんが、私たちはこのような早期の尽力を称賛していますし、受け取るデータを引き続き注視していきます。
@@ -181,7 +181,7 @@ Nextstrain 上では１５のポーランド共和国からの遺伝子配列が
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [私たちができること](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [私たちができること](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ...個人ができること
 * 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
 * あなたが健康であるとしても、他の人を守るために社会的距離を保つことを実践して下さい。
@@ -224,7 +224,7 @@ Nextstrain 上では１５のポーランド共和国からの遺伝子配列が
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [分析データのクレジット](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [分析データのクレジット](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。 この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。
 

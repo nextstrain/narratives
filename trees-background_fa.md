@@ -205,7 +205,7 @@ abstract: "این روایت چگونگی خواندن و تفسیر درخت‌
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [اعتبار علمی](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [اعتبار علمی](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 ما می‌خواهیم کار شگفت‌انگیز و به موقع انجام شده توسط همه دانشمندان در حال کار بر روی این همه‌گیری جهانی و به ویژه افرادی که در چین کار می‌کنند قدردانی کنیم.
 که با به اشتراک گذاری سریع داده‌های ژنتیکی و داده‌های آماری خود اجازه‌ی تحلیل‌های این‌چنینی را برای ما ممکن می‌سازد.
@@ -346,7 +346,7 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [لیست تکمیلی اعتبار علمی](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [لیست تکمیلی اعتبار علمی](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 این داده‌ها توسط [GISAID](https://gisaid.org) به اشتراک گذاشته‌شده‌اند.
 ما با سپاس از  همکاری آن‌ها قدردانی می‌کنیم.

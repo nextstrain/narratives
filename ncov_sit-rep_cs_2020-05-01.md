@@ -93,7 +93,7 @@ Mapa například ukazuje velký počet vzorků z Islandu, Velké Británie a Niz
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Mnoho případů zanesení nákazy do Ruska](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Mnoho případů zanesení nákazy do Ruska](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 Zvýrazníme-li vzorky z Ruska, vidíme, že jsou rozptýlené geograficky (po celém Rusku) i genomicky (po celém stromu).
 <br><br>
@@ -105,7 +105,7 @@ I když je ve spodní části stromu několik vzorků, které jsou nejtěsněji 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Heterogenní ohnisko v Moskvě](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Heterogenní ohnisko v Moskvě](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 Při přiblížení vzorků z Moskvy lze spatřit příklad častého zanášení nákazy.
 <br><br>
@@ -116,7 +116,7 @@ S ohledem na počet potvrzených případů v Moskvě je pravděpodobné, že p�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Rozsáhlé ohnisko v Petrohradu, k jehož vzniku došlo začátkem března](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Rozsáhlé ohnisko v Petrohradu, k jehož vzniku došlo začátkem března](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 Jako opačný příklad můžeme uvést Petrohrad.
 <br><br>
@@ -128,7 +128,7 @@ Tato charakteristická struktura odpovídá předpokladu, že jeden z těchto p�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Pět místních linií přenosu v České republice](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Pět místních linií přenosu v České republice](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 Data z České republiky vykazují kombinaci těchto dvou charakteristických struktur.
 <br><br>
@@ -140,7 +140,7 @@ Na základě této skutečnosti můžeme prohlásit, že nákaza byla do České
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Rozsáhlé mísení případů po celém Turecku](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Rozsáhlé mísení případů po celém Turecku](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 Uprostřed stromu vidíme řetězec případů, u nichž byl odběr vzorků proveden v řadě různých tureckých provincií.
 Některé z těchto případů vykazují historii cest do Saúdské Arábie s následnými blízce příbuznými případy v Turecku.
@@ -157,7 +157,7 @@ Můžeme také spekulovat o tom, že tato pozorování by mohlo vysvětlit něja
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Nejméně 11 samostatných případů zanesení nákazy do Polska](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Nejméně 11 samostatných případů zanesení nákazy do Polska](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Na webu Nextstrain máme 15 sekvencí z Polska. Z těchto 15 minimálně 11 sekvencí představuje samostatné případy zanesení nákazy odjinud ze světa.
 Stejně jako v případě Moskvy můžeme vzhledem k počtu nahlášených případů očekávat, že se několik těchto případů stalo zárodkem místních linií přenosu v Polsku, ale zatím tuto skutečnost v genomových datech nevidíme.
@@ -166,7 +166,7 @@ Stejně jako v případě Moskvy můžeme vzhledem k počtu nahlášených pří
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Prvotní vzorky z Maďarska, Lotyšska, Polska, Slovenska a Slovinska](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Prvotní vzorky z Maďarska, Lotyšska, Polska, Slovenska a Slovinska](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 V březnu bylo předáno 20 sekvencí z Maďarska, Lotyšska, Polska, Slovenska a Slovinska.
 I když zatím z těchto zemí nemáme dostatek dat na to, abychom mohli učinit pevné závěry, oceňujeme toto prvotní úsilí a příchozí data budeme dále sledovat.
@@ -175,7 +175,7 @@ I když zatím z těchto zemí nemáme dostatek dat na to, abychom mohli učinit
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Co můžete udělat vy](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Co můžete udělat vy](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ... jako běžný občan
 * Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
 * Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
@@ -218,7 +218,7 @@ I když zatím z těchto zemí nemáme dostatek dat na to, abychom mohli učinit
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou.
 Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.

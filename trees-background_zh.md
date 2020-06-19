@@ -267,7 +267,7 @@ Interpreting these should, however, be done with caution, as the sampling and se
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [科学贡献人员](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 我们要感谢参与此次疫情的所有科学家所做的令人惊叹和及时的工作，特别是那些在中国工作的科学家。
 只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
@@ -408,7 +408,7 @@ Interpreting these should, however, be done with caution, as the sampling and se
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [科学贡献详情](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [科学贡献详情](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 所有基因组数据已被共享至 [GISAID](https://gisaid.org)数据库。
 我们非常感谢各位科学家的慷慨分享。

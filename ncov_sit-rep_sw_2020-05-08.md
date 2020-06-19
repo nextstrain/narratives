@@ -31,7 +31,7 @@ abstract: "Ripoti hii ya kila wiki inatumia data ya kijeni inayoshirikiwa kwa um
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Yaliyomo](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Yaliyomo](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Nyenzo za kurejelea](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-05-08?n=2).     
 * [Kuhusu data hii](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-05-08?n=3).  
@@ -135,7 +135,7 @@ Kujirudia kwa mtindo huu ni ithibati tosha kuwa mara nyingi virusi hivi vinasamb
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Wajibu wako](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Wajibu wako](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...kibinafsi
 * Hakikisha hutangamani na watu, haswa ikiwa uko katika hatari ya kuambukizwa.
 * Kumbuka kuwa hata ikiwa huko hatarini zaidi, watu wengi karibu nawe wako hatarini; zingatia desturi hizi ili uwalinde wengine.
@@ -172,7 +172,7 @@ Kujirudia kwa mtindo huu ni ithibati tosha kuwa mara nyingi virusi hivi vinasamb
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Mchango wa wanasayansi](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Mchango wa wanasayansi](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Tungependa kutambua juhudi na kazi nzuri ya wanasayansi wote wanaohusika katika janga hili.
 Uchunganuzi kama huu unawezekana tu kupitia kushiriki data na metadata ya kijeni kwa wakati.

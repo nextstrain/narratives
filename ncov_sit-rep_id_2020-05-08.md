@@ -35,7 +35,7 @@ abstract: "Laporan mingguan ini menggunakan data genomik yang dibagikan secara p
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Daftar isi](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Daftar isi](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Bacaan latar belakang](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-05-08?n=2).     
 * [Perihal data ini](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-05-08?n=3).  
@@ -139,7 +139,7 @@ Konsistensi pola ini merupakan petunjuk kuat seringnya virus ini melintasi batas
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...sebagai pribadi
 * Lakukanlah perenggangan sosial secara ketat, terutama jika Anda tergolong dalam kelompok rentan.
 * Ingatlah bahwa meskipun Anda tidak sangat rentan, banyak orang di sekitar Anda sangatlah rentan; lakukanlah hal-hal ini untuk melindungi orang lain.
@@ -176,7 +176,7 @@ Konsistensi pola ini merupakan petunjuk kuat seringnya virus ini melintasi batas
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Pengakuan ilmiah](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Pengakuan ilmiah](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Kami menyampaikan penghargaan atas kerja keras luar biasa yang telah dilakukan oleh semua ilmuwan yang terlibat dalam wabah ini. Hanya melalui berbagi cepat data genomik dan metadata analisis ini dapat dilakukan.
 <br><br>

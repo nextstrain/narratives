@@ -97,7 +97,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [ادخالات متعددة الى روسيا](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [ادخالات متعددة الى روسيا](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 بتظليل العينات من روسيا نستطيع مشاهدة انها تتبعثر جغرافيا خلال روسيا وجينوميا خلال الشجرة.
 <br><br>
@@ -109,7 +109,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [انتشار وبائي غير متجانس في موسكو](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [انتشار وبائي غير متجانس في موسكو](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 مثال على الاستيراد المتكرر يمكن مشاهدته من خلال تكبير العينات من موسكو.
 <br><br>
@@ -120,7 +120,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [تجمع وبائي كبير في سانت بطرسبرغ، اشتعل في بداية مارس](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [تجمع وبائي كبير في سانت بطرسبرغ، اشتعل في بداية مارس](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 يمكننا النظر الى سانت بطرسبرغ كمثال مضاد.
 <br><br>
@@ -132,7 +132,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [خمس سلاسل انتشار محلية في جمهورية التشيك](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [خمس سلاسل انتشار محلية في جمهورية التشيك](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 تظهر البيانات من جمهورية التشيك خليط من هذين النمطين
 <br><br>
@@ -144,7 +144,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [خلط مكثف للحالات في تركيا](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [خلط مكثف للحالات في تركيا](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 في وسط الشجرة، نرى هناك خيطا لحالات تم جمعها من محافظات متعددة و مختلفة من أنحاء تركيا
 بعض هذه الحالات سجلت تاريخ سفر للمملكة العربية السعودية، مع حالات تالية مرتبطة بها بشكل أكبر في تركيا.
@@ -162,7 +162,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [هناك على الاقل احد عشر ادخالا الى بولندا](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [هناك على الاقل احد عشر ادخالا الى بولندا](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 لدينا خمسة عشر تسلسلا جينوميا من بولندا . من هذه الخمسة عشر، على الأقل احد عشر منها تمثل ادخالات منفصلة من مكان ما آخر من العالم.
 كما هو في موسكو، مع أخذ عدد الحالات الموثقة بعين الإعتبار، يمكننا أن نتوقع ان العديد من حالات الإدخال هذه ادت الى بذر سلاسل انتشار محلية في بولندا، ولكن لا يمكننا حتى الآن مشاهدة ذلك في البيانات الجينومية.
@@ -171,7 +171,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [عينات مبكرة من هنغاريا، لاتفيا، سلوفاكيا و سلوفينيا](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [عينات مبكرة من هنغاريا، لاتفيا، سلوفاكيا و سلوفينيا](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 في مارس، تم تحميل عشرون تسلسل جينومي من هنغاريا، لاتفيا، سلوفاكيا وسلوفينيا
 بينما لا نمتلك بيانات كافية من هذه الدول لرسم استنتاجات قوية، فنحن نثني على جهودهم المبكرة وسنستمر في متابعة بياناتهم القادمة.
@@ -180,7 +180,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [ماذا يمكنك أن تفعل](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [ماذا يمكنك أن تفعل](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ...كفرد في المجتمع
 * قم بالتقيد بالحجر الصحي، تحديدا إذا كنت في مجموعة هي عرضة للوباء
 * تذكر ،  حتى لو لم تكن عرضة  للوباء،  فهناك  العديد من الأشخاص حولنا قد يكونون.  فتقيد بالحجر لحمايتهم
@@ -224,7 +224,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [الحقوق العلمية](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [الحقوق العلمية](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 نود ان نقدر هنا العمل الرائع وفي الوقت المطلوب من قبل كل العلماء الذين انخرطوا في هذا الوباء.
 ما كان لهذه التحليلات ان تكون ممكنة لولا  المشاركة السريعة للبيانات الجينومية

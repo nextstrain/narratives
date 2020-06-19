@@ -189,7 +189,7 @@ Atualmente não há qualquer evidência de que tais mutações mudaram a forma c
 
 
 
-# [Transmissão dentro da família 1](https://nextstrain.org/2020-01-30/ncov?m=div&d=tree&f_location=Zhuhai)
+# [Transmissão dentro da família 1](https://nextstrain.org/ncov/2020-01-30?m=div&d=tree&f_location=Zhuhai)
 
 Há três isolados de Zhuhai (sudeste da China, na província de Guangdong) que são geneticamente idênticos, e que formam um grupo, compartilhando uma mutação única que não é vista em outros isolamentos (passe o mouse sobre as ramificações para ver quais mutações estão presentes).
 

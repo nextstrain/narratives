@@ -76,7 +76,7 @@ We applaud the groups working to generate additional data for these regions. As 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
+# [COVID-19 Resources](https://nextstrain.org/ncov/2020-04-03)
 We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
 This information will make interpreting the data we present in this narrative easier.
 <br><br>
@@ -245,7 +245,7 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [What you can do](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### ...as an individual
 * Practice strict social distancing.
 * Even if you are not vulnerable, practice social distancing to protect others.
@@ -614,7 +614,7 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Detailed scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 These data were shared via [GISAID](https://gisaid.org).
 We gratefully acknowledge their contributions.

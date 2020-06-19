@@ -107,7 +107,7 @@ Przygotowaliśmy materiały online, które ułatwią interpretowanie przygotowan
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Opis próbkowania](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [Opis próbkowania](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 Obecnie dysponujemy sekwencjami próbek pobranych w 57</tag> krajach z 6 kontynentów. To niesamowity wyczyn -- sekwencjonowanie nieznanego wirusa o sporym genomie RNA w środku pandemii jest trudne i możliwe jedynie dzięki ogromnej pracy i sprawnemu udostępnianiu danych przez naukowców i lekarzy z całego świata.
 <br><br>
 Choć zgromadzone dane umożliwiają wyciąganie wniosków na temat wielu przydatnych aspektów epidemii oraz pozwalają śledzić jej rozprzestrzenianie w czasie rzeczywistym, należy podkreślić, że nasze wnioski są ograniczone dostępnością danych.
@@ -244,7 +244,7 @@ This resoundingly demonstrates that this pandemic is a global fight; we all must
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Konkluzje](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Konkluzje](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 Regionalne i narodowe ogniska epidemii są i będą głęboko z sobą powiązane.
 <br><br>
@@ -282,7 +282,7 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Podziękowania](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Podziękowania](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. W szczególności dziękujemy tym, którzy pracują w Chinach. 
 Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
@@ -698,7 +698,7 @@ Dziękujemy za dane zebrane w tych ośrodkach badawczych:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Szczególne podziękowania](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Szczególne podziękowania](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Te dane były udostępniane poprzez platformę [GISAID](https://gisaid.org).
 Szczególnie dziękujemy za wkład ich drużyny.

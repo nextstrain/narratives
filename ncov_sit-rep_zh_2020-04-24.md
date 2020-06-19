@@ -187,7 +187,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [你能做些什么](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [你能做些什么](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### ...个人可以采取的行动
 * 保持严格的社交距离，尤其是高风险人群。
 * 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循这些做法可以保护他人。
@@ -228,7 +228,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [科学贡献人员](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 
 <br><br>

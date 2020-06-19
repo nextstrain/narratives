@@ -189,7 +189,7 @@ These three samples are [known to come from a single family](https://twitter.com
 The fourth sample does not seem to be related to the other three, or to any other of the available sequences.
 Its genome has one mutation not seen in any other genome.
 
-# [Potential within-family transmission 2](https://nextstrain.org/ncov?d=tree&f_city=Zhuhai)
+# [Potential within-family transmission 2](https://nextstrain.org/ncov/2020-01-23?d=tree&f_city=Zhuhai)
 
 Similarly, there are two genetically-identical isolates from Zhuhai (Southeastern China, Guangdong Province) which form a cluster, sharing one unique mutation seen in no other isolate.
 

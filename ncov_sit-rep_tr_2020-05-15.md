@@ -37,7 +37,7 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Yönetici Özeti](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Yönetici Özeti](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 5.193 halka açık COVID-19 genomunu analiz ettik. Bu viral genomları birbirleriyle karşılaştırarak, SARS-CoV-2'nin dünyada nasıl geliştiğini ve hareket ettiğini ortaya koyabiliriz. Bu hafta viral mutasyonlara odaklanıyoruz ve şunları bildiriyoruz:
 <br><br>
@@ -180,7 +180,7 @@ Bu iki hipotezin göreli gerçekliği ne ilişkin epeyce bir tartışma var. Bun
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Ne yapabilirsiniz?](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [Ne yapabilirsiniz?](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...bireysel olarak
 * Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız.
 * Hassas grupta olmasanız da etrafınızdaki pek çok kişinin bu kategoriye girdiğini unutmayın. Diğerlerini korumak için bu kurallara uyun.

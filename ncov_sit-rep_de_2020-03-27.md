@@ -238,7 +238,7 @@ Die Sequenzierung von Isolaten wird zur Zeit intensiviert und wenn es mehr Infor
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Export von COVID-19 aus dem Iran](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [Export von COVID-19 aus dem Iran](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 Zurzeit sind noch nicht viele Sequenzen aus dem Iran verfügbar.

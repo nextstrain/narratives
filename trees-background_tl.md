@@ -212,7 +212,7 @@ Gayunman, laging mayroong walang katiyakan sa mga tantiyang ito. Sa pangkalahata
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Siyentipikong kredito](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Siyentipikong kredito](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Nais naming kilalanin ang kahanga-hanga at napapanahong trabaho na isinagawa ng lahat ng siyentipikong sangkot sa paglaganap ng sakit na ito, lalo na ang mga nagtatrabaho sa China.
 Tanging sa pamamagitan lamang ng mabilis na pagbabahagi ng mga genomic na datos at metadata nagiging posible ang mga pagsusuring tulad nito.
@@ -353,7 +353,7 @@ Nagpapasalamat kami sa mga datos na kinalap ng mga laboratoryong pinanggalingan 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detalyadong siyentipikong kredito](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Detalyadong siyentipikong kredito](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Ang mga datos na ito na ibinahagi sa pamamagitan ng [GISAID](https://gisaid.org).
 Lubos kaming nagpapasalamat sa kanilang mga kontribusyon.

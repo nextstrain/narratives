@@ -35,7 +35,7 @@ abstract: "Οι αναφορές κατάστασης του Nextstrain χρησ
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Περίληψη](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Περίληψη](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Έχουμε αναλύσει 5.193 δημοσίως διαθέσιμα γονιδιώματα COVID-19. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους μπορούμε να κατανοήσουμε πώς ο COVID-19 μετακινείται στην υφήλιο. Αυτή την εβδομάδα εστιάζουμε στις ιικές μεταλλάξεις. Καλύπτουμε:
 <br><br>
@@ -178,7 +178,7 @@ abstract: "Οι αναφορές κατάστασης του Nextstrain χρησ
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...ο καθένας ξεχωριστά
 * Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
 * Να θυμάστε πως ακόμα κι αν εσείς δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις αντίστοιχες πρακτικές ώστε να τους προστατέψετε.

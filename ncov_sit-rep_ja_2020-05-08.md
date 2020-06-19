@@ -37,7 +37,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [目次](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [目次](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=2).     
 * [データについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=3).  
@@ -139,7 +139,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [私たちができること](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [私たちができること](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...個人ができること
 * 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
 * あなたが健康であるとしても、他の人を守るために社会的距離を保つことを実践して下さい。
@@ -176,7 +176,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データのクレジット](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [分析データのクレジット](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。 この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。
 <br><br>

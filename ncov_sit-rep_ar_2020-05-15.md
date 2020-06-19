@@ -35,7 +35,7 @@ abstract: " تستخدم تقارير الحالة من نيكست سترين ا
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [الملخص التنفيذي](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [الملخص التنفيذي](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 قمنا هنا بتحليل جينومات 5139 فيروس تم مشاركتها للعموم. من خلال مقارنة هذه الجينومات ببعضها البعض، نستطيع أن نحدد كيف يتطور فيروس سارس-كو-في-2 وكيف يتنقل حول العالم. نركز في تقرير هذا الاسبوع على الطفرات الفيروسية. ونوثق ما يلي:
 <br><br>
@@ -179,7 +179,7 @@ R0 هو يعرف برقم الاستساخ، ويعني عدد الاصابات 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [ماذا تفعل](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [ماذا تفعل](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...كفرد في المجتمع
 * قم بالتقيد بالحجر الصحي، تحديدا إذا كنت في مجموعة هي عرضة للوباء
 * تذكر ،  حتى لو لم تكن عرضة  للوباء،  فهناك  العديد من الأشخاص حولنا قد يكونون.  فتقيد بالحجر لحمايتهم

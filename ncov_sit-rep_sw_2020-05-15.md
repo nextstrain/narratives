@@ -31,7 +31,7 @@ abstract: "Ripoti za Nextstrain kuhusu Hali Ilivyo hutumia data ya kijeni inayoo
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Muhtasari](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Muhtasari](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Tulichunguza jeni 5,193 za COVID-19 zinazoonyeshwa kwa umma. Kwa kulinganisha jeni hizi za virusi moja kwa nyingine, tunaweza kufafanua jinsi SARS-CoV-2 inavyobadilika kijeni na kusambaa ulimwenguni. Wiki hii, tunaangazia mabadiliko ya kijeni ya virusi. Tunaangazia:
 <br><br>
@@ -177,7 +177,7 @@ Kuna mijadala mingi kuhusu mashiko ya nadharia hizi mbili. Ni muhimu kuzitathmin
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Wajibu wako](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [Wajibu wako](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...kibinafsi
 * Kaa mbali na watu, haswa ikiwa uko katika hatari ya kuambukizwa.
 * Kumbuka kuwa hata ikiwa huko hatarini zaidi, watu wengi karibu nawe wako hatarini; zingatia desturi hizi ili uwalinde wengine.

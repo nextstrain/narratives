@@ -78,7 +78,7 @@ Připravili jsme materiály dostupné online, které usnadňují interpretaci zd
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Poznámka k odběru vzorků](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [Poznámka k odběru vzorků](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 V současnosti máme k dispozici sekvence ze vzorků odebraných v 57 zemích na 6 světadílech. To je neuvěřitelný úspěch – sekvenování neznámého, velkého RNA viru uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
 <br><br>
 I když nám tato data umožňují vyvodit mnoho užitečných charakteristik propuknutí nákazy a sledovat její šíření v reálném čase, je důležité zdůraznit, že naše závěry jsou limitovány dostupnými údaji.
@@ -174,7 +174,7 @@ To jednoznačně dokládá, že tato pandemie představuje celosvětový boj. Po
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Klíčový závěr](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Klíčový závěr](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 Regionální a vnitrostátní ohniska nákazy jsou a budou pevně propojena.
 <br><br>
@@ -209,7 +209,7 @@ Tato pandemie představuje celosvětový boj. Pokud máme mít naději virus kde
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou, zejména těch, kteří pracují v Číně.
 Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
@@ -627,7 +627,7 @@ Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovým
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Individuální poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Individuální poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Tyto údaje byly sdíleny prostřednictvím neziskové organizace [GISAID](https://gisaid.org).
 Srdečně děkujeme za její pomoc.

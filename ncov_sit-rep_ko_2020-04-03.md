@@ -82,7 +82,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/2020-03-27)
+# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/2020-04-03)
 코로나바이러스감염증-19와 이를 유발하는 SARS-CoV-2 바이러스(또는 hCov-19로 알려진)에 대한 몇 가지 자료를 준비했습니다. 이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
 <br><br>
 계통수(계통유전학적 나무)가 익숙하지 않은 분들은 ['계통수를 읽는 법'](https://nextstrain.org/narratives/trees-background/ko) 을 읽고 오십시오.
@@ -250,7 +250,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### 개인이 할 수 있는 것들
 * 엄격한 사회적 거리두기를 하십시오.
 * 당신이 취약계층이 아니더라도 사회적 거리두기를 하십시오. 그래야 다른 사람들을 보호할 수 있습니다.
@@ -618,7 +618,7 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Detailed scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 이 데이터는 [GISAID](https://gisaid.org)를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 

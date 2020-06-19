@@ -22,7 +22,7 @@ Although it is impossible to determine exactly how WNV was introduced, human tra
 
 
 
-# [Conquering a continent: Part I](nextstrain.org/WNV/NA?animate=1997-12-01,2018-08-27,1,0,30000&c=num_date&d=map&f_country=USA)
+# [Conquering a continent: Part I](https://nextstrain.org/WNV/NA?animate=1997-12-01,2018-08-27,1,0,30000&c=num_date&d=map&f_country=USA)
 
 You are now seeing a the spread of WNV between 1998 - 2019 as an animation. The color represents the time, starting with blues & greens in the 90s and early 2000s through to oranges & reds in the past decade.
 
@@ -33,7 +33,7 @@ Based on spatial and phylogenetic data, it is estimated that West Nile virus ini
 
 
 
-# [Conquering a continent: Part II](nextstrain.org/WNV/NA?c=num_date&f_country=USA&d=map)
+# [Conquering a continent: Part II](https://nextstrain.org/WNV/NA?c=num_date&f_country=USA&d=map)
 
 ### What factors aided its rapid spread?
 It is likely that a large population of naive and susceptible bird hosts and mosquito vectors already present in the United States helped West Nile virus to quickly spread across the continent despite the varied landscapes that it needed to traverse.

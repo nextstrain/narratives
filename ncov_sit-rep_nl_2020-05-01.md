@@ -99,7 +99,7 @@ Zo toont de kaart  bijvoorbeeld veel monsters vanuit Ijsland, het Verenigd Konin
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Veel introducties naar Rusland](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Veel introducties naar Rusland](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 Als we de monsters uit Rusland markeren, zien we dat ze zowel geografisch (over Rusland) als genomisch (over de boom) verspreid zijn. 
 <br><br>
@@ -111,7 +111,7 @@ Alhoewel er enkele monsters onder aan de boom zijn die nauw verwant zijn aan Azi
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Heterogene uitbraak in Moskou](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Heterogene uitbraak in Moskou](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 Een voorbeeld van frequente import kan gezien worden door in te zoomen op monsters uit Moskou. 
 <br><br>
@@ -122,7 +122,7 @@ Gegeven het aantal bevestigde gevallen in Moskou, is het waarschijnlijk dat in i
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Groot uitbraak cluster in St. Petersburg, begin maart begonnen](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Groot uitbraak cluster in St. Petersburg, begin maart begonnen](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 We kunnen naar St. Petersburg kijken als tegenvoorbeeld.
 <br> <br>
@@ -136,7 +136,7 @@ door de stad veroorzaakte, te beginnen rond de eerste week van maart. Dit grote 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Vijf lokale transmissieketens in Tsjechië](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Vijf lokale transmissieketens in Tsjechië](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 De data vanuit Tsjechië laten een mix van deze twee patronen zien.
 <br><br>
@@ -148,7 +148,7 @@ Hieruit kunnen we concluderen dat er minimaal 7 introducties naar Tsjechië ware
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Uitgebreide verstrengeling van gevallen door heel Turkije](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Uitgebreide verstrengeling van gevallen door heel Turkije](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 In het midden van de boom zien we een reeks gevallen bemonsterd in vele verschillende provincies in Turkije.
 Sommige van deze gevallen hebben een gerapporteerde reisgeschiedenis naar Saoedi-Arabië, met daaropvolgende nauw verwante gevallen in Turkije.
@@ -165,7 +165,7 @@ We kunnen ook speculeren dat een grote bijeenkomst deze waarnemingen zou kunnen 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Ten minste 11 introducties in Polen](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Ten minste 11 introducties in Polen](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 We hebben 15 sequenties uit Polen op Nextstrain. Van deze 15 vertegenwoordigen er ten minste 11 afzonderlijke introducties vanuit elders in de wereld.
 Net als in Moskou zouden we, gezien het aantal gemelde gevallen, kunnen verwachten dat verschillende van deze introducties lokale transmissieketens in Polen hebben gestart, maar we kunnen dit nog niet zien in de genomische gegevens.
@@ -175,7 +175,7 @@ Net als in Moskou zouden we, gezien het aantal gemelde gevallen, kunnen verwacht
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Vroege monsters uit Hongarije, Letland, Slowakije en Slovenië](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Vroege monsters uit Hongarije, Letland, Slowakije en Slovenië](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 In maart werden 20 sequenties ingestuurd uit Hongarije, Letland, Slowakije en Slovenië.
 Hoewel we nog niet over voldoende gegevens van deze landen beschikken om definitieve conclusies te trekken, juichen we deze vroege inspanningen toe en zullen we de inkomende data blijven volgen.
@@ -184,7 +184,7 @@ Hoewel we nog niet over voldoende gegevens van deze landen beschikken om definit
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Wat u kunt doen](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Wat u kunt doen](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ...als individu
 * beoefen strikte social distancing, vooral als u tot een kwetsbare groep behoort.
 * Onthoud dat zelfs als je niet super kwetsbaar bent, veel mensen om je heen dat wel zijn; volg deze handelingen om anderen te beschermen.
@@ -227,7 +227,7 @@ Hoewel we nog niet over voldoende gegevens van deze landen beschikken om definit
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Wetenschappelijke verdienste](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Wetenschappelijke verdienste](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 Wij willen onze erkentelijkheid betuigen voor het verbazingwekkende en tijdige werk dat is verricht door alle wetenschappers die bij deze uitbraak betrokken zijn. Alleen door het snel delen van genomische gegevens en metadata zijn analyses zoals deze mogelijk.
 <br><br>

@@ -190,7 +190,7 @@ Nextstrain 上には、ガーナからの 14 の遺伝子配列があり、系�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [私たちができること](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [私たちができること](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### ...個人ができること
 * 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
 * 外ではマスクをしましょう。
@@ -232,7 +232,7 @@ Nextstrain 上には、ガーナからの 14 の遺伝子配列があり、系�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [分析データのクレジット](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [分析データのクレジット](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 
 
 私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。 この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。

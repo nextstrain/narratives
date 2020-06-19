@@ -208,7 +208,7 @@ A와 B 또한 다른 서열에서 발견되지 않는 고유의 돌연변이(녹
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [과학적 기여자들](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [과학적 기여자들](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 이번 유행에 관여하고 있는 모든 과학자들, 특히 중국의 과학자들의, 작업들이 대단하고 신속했다는 점에 감사를 표하고자 합니다. 이 분석들은 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 불가능했을 것입니다.
 
@@ -348,7 +348,7 @@ A와 B 또한 다른 서열에서 발견되지 않는 고유의 돌연변이(녹
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [과학적 기여: 상세 내역](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [과학적 기여: 상세 내역](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 이 데이터는 [GISAID](https://gisaid.org)를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 

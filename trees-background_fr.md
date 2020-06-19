@@ -216,7 +216,7 @@ Cependant, ces estimations sont toujours incertaines. En général, les parties 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédit scientifique](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédit scientifique](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Nous tenons à souligner le superbe travail accompli si rapidement par tous les scientifiques impliqués dans cette épidémie, et en particulier ceux qui travaillent en Chine. Ce n'est que par le partage rapide des données génomiques et des métadonnées que de telles analyses sont possibles.
 
@@ -356,7 +356,7 @@ Nous sommes reconnaissants pour les données recueillies par ces laboratoires d'
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédit scientifique détaillé](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédit scientifique détaillé](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Ces données ont été partagées par [GISAID](https://gisaid.org). Nous remercions chaleureusement leurs contributions.
 

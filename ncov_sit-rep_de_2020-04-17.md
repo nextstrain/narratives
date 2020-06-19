@@ -153,7 +153,7 @@ Es hat auch mehrfache Einschleppungen nach Rocky Mountain West gegeben. Zoomt ma
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Was Sie tun koennen](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [Was Sie tun koennen](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ...als Einzelperson
 * Reduzieren Sie die Anzahl an Personen, mit denen Sie taeglich Kontakt haben, besonders wenn Sie zu einer Risikogruppe gehoeren (z.B. Senioren und Leute mit Vorerkrankungen).
 * Tragen Sie eine Maske in der Oeffentlichkeit.
@@ -680,7 +680,7 @@ Vielen herzlichen Dank an nachfolgende Labore fuer das Zusammentragen der Daten:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detaillierte Danksagung](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Detaillierte Danksagung](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 Diese Daten wurden durch [GISAID](https://gisaid.org) ermoeglicht.
 Wir moechten uns hier recht herzlich fuer deren Beteiligung bedanken.

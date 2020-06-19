@@ -35,7 +35,7 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [İçindekiler](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [İçindekiler](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Arkaplan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-08?n=2).     
 * [Veriler Hakkında](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-05-08?n=3).  
@@ -140,7 +140,7 @@ Bu örüntüdeki tutarlılık virüsün sık sık uluslararası sınırlara geç
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Ne yapabilirsiniz?](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Ne yapabilirsiniz?](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...bireysel olarak
 * Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız.
 * Hassas grupta olmasanız da etrafınızdaki pek çok kişinin bu kategoriye girdiğini unutmayın. Diğerlerini korumak için bu kurallara uyun.
@@ -177,7 +177,7 @@ Bu örüntüdeki tutarlılık virüsün sık sık uluslararası sınırlara geç
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Bilimsel Katkılar](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Bilimsel Katkılar](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına teşekkür etmek istiyoruz. Bu gibi çalışmalar yalnızca genomik verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
 <br><br>

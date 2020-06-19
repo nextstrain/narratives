@@ -154,7 +154,7 @@ Er zijn ook verschillende introducties geweest in de Rocky Mountain West. Als we
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Wat jij kan doen](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [Wat jij kan doen](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ...als individu
 * Beoefen een strikte social distancing, vooral als je in een kwetsbare groep zit.
 * Draag een mondkapje in het openbaar.
@@ -683,7 +683,7 @@ We zijn dankbaar voor de gegevens die door deze oorspronkelijke laboratoria zijn
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Gedetailleerde wetenschappelijke verantwoording](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Gedetailleerde wetenschappelijke verantwoording](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 Deze gegevens werden gedeeld via [GISAID](https://gisaid.org).
 Wij zijn dankbaar voor hun bijdragen.

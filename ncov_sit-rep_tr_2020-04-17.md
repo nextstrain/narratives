@@ -157,7 +157,7 @@ Batı Rocky Dağları için de çoklu girişler söz konusudur. Daha yakından b
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Ne yapabilirsiniz?](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [Ne yapabilirsiniz?](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ...bireysel olarak
 * Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız.
 * Halka açık alanlarda maske takın.
@@ -685,7 +685,7 @@ Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Bilimsel katkı detayları](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Bilimsel katkı detayları](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 Bu veriler [GISAID](https://gisaid.org) üzerinden paylaşılabiliyor. Onlara katkıları için çok teşekkür ediyoruz.
 We gratefully acknowledge their contributions.

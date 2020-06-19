@@ -80,7 +80,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [关于抽样](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [关于抽样](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 我们目前有来自 6 大洲 57 个国家的病毒样本序列。这是一项令人难以置信的壮举--在病毒大流行期间对一种未知的大型 RNA 病毒进行测序是很困难的，只有通过世界各地的科学家和医生令人难以置信的工作和及时共享数据才有可能。
 <br><br>
 虽然这些数据使我们能够推断出这场疫情的许多有用的特征并实时跟踪其传播，但需要强调的是，我们的结论受到现有数据的限制。
@@ -177,7 +177,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [总结](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [总结](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 每个国家和地区的疫情都是且将是紧密相连的。
 <br><br>
@@ -215,7 +215,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [科学贡献人员](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作，特别是那些在中国工作的科学家。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 <br>
@@ -631,7 +631,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [科学贡献详情](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [科学贡献详情](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 所有数据已被共享至[GISAID](https://gisaid.org)数据库。 我们感谢各位科学家的慷慨分享。
 

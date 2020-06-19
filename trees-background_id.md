@@ -218,7 +218,7 @@ Namun demikian, selalu ada ketidakpastian dalam estimasi ini. Secara umum, bagia
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Pengakuan ilmiah](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Pengakuan ilmiah](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Kami menyampaikan penghargaan atas kerja keras luar biasa yang telah dilakukan oleh semua ilmuwan yang terlibat dalam wabah ini, tetapi terutama mereka yang bekerja di Cina.
 Hanya melalui berbagi cepat data genomik dan metadata analisis ini dapat dilakukan.
@@ -359,7 +359,7 @@ Kami sangat berterima kasih atas sumbangan data yang dikumpulkan dari laboratori
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Data ini telah dibagikan melalui [GISAID](https://gisaid.org).
 Kami sangat menghargai dan berterima kasih atas kontribusi mereka.

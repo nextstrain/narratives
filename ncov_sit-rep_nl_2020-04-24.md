@@ -189,7 +189,7 @@ Dit is bewijs voor veel afzonderlijke introducties, grotendeels uit Europa, naar
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Wat u kunt doen](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Wat u kunt doen](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### ...als individu
 * beoefen strikte social distancing, vooral als u tot een kwetsbare groep behoort.
 * Onthoud dat zelfs als je niet super kwetsbaar bent, veel mensen om je heen dat wel zijn; volg deze handelingen om anderen te beschermen.
@@ -231,7 +231,7 @@ Dit is bewijs voor veel afzonderlijke introducties, grotendeels uit Europa, naar
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Wetenschappelijk verdienste](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [Wetenschappelijk verdienste](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 
 Wij willen onze erkentelijkheid betuigen voor het verbazingwekkende en tijdige werk dat is verricht door alle wetenschappers die bij deze uitbraak betrokken zijn, en met name door degenen die in China werkzaam zijn. Alleen door het snel delen van genomische gegevens en metadata zijn dergelijke analyses mogelijk.
 <br><br>

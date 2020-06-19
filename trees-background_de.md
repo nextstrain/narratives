@@ -219,7 +219,7 @@ Nichtsdestotrotz gibt es immer Unsicherheiten in diesen Abschätzungen. Meist gi
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Danksagung](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Danksagung](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 
 Wir möchten uns für die beeindruckende, schnelle und transparente Arbeit aller an diesem Ausbruch beteiligten Wissenschaftler, insbesondere aber jener in China tätigen, bedanken. Nur durch den raschen Austausch von genomischen Daten und Metadaten sind solche Analysen möglich.
@@ -358,7 +358,7 @@ Wir sind dankbar fuer die Daten, die von den folgenden Laboren zusammengestellt 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detaillierte Herkunft der Daten](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Detaillierte Herkunft der Daten](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 
 Diese Daten wurden über [GISAID](https://gisaid.org) geteilt. Wir sind sehr dankbar für diese Plattform.

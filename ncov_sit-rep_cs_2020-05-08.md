@@ -30,7 +30,7 @@ abstract: "Předkládaná týdenní zpráva využívá k sledování šíření 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Obsah](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Obsah](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Výchozí zdroje](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=2).     
 * [O těchto údajích](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=3).  
@@ -134,7 +134,7 @@ Toto opakování je jasným důkazem toho, že virus často překračuje mezist�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Co můžete udělat vy](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Co můžete udělat vy](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ... jako běžný občan
 * Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
 * Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
@@ -171,7 +171,7 @@ Toto opakování je jasným důkazem toho, že virus často překračuje mezist�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou.
 Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.

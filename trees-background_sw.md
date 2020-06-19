@@ -212,7 +212,7 @@ Hata hivyo, makadirio hawa huwa si sahihi wakati wote. Kawaida, sehemu za mchoro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Mchango wa kisayansi](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Mchango wa kisayansi](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Tungependa kutambua kazi nzuri na ya kufaa iliyofanywa na wanasayansi wote wanaohusika katika janga hili, lakini haswa wanaofanya kazi Uchina.
 Uchanganuzi kama huu unawezekana tu kupitia jitihada za kushiriki data na metadata ya kijeni.
@@ -353,7 +353,7 @@ Shukran zetu za dhati kwa kupokea data iliyokusanywa na maabara hii iliyohusika:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Mchango wa kina wa kisanyansi](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Mchango wa kina wa kisanyansi](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Data hizi zilitumwa kupitia [GISAID](https://gisaid.org).
 Tunawashukuru na tunapongeza juhudi zao.

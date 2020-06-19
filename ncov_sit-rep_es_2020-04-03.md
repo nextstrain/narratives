@@ -80,7 +80,7 @@ Aplaudimos a los grupos que están trabajando para generar datos adicionales par
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [Información básica del COVID-19](https://nextstrain.org/ncov/2020-03-27)
+# [Información básica del COVID-19](https://nextstrain.org/ncov/2020-04-03)
 Hemos compilado información que vale la pena leer para familiarizarse con el COVID-19 y el virus que lo causa, SARS-CoV-2, también llamado hCov-19. Esta información facilitará la interpretación de los datos que presentamos en este reporte.
 <br><br>
 Si no estás familiarizado con la filogenética, te recomendamos leer la siguiente introducción ['Cómo leer filogenias'](https://nextstrain.org/narratives/trees-background/es) antes de leer este reporte.
@@ -244,7 +244,7 @@ También es importante notar que las secuencias cercanas (en gris) son de EEUU, 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [¡Qué puedes hacer tú!](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [¡Qué puedes hacer tú!](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### ...como persona
 * Practica distanciamiento social estricto.
 * Incluso si no perteneces a ningún grupo vulnerable, practica distanciamiento social para proteger a otros.
@@ -611,7 +611,7 @@ Agradecemos los datos generados por estos laboratorios:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Créditos científicos detallados](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Créditos científicos detallados](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 Los datos utilizados en este reporte son datos públicos compartidos por cada laboratorio a través de [GISAID](https://gisaid.org).
 

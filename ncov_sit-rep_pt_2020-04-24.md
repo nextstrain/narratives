@@ -183,7 +183,7 @@ Isso é evidência de múltiplas introduções independentes, principalmente da 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [O que você pode fazer](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [O que você pode fazer](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### ... como indivíduo
 * Pratique distanciamento social estrito, especialmente se você faz parte de algum grupo de risco.
 * Lembre-se que mesmo que você não seja super vulnerável, muitas pessoas ao seu redor são. Siga essas práticas também para proteger os outros.
@@ -225,7 +225,7 @@ Isso é evidência de múltiplas introduções independentes, principalmente da 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Crédito científico](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [Crédito científico](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 
 Gostaríamos de reconhecer o trabalho incrível e oportuno realizado por todos os cientistas envolvidos nesse surto. Somente com o compartilhamento rápido de dados genômicos e de metadados é que tais análises foram possíveis.
 <br><br>
