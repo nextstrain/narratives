@@ -291,7 +291,7 @@ Sequencing efforts are ramping up, and we will report back as the situation beco
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Eksport COVID-19 z Iranu](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [Eksport COVID-19 z Iranu](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 Nie mamy jeszcze genomów wirusów z Iranu.

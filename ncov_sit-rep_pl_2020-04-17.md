@@ -180,7 +180,7 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Co możesz zrobić](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [Co możesz zrobić](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ...jako jednostka
 * Stosuj ścisłą izolację społeczną, zwłaszcza jeśli jesteś w grupie podwyższonego ryzyka.
 * Noś maseczkę ochronną w miejscach publicznych.
@@ -723,7 +723,7 @@ Dziękujemy za dane zebrane w tych ośrodkach badawczych:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Szczególne podziękowania](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Szczególne podziękowania](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 Te dane były udostępniane poprzez platformę [GISAID](https://gisaid.org).
 Szczególnie dziękujemy za wkład ich drużyny.

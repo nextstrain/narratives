@@ -58,7 +58,7 @@ Dans les mises à jour de cette semaine, nous rapportons:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Ressources sur COVID-19](https://nextstrain.org/ncov/2020-03-05)
+# [Ressources sur COVID-19](https://nextstrain.org/ncov/2020-03-13)
 
 Nous avons préparé quelques ressources qui valent la peine d'être lues pour vous familiariser avec COVID-19 et le virus qui le provoque, SARS-CoV-2.
 
@@ -191,7 +191,7 @@ Si chacun diminuait ses contacts quotidiens de 25 %, on pourrait s'attendre à u
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [FAQs & Idées reçues](https://nextstrain.org/ncov/2020-03-05)
+# [FAQs & Idées reçues](https://nextstrain.org/ncov/2020-03-13)
 
 #### Nous savons que beaucoup de gens ont des questions sur COVID-19.
 
@@ -234,7 +234,7 @@ Afin d'essayer d'expliquer pourquoi ces vues sont incorrectes, les scientifiques
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédit scientifique](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédit scientifique](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 Nous tenons à souligner le superbe travail accompli si rapidement par tous les scientifiques impliqués dans cette épidémie, et en particulier ceux qui travaillent en Chine. Ce n'est que par le partage rapide des données génomiques et des métadonnées que de telles analyses sont possibles.
 
@@ -374,7 +374,7 @@ Nous sommes reconnaissants pour les données recueillies par ces laboratoires d'
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédit scientifique détaillé](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédit scientifique détaillé](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 Ces données ont été partagées par [GISAID](https://gisaid.org). Nous remercions chaleureusement leurs contributions.
 

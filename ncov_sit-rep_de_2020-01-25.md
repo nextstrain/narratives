@@ -196,7 +196,7 @@ Daher gehen wir davon aus, dass dieser Ausbruch auf eine einzige Übertragung au
 Zurzeit treten die meisten Mutationen nur in einzelnen Genomen auf.
 Einzig die Sequenzen, die die beiden Cluster aus Guangdong und die Sequenz aus den USA bilden, haben gemeinsame Mutationen. Wir werden diese in späteren Folien diskutieren.
 
-# [Übertragung in Familien - 1](https://nextstrain.org/2020-01-25/ncov?m=div&d=tree&f_location=Zhuhai)
+# [Übertragung in Familien - 1](https://nextstrain.org/ncov/2020-01-26?m=div&d=tree&f_location=Zhuhai)
 
 Es gibt zwei genetisch identische Isolate aus Zhuhai (Südostchina, Provinz Guangdong), die einen Cluster bilden und eine Mutation haben, die sonst in keinem anderen Isolat zu finden ist.
 

@@ -78,7 +78,7 @@ Wir wollen die Arbeit der Gruppen begruessen, die diese zusaetzlichen Daten gene
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Quellen](https://nextstrain.org/ncov/2020-03-27)
+# [COVID-19 Quellen](https://nextstrain.org/ncov/2020-04-03)
 Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch bekannt als hCov-19 - haben wir einige Quellen vorbereitet, die dem Leser helfen sollen, die nachfolgenden Daten besser und leichter zu verstehen. Diese Informationen helfen Ihnen, die nachfolgenden Daten besser interpretieren zu koennen.
 
 <br><br>
@@ -247,7 +247,7 @@ Interessanterweise sind die umliegenden Sequenzen (hier sichtbar als blasse Spit
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [Was Sie tun koennen](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Was Sie tun koennen](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### ...als Einzelperson
 * Reduzieren Sie die Anzahl an Personen, mit denen Sie taeglich Kontakt haben, besonders wenn Sie zu einer Risikogruppe gehoeren (z.B. Senioren und Leute mit Vorerkrankungen).
 * Bedenken Sie, dass selbst wenn Sie nicht zu einer Risikogruppe gehoeren, Leute in Ihrer Umgebung dies eventuell tun. Halten Sie sich an die Anweisungen, um Andere zu schuetzen.
@@ -615,7 +615,7 @@ Vielen herzlichen Dank an nachfolgende Labore fuer das Zusammentragen der Daten:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detaillierte Danksagung](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Detaillierte Danksagung](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 Diese Daten wurden durch [GISAID](https://gisaid.org) ermoeglicht.
 Wir moechten uns hier recht herzlich fuer deren Beteiligung bedanken.

@@ -100,7 +100,7 @@ Par exemple, la carte montre de nombreux échantillons provenant d’Islande, du
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [De nombreuses introductions en Russie](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [De nombreuses introductions en Russie](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 En mettant en évidence des échantillons de Russie, nous observons qu’ils sont dispersés à la fois géographiquement (à travers la Russie) et sur le plan génomique (à travers l’arbre).
 <br><br>
@@ -112,7 +112,7 @@ Bien qu’il existe quelques échantillons vers le bas de l’arbre qui sont plu
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Épidémie hétérogène à Moscou](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Épidémie hétérogène à Moscou](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 Un exemple d'importations fréquentes peut être vu en zoomant sur des échantillons de Moscou.
 <br><br>
@@ -123,7 +123,7 @@ Compte tenu du nombre de cas confirmés à Moscou, il est probable qu’au moins
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Un grand cluster épidémique à Saint-Pétersbourg, déclenché début mars](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Un grand cluster épidémique à Saint-Pétersbourg, déclenché début mars](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 Nous pouvons considérer Saint-Pétersbourg comme un contre-exemple.
 <br><br>
@@ -135,7 +135,7 @@ Ce schéma est cohérent avec l’une de ces introductions à Saint-Pétersbourg
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Cinq chaînes de transmission locales en République tchèque](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Cinq chaînes de transmission locales en République tchèque](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 Les données de la République tchèque montrent un mélange de ces deux modèles.
 <br><br>
@@ -147,7 +147,7 @@ De cela, nous pouvons dire qu’il y a eu au moins 7 introductions en Républiqu
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Mélange étendu de cas à travers la Turquie](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Mélange étendu de cas à travers la Turquie](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 Au milieu de l’arbre, nous observons une série de cas échantillonnés dans de nombreuses provinces différentes de la Turquie.
 Certains de ces cas ont signalé des antécédents de voyage en Arabie saoudite, avec, par la suite, des cas étroitement liés en Turquie.
@@ -164,7 +164,7 @@ Nous pouvons également spéculer qu’un grand rassemblement pourrait expliquer
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Au moins 11 introductions en Pologne](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Au moins 11 introductions en Pologne](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Nous avons 15 séquences de Pologne sur Nextstrain. Sur ces 15, au moins 11 d'entre elles représentent des introductions distinctes venant d'ailleurs dans le monde.
 Comme à Moscou, compte tenu du nombre de cas signalés, nous pouvons nous attendre à ce que plusieurs de ces introductions aient entraîné des chaînes de transmission locales en Pologne, mais nous ne pouvons pas encore le voir dans les données génomiques.
@@ -174,7 +174,7 @@ Comme à Moscou, compte tenu du nombre de cas signalés, nous pouvons nous atten
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Premiers échantillons de Hongrie, Lettonie, Slovaquie et Slovénie](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Premiers échantillons de Hongrie, Lettonie, Slovaquie et Slovénie](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 En mars, 20 séquences ont été soumises par la Hongrie, la Lettonie, la Slovaquie et la Slovénie.
 Bien que nous ne disposions pas encore de suffisamment de données de ces pays pour tirer des conclusions définitives, nous applaudissons ces premiers efforts et continuerons de surveiller les données entrantes.
@@ -183,7 +183,7 @@ Bien que nous ne disposions pas encore de suffisamment de données de ces pays p
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### En tant que particulier
 * Réduisez drastiquement le nombre de personnes avec lesquelles vous êtes en contact chaque jour, surtout si vous faites partie d'un groupe vulnérable (par exemple, les personnes âgées et les personnes souffrant de maladies préexistantes).
 * N'oubliez pas que même si vous ne faites pas partie de ces personnes vulnérables, de nombreuses personnes autour de vous le sont ; suivez ces pratiques pour protéger les autres.
@@ -226,7 +226,7 @@ Nous avons reçu de premiers échantillons de Hongrie, de Lettonie, de Slovaquie
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Crédit scientifique](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Crédit scientifique](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 Nous tenons à souligner le superbe travail accompli si rapidement par tous les scientifiques impliqués dans cette épidémie.
 Ce n'est que par le partage rapide des données génomiques et des métadonnées que de telles analyses sont possibles.

@@ -324,8 +324,8 @@ L'impegno per ottenere più sequenze genetiche sta aumentato rapidamente e comme
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-<!-- # [Export of COVID-19 from Iran](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)-->
-# [Esportazioni del COVID-19 dall'Iran](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+<!-- # [Export of COVID-19 from Iran](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)-->
+# [Esportazioni del COVID-19 dall'Iran](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 <!-- We do not yet have viral genomes from Iran.-->

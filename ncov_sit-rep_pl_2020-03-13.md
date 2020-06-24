@@ -90,7 +90,7 @@ W wiadomościach z tego tygodnia raportujemy:
 
 <!-- This is left-side text -->
 
-# [Materiały wprowadzające w tematykę](https://nextstrain.org/ncov/2020-03-05)
+# [Materiały wprowadzające w tematykę](https://nextstrain.org/ncov/2020-03-13)
 
 Przygotowaliśmy materiały online, które warto przeczytać w celu zapoznania się z COVID-19 i wirusem SARS-CoV-2, który tę chorobę wywołuje. Zawarte w nich informacje ułatwią interpretację danych, które prezentujemy w tym raporcie; jeżeli nie jesteś zaznajomiona/y z tematyką drzew filogenetycznych, zachęcamy do przeczytania w pierwszej kolejności ['How to Read Phylogenies'](https://nextstrain.org/narratives/trees-background).
 
@@ -323,7 +323,7 @@ Social distancing -- that is, decreasing the number of people you encounter each
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Często zadawane pytania oraz przesądy](https://nextstrain.org/ncov/2020-03-05)
+# [Często zadawane pytania oraz przesądy](https://nextstrain.org/ncov/2020-03-13)
 
 #### Wiemy, że mnóstwo ludzi ma pytania dotyczące COVID-19.
 
@@ -366,7 +366,7 @@ Aby rozwiać wątpliwości co do kontrowersyjnych i niepotwierdzonych teorii, na
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Podziękowania](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Podziękowania](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. W szczególności dziękujemy tym, którzy pracują w Chinach.
 Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych. 
@@ -507,7 +507,7 @@ Jesteśmy wdzięczni za dane zebrane w tych ośrodkach badawczych:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Szczegółowe podziękowania](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Szczegółowe podziękowania](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 Te dane były udostępniane poprzez platformę [GISAID](https://gisaid.org).
 Szczególnie dziękujemy za wkład ich drużyny.

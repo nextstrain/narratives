@@ -78,7 +78,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 背景资料](https://nextstrain.org/ncov/2020-03-27)
+# [COVID-19 背景资料](https://nextstrain.org/ncov/2020-04-03)
 我们准备了一些值得一读的材料，让您了解 COVID-19（2019冠状病毒病）及其致病病毒 SARS-CoV-2（严重急性呼吸综合征冠状病毒2型），又称 hCov-19 病毒。这些资料将使您更容易理解我们在本报告中提供的数据。
 <br><br>
 如果您不熟悉系统发生树，我们建议先阅读[如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh)，并在阅读后再回到此页。
@@ -241,7 +241,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [你能做些什么](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [你能做些什么](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### ...个人可以采取的行动
 * 保持严格的社交距离。
 * 即使你不属于高风险人群，也要保持社交距离，从而保护他人。
@@ -608,7 +608,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [科学贡献详情](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [科学贡献详情](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 所有数据已被共享至[GISAID](https://gisaid.org)数据库。 我们感谢各位科学家的慷慨分享。
 <br>

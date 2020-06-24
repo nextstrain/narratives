@@ -212,7 +212,7 @@ Tuy nhiên, luôn có tính bất định trong các giá trị ước lượng 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Ghi nhận công lao nghiên cứu khoa học](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Ghi nhận công lao nghiên cứu khoa học](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Chúng tôi muốn ghi nhận các công trình nghiên cứu tuyệt vời và kịp thời liên quan đến dịch bệnh này của tất cả các nhà khoa học, mà đặc biệt là những người đang miệt mài làm việc tại Trung Quốc.
 Chính nhờ sự chia sẻ kịp thời các dữ liệu và siêu dữ liệu về bộ gen mà chúng tôi mới có thể thực hiện được các bài báo cáo phân tích này.
@@ -353,7 +353,7 @@ Chúng tôi rất cảm kích trước sự thu thập và chia sẻ dữ liệu
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Ghi nhận công lao nghiên cứu khoa học chi tiết](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Ghi nhận công lao nghiên cứu khoa học chi tiết](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Những dữ liệu sau đã được chia sẻ qua [GISAID](https://gisaid.org).
 Chúng tôi rất cảm kích trước sự đóng góp của họ.

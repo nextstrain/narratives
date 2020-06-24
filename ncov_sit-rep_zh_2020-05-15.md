@@ -35,7 +35,7 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [报告摘要](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [报告摘要](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 我们分析了 5,193 个公开共享的 SARS-Cov-2 基因组。通过这些病毒基因组间的相互比对，我们可以了解 COVID-19 在世界范围的演化和传播过程。在本周的更新中，我们重点关注病毒的碱基突变。报告包括以下内容：
 <br><br>
@@ -176,7 +176,7 @@ COVID-19 的致病病毒，新冠病毒 SARS-CoV-2，属于[冠状病毒](https:
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [你能做些什么](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [你能做些什么](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...个人可以采取的行动
 * 保持严格的社交距离，尤其是高风险人群。
 * 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循这些做法可以保护他人。

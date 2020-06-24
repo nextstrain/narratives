@@ -82,7 +82,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [COVID-19 に関する資料](https://nextstrain.org/ncov/2020-03-05)
+# [COVID-19 に関する資料](https://nextstrain.org/ncov/2020-03-13)
 COVID-19とそれを引き起こすウイルスであるSARS-CoV-2を理解するために、読む価値のあるリソースを用意しました。この情報は、このレポートで提示するデータの解釈を容易にします。系統樹に詳しくない場合は、[系統発生の読み方](https://nextstrain.org/narratives/trees-background/ja)の内容を確認した上で、次のページへ進めることを推薦します。
 
 <!-- This is right-side text -->
@@ -206,7 +206,7 @@ COVID-19とそれを引き起こすウイルスであるSARS-CoV-2を理解す�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [よくある質問と誤解](https://nextstrain.org/ncov/2020-03-05)
+# [よくある質問と誤解](https://nextstrain.org/ncov/2020-03-13)
 
 #### 多くの方々が COVID-19 について疑問をお持ちでしょう。
 
@@ -249,7 +249,7 @@ COVID-19とそれを引き起こすウイルスであるSARS-CoV-2を理解す�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データのクレジット](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [分析データのクレジット](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。これらのような解析は、ゲノム情報とメタデータの迅速な共有を通じてのみ可能です。
 
@@ -389,7 +389,7 @@ COVID-19とそれを引き起こすウイルスであるSARS-CoV-2を理解す�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データの詳細](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [分析データの詳細](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 これらのデータは [GISAID](https://gisaid.org) を介して共有されました。 彼らの貢献に感謝します。
 

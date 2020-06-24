@@ -35,7 +35,7 @@ abstract: "NextStrain situatierapporten gebruiken openbaar gedeelde genomische g
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Samenvatting](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Samenvatting](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 We hebben 5193 openbaar gedeelde COVID-19-genomen geanalyseerd. Door deze virale genomen met elkaar te vergelijken, kunnen we karakteriseren hoe SARS-CoV-2 evolueert en zich over de wereld beweegt. Deze week focussen we op virale mutaties. We behandelen: 
 <br><br>
@@ -180,7 +180,7 @@ Er is flink wat discussie gaande wat betreft de relatieve waarde van deze twee h
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What u kunt doen](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [What u kunt doen](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...als individu
 * beoefen strikte social distancing, vooral als u tot een kwetsbare groep behoort.
 * Onthoud dat zelfs als je niet super kwetsbaar bent, veel mensen om je heen dat wel zijn; volg deze handelingen om anderen te beschermen.

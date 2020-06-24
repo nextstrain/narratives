@@ -156,7 +156,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [你能做些什么](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [你能做些什么](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ...个人可以采取的行动
 * 保持严格的社交距离，尤其是高风险人群。
 * 在公共场所戴口罩。
@@ -683,7 +683,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [科学贡献详情](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [科学贡献详情](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 
 所有数据已被共享至[GISAID](https://gisaid.org)数据库。 我们感谢各位科学家的慷慨分享。

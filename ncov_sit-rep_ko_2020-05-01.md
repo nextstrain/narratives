@@ -97,7 +97,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [다수의 유입이 있었던 러시아](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [다수의 유입이 있었던 러시아](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 러시아 표본들을 살펴보면, 지리적으로나 (러시아 전역에 걸쳐) 유전학적으로나 (계통수 전반에) 흩어져 분포하고 있습니다. 
 <br><br>
@@ -109,7 +109,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [외부 유입종이 확산 중인 모스크바](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [외부 유입종이 확산 중인 모스크바](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 모스크바 사례를 확대해서 보면, 외부로부터의 유입이 빈번하게 있었던 것으로 보입니다.
 <br><br>
@@ -121,7 +121,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [3월 초에 발생한 상트페테르부르크의 대규모 유행 사례군](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [3월 초에 발생한 상트페테르부르크의 대규모 유행 사례군](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 반면 상트페테르부르크는 정반대 사례를 보여줍니다. 
 <br><br>
@@ -133,7 +133,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [5건의 전파 연쇄가 발견된 체코](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [5건의 전파 연쇄가 발견된 체코](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 체코 데이터는 두 가지 패턴의 혼합을 보여줍니다.
 <br><br>
@@ -145,7 +145,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [터키 전역에서 광범위한 뒤섞임이 발생함](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [터키 전역에서 광범위한 뒤섞임이 발생함](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 계통수 중앙을 보면, 터키 여러 지역에서 채취된 다수의 표본들을 확인할 수 있습니다.
 이러한 표본들 중 일부는 사우디아라비아를 다녀온 적이 있다고 보고했으며, 이후 터키에서 이와 밀접한 관련이 있는 사례들이 발생했습니다.
@@ -162,7 +162,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [최소 11건의 유입이 있었던 폴란드](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [최소 11건의 유입이 있었던 폴란드](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Nextstrain은 15건의 폴란드 염기서열 자료를 가지고 있습니다. 이 15건 중, 적어도 11건이 세계의 다른 지역에서 각각 유입된 것으로 보입니다.
 모스크바와 마찬가지로 보고된 확진 사례를 고려했을 때, 이러한 유입들 중 일부가 폴란드 지역사회의 전파 연쇄를 초래했다고 예상해 볼 수도 있습니다. 하지만, 아직 염기서열 자료를 통해서 이를 확인할 수는 없었습니다. 
@@ -172,7 +172,7 @@ Nextstrain은 15건의 폴란드 염기서열 자료를 가지고 있습니다. 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [헝가리, 라트비아, 슬로바키아, 슬로베니아의 초기 표본](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [헝가리, 라트비아, 슬로바키아, 슬로베니아의 초기 표본](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 3월에 헝가리, 라트비아, 슬로바키아, 슬로베니아로부터 20건의 염기서열 자료가 공유되었습니다.
 아직 이 나라들로부터 확실한 결론을 내릴만한 충분한 자료는 없지만, 이러한 초기의 노력에 박수를 보내며 앞으로 공유되는 데이터를 계속 지켜볼 것입니다.
@@ -181,7 +181,7 @@ Nextstrain은 15건의 폴란드 염기서열 자료를 가지고 있습니다. 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### 개인이 할 수 있는 것들   
 * 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
 * 당신이 취약계층이 아니더라도 여러분 주변의 많은 사람들이 그렇다는 것을 기억 하십시오. 이 원칙들을 지켜야 다른 사람들을 보호할 수 있습니다.
@@ -224,7 +224,7 @@ Nextstrain은 15건의 폴란드 염기서열 자료를 가지고 있습니다. 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [과학적 기여](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [과학적 기여](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 이번 유행에 관련된 모든 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
 <br><br>

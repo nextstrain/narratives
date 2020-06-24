@@ -80,7 +80,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 に関する資料](https://nextstrain.org/ncov/2020-03-27)
+# [COVID-19 に関する資料](https://nextstrain.org/ncov/2020-04-03)
 COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解するために、読む価値のある資料を用意しました。これらの情報は、このレポートで提示するデータの解釈に役立ちます。
 <br><br>系統樹に詳しくない場合は[系統発生の読み方](https://nextstrain.org/narratives/trees-background/ja) の内容を確認した上で、次のページに進むことをお勧めします。
 <!-- This is right-side text -->
@@ -238,7 +238,7 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [私たちにできること](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [私たちにできること](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### ...個人が出来ること
 * 社会的距離を保つことを厳格に実践してください。
 * あなたが健康であるとしても、他の人を守るために社会的距離を保つことを学んで下さい。
@@ -606,7 +606,7 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データの詳細](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [分析データの詳細](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 これらのデータは [GISAID](https://gisaid.org) を介して共有されました。 彼らの貢献に感謝します。
 

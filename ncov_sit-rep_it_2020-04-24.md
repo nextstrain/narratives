@@ -262,8 +262,8 @@ Senza ulteriori dati, non possiamo ancora dire se qualcuna di queste introduzion
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-<!-- # [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)-->
-# [Cosa puoi fare](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+<!-- # [What you can do](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)-->
+# [Cosa puoi fare](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 <!-- #### ...as an individual-->
 #### ...come individuo
 <!-- * Practice strict social distancing, especially if you are in a vulnerable group.
@@ -323,8 +323,8 @@ Senza ulteriori dati, non possiamo ancora dire se qualcuna di queste introduzion
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
- <!--  # [Scientific credit](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)-->
-# [Rinoscimenti scientifici](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+ <!--  # [Scientific credit](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)-->
+# [Rinoscimenti scientifici](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 
  <!-- We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.-->

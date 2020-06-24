@@ -31,7 +31,7 @@ abstract: "Nextstrain کی صورتحال سے متعلق رپورٹس SARS-CoV-
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [مختصر خلاصہ](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [مختصر خلاصہ](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 ہم نے COVID-19 کے عوامی طور پر شیئر کردہ 5,193 جینومز کا تجزیہ کیا۔ وائرس کے ان جینومز کا ایک دوسرے کے ساتھ موازنہ کرکے، ہم یہ تعین کر سکتے ہیں کہ SARS-CoV-2 کس طرح بڑھ رہا ہے اور پوری دنیا میں متحرک ہے۔ اس ہفتے، ہم وائرس کی تغیر پذیری پر توجہ مرکوز کر رہے ہیں۔ ہم درج ذیل کا احاطہ کریں گے:
 <br><br>
@@ -175,7 +175,7 @@ SARS-CoV-2 کی نوع کے بارے میں ایک سب سے اہم مفروضہ
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [آپ کیا کر سکتے ہیں](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [آپ کیا کر سکتے ہیں](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### …بطور ایک فرد
 * سماجی فاصلہ رکھنے پر سختی سے عمل کریں، خاص طور پر اگر آپ غیر محفوظ گروپ میں ہیں۔
 * یہ یاد رکھیں کہ اگر آپ بہت زیادہ غیر محفوظ نہیں ہیں تو، آپ کے آس پاس بہت سے لوگ ایسے ہیں؛ دوسروں کو محفوظ رکھنے کے لیے ان طریقوں پر عمل کریں۔

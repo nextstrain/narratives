@@ -78,7 +78,7 @@ Aplaudimos os grupos que trabalham para gerar dados adicionais para essas regiõ
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [Fontes sobre COVID-19](https://nextstrain.org/ncov/2020-03-27)
+# [Fontes sobre COVID-19](https://nextstrain.org/ncov/2020-04-03)
 Preparamos alguns materiais (em Inglês) que valem a pena ser lidos para se familiarizar com o COVID-19 e o vírus que o causa, SARS-CoV-2, também conhecido como hCov-19. Essa informação tornará mais fácil a interpretação dos dados apresentados aqui.
 <br><br>
 Se você não está familiarizado com árvores filogenéticas, encorajamos que leia o [artigo 'Como interpretar árvores filogenéticas'](https://nextstrain.org/narratives/trees-background/pt) e retorne quando estiver pronto.
@@ -241,7 +241,7 @@ Curiosamente, a maioria das sequências ao redor (terminais em cores mais fracas
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [O que você pode fazer](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [O que você pode fazer](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### ... como um indivíduo
 * Pratique distanciamento social estrito.
 * Mesmo se você não for vulnerável, pratique o distanciamento social para proteger os outros.
@@ -609,7 +609,7 @@ Somos gratos pelos dados coletados pelos seguintes laboratórios:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédito cientifíco detalhado](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédito cientifíco detalhado](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 Esses dados foram compartilhados através da [GISAID](https://gisaid.org).
 Agradecemos as suas contribuições com profunda gratidão.

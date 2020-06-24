@@ -35,7 +35,7 @@ abstract: "Die Nextstrain Lageberichte nutzen oeffentlich zugaengliche genomisch
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Inhaltsverzeichnis](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Inhaltsverzeichnis](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Wir haben 5.193 oeffentlich zugaengliche SARS-CoV-2 Genome analysiert. Durch Vergleichen dieser Virusgenome miteinander koennen wir die Entwicklung und die weltweite Verbreitung von SARS-CoV-2 charakterisieren. Diese Woche legen wir den Schwerpunkt des Berichtes auf virale Mutationen. Wir berichten :
 <br><br>
@@ -173,7 +173,7 @@ Am Anfang der Pandemie hatten die meisten aus China exportierten Staemme das D-A
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Was Sie tun koennen](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [Was Sie tun koennen](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...als Einzelperson
 * Praktizieren Sie raeumliche Distanzierung, besonders wenn Sie zu einer Risikogruppe gehoeren.
 * Bedenken Sie, dass selbst wenn Sie nicht zu einer Risikogruppe gehoeren, Leute in Ihrer Umgebung dies eventuell tun. Halten Sie sich an die Anweisungen, um Andere zu schuetzen.

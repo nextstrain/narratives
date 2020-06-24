@@ -31,7 +31,7 @@ abstract: "Ang Mga Ulat sa Sitwasyon ng Nextstrain ay gumagamit ng genomic na da
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Ehekutibong buod](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Ehekutibong buod](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Sinuri namin ang 5,193 na genome ng COVID-19 na ibinahagi sa publiko. Sa pamamagitan ng pagkukumpara sa mga viral na genome na ito sa isa't isa, maaari nating kilalanin kung paano nagbabago at kumikilos sa buong mundo ang SARS-CoV-2. Sa linggong ito, nakatuon kami sa mga viral mutation. Sasaklawin namin:
 <br><br>
@@ -177,7 +177,7 @@ Mayroong marami-raming debate kaugnay ng kinauukulang merito ng dalawang hypothe
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Ano ang maaari mong gawin](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [Ano ang maaari mong gawin](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...bilang indibidwal
 * Magpatupad ng mahigpit na social distancing, lalo na kung ikaw ay nasa mahihinang grupo.
 * Tandaan na kahit hindi ka lubhang mahina, maraming ganito sa mga taong nakapaligid sa iyo; sundin ang mga kasanayang ito upang protektahan ang iba.

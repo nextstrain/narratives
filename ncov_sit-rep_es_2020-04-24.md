@@ -185,7 +185,7 @@ La [OMS reporta brotes](https://apps.who.int/iris/bitstream/handle/10665/331840/
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [¿Qué puedes hacer tú?](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [¿Qué puedes hacer tú?](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### ...como individuo
 * Practica un estricto distanciamiento social, especialmente si perteneces a un grupo vulnerable.
 * Recuerda que aunque no seas súper vulnerable, mucha gente a tu alrededor lo es; sigue estas prácticas para proteger a los demás.
@@ -227,7 +227,7 @@ La [OMS reporta brotes](https://apps.who.int/iris/bitstream/handle/10665/331840/
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Créditos Científicos](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [Créditos Científicos](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 Quisiéramos reconocer la excelente y oportuna labor realizada por todos los científicos que participaron en este brote. Sólo mediante el rápido intercambio de datos y metadatos genómicos es posible realizar análisis como éste.
 
 <br><br>

@@ -36,7 +36,7 @@ abstract: "Aυτή η αναφορά χρησιμοποιεί δεδομένα �
 
 
 <!-- This is left-side text 1-->
-# [Περιεχομένα](https://nextstrain.org/ncov/sit-rep/el/2020-03-27?d=tree,map&p=grid)
+# [Περιεχομένα](https://nextstrain.org/ncov/2020-03-27?d=tree,map&p=grid)
 
 * [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-27?n=2).     
 * [Σημειώσεις σχετικά με τα δεδομένα](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-27?n=3).  
@@ -240,7 +240,7 @@ abstract: "Aυτή η αναφορά χρησιμοποιεί δεδομένα �
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Εξαγωγή του COVID-19 από το Ιράν](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [Εξαγωγή του COVID-19 από το Ιράν](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 Δεν έχουμε ακόμα ιικά γονιδιώματα από το Ιράν.

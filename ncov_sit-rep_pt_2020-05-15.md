@@ -35,7 +35,7 @@ abstract: "Os relatórios de situação da Nextstrain utilizam dados genômics c
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Índice](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Índice](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao comparar esses genomas virais entre si, nós podemos caracterizar como o SARS-CoV-2 está evoluindo e se movendo em todo o mundo. Esta semana, nós focamos nas mutações virais. Nós abordamos:
 <br><br>
@@ -181,7 +181,7 @@ Há muito debate sobre os méritos relativos dessas duas hipóteses. Será impor
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [O que você pode fazer?](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [O que você pode fazer?](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ... como um indivíduo
 * Pratique distanciamento social estrito, especialmente se você faz parte de algum grupo de risco.
 * Lembre-se que mesmo que você não seja super vulnerável, muitas pessoas ao seu redor são. Siga essas práticas também para proteger os outros.

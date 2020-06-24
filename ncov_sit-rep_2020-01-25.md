@@ -176,7 +176,7 @@ The observation of such strong clustering of human infections can be explained b
 
 At the moment, most mutations that can be observed are singletons – they are unique to individual genomes. Only the sequences that form the two clusters from Guangdong and the sequence form the USA share mutations – we will explore these in later slides.
 
-# [Within-family transmission 1](https://nextstrain.org/2020-01-25/ncov?m=div&d=tree&f_location=Zhuhai)
+# [Within-family transmission 1](https://nextstrain.org/ncov/2020-01-25?m=div&d=tree&f_location=Zhuhai)
 
 There are two genetically-identical isolates from Zhuhai (Southeastern China, Guangdong Province) which form a cluster, sharing one unique mutation seen in no other isolate (you can hover your mouse over the branches to see which mutations are present).
 

@@ -156,7 +156,7 @@ Il y a également eu plusieurs introductions à l'ouest des Rocheuses. En zooman
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### En tant que particulier
 * Réduisez drastiquement le nombre de personnes avec lesquelles vous êtes en contact chaque jour, surtout si vous faites partie d'un groupe vulnérable (par exemple, les personnes âgées et les personnes souffrant de maladies préexistantes).
 * N'oubliez pas que même si vous ne faites pas partie de ces personnes vulnérables, de nombreuses personnes autour de vous le sont ; suivez ces pratiques pour protéger les autres.
@@ -686,7 +686,7 @@ Nous sommes reconnaissants pour les données recueillies par ces laboratoires d'
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédit scientifique détaillé](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Crédit scientifique détaillé](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 Ces données ont été partagées par [GISAID](https://gisaid.org). Nous remercions chaleureusement leurs contributions.
 

@@ -223,7 +223,7 @@ Er is echter altijd onzekerheid in deze schattingen. Over het algemeen zijn dele
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Wij willen onze dank uitspreken voor het fantastische en tijdige werk dat is verricht door alle wetenschappers die bij deze uitbraak betrokken zijn, en met name door degenen die in China werkzaam zijn.
 Alleen door het snel delen van genomische gegevens en metadata zijn dit soort analyses mogelijk.
@@ -364,7 +364,7 @@ We zijn dankbaar voor de gegevens die door deze laboratoria zijn verzameld:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Gedetailleerd wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Gedetailleerd wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-03-11?d=map&c=author)
 
 Deze gegevens werden gedeeld via [GISAID](https://gisaid.org).
 Wij zijn dankbaar voor hun bijdragen.

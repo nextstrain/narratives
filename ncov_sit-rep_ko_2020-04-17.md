@@ -157,7 +157,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### 개인이 할 수 있는 것들
 * 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
 * 공공장소에서 마스크를 착용하십시오.
@@ -685,7 +685,7 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [과학적 기여: 상세 내역](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [과학적 기여: 상세 내역](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 이 데이터는 [GISAID](https://gisaid.org)를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 

@@ -238,7 +238,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [由伊朗输出的COVID-19病例](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [由伊朗输出的COVID-19病例](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 我们目前没有伊朗本土的病毒基因组序列，

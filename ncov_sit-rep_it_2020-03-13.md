@@ -107,8 +107,8 @@ Nell'aggiornamento di questa settimana:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-<!-- # [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-05) -->
-# [Risorse sul COVID-19](https://nextstrain.org/ncov/2020-03-05)
+<!-- # [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-13) -->
+# [Risorse sul COVID-19](https://nextstrain.org/ncov/2020-03-13)
 <!-- We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2. -->
 Di seguito elenchiamo alcune letture utili per familiarizzare con i concetti generali relativi al COVID-19 e al virus che ne è la causa, il SARS-CoV-2.
 
@@ -340,8 +340,8 @@ Se tutti diminuissero del 25% i loro contatti giornalieri con altre persone, ci 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-<!-- # [FAQs & Misconceptions](https://nextstrain.org/ncov/2020-03-05) -->
-# [Domande frequenti e convinzioni errate](https://nextstrain.org/ncov/2020-03-05)
+<!-- # [FAQs & Misconceptions](https://nextstrain.org/ncov/2020-03-13) -->
+# [Domande frequenti e convinzioni errate](https://nextstrain.org/ncov/2020-03-13)
 
 <!-- #### We know that a lot of people have questions about COVID-19. -->
 #### Sappiamo che molte persone hanno domande sul COVID-19.
@@ -391,8 +391,8 @@ Nel tentativo di spiegare perché queste convinzioni non sono corrette, gli scie
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-<!-- # [Scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author) -->
-# [Ringraziamenti scientifici](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+<!-- # [Scientific credit](https://nextstrain.org/ncov/2020-03-13?d=map&c=author) -->
+# [Ringraziamenti scientifici](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 <!-- We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China. -->
 Ringraziamo tutti gli scienziati al lavoro su questa epidemia, e in particolare quelli che lavorano in Cina, per lo straordinario e tempestivo lavoro fatto.
@@ -537,8 +537,8 @@ Ringraziamo i seguenti laboratori per i dati raccolti:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-<!-- # [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author) -->
-# [Ringraziamenti scientifici dettagliati](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+<!-- # [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-13?d=map&c=author) -->
+# [Ringraziamenti scientifici dettagliati](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 
 <!-- These data were shared via [GISAID](https://gisaid.org). -->

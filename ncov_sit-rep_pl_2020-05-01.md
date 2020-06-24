@@ -97,7 +97,7 @@ Na przykład, mapa pokazuje wiele sekwencji z Islandii, Wielkiej Brytanii i Hola
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Liczne introdukcje do Rosji](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Liczne introdukcje do Rosji](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 Zaznaczając próbki z Rosji, widzimy, że są rozsiane geograficznie (w poprzek Rosji) i genomicznie (w poprzek drzewa). 
 <br><br>
@@ -115,7 +115,7 @@ While there are a few samples towards the bottom of the tree that are most close
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Różne źródła epidemii w Moskwie](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Różne źródła epidemii w Moskwie](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 Jeden przykład częstego importu wirusa jest widoczny po przybliżeniu przypadków z Moskwy.
 <br><br>
@@ -132,7 +132,7 @@ Given the number of confirmed cases in Moscow, it's likely that at least some of
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Duże ognisko epidemii w Petersburgu, wywołanej na początku marca](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Duże ognisko epidemii w Petersburgu, wywołanej na początku marca](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 Jako kontrprzykład, możemy spojrzeć na Petersburg.
 <br><br>
@@ -151,7 +151,7 @@ This pattern is consistent with one of these introductions to St. Petersburg tak
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Pięć lokalnych łańcuchów transmisji w Czechach](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Pięć lokalnych łańcuchów transmisji w Czechach](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 Dane z Czech pokazują mieszaninę dwóch wzorów.
 <br><br>
@@ -171,7 +171,7 @@ From this, we can say that there were at least 7 introductions to the Czech Repu
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Rozległe mieszanie się przypadków w Turcji](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Rozległe mieszanie się przypadków w Turcji](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 Pośrodku drzewa widać ciąg przypadków próbkowanych w wielu różnych prowincjach Turcji.
 Niektóre z nich mają historię podróży do Arabii Saudyjskiej, z następującymi później blisko spokrewnionymi przypadkami w Turcji. 
@@ -197,7 +197,7 @@ We may also speculate that a large gathering could explain these observations, a
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Co najmniej 11 inrodukcji w Polsce](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Co najmniej 11 inrodukcji w Polsce](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Mamy 15</tag> sekwencji z Polski na Nextstrain. Z tych 15</tag>, co najmniej 11</tag> reprezentuje odrębne introdukcje z innych regionów świata. 
 Tak jak w Moskwie, biorąc pod uwagę liczbę potwierdzonych przypadków, możemy oczekiwać, że wiele z tych introdukcji zapoczątkowało łańcuchy lokalnej transmisji w Polsce, ale nie jest to póki co widoczne w danych genomowych.
@@ -209,7 +209,7 @@ As in Moscow, given the number of reported cases, we might expect that several o
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Wczesne przypadki z Węgier, Łotwy, Słowacji i Słowenii](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Wczesne przypadki z Węgier, Łotwy, Słowacji i Słowenii](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 W marcu, 20</tag> sekwencji zostało przesłanych z Węgier, Łotwy, Słowacji i Słowenii.
 Podczas gdy nie mamy jeszcze wystarczającej ilości danych z tych krajów aby wyciągnąć stanowcze konkluzje, jesteśmy wdzięczni za te wczesne wysiłki w sekwencjonowaniu i będziemy monitorować nowe przychodzące dane.
@@ -221,7 +221,7 @@ While we don't yet have enough data from these countries to draw firm conclusion
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Co ty możesz zrobić](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Co ty możesz zrobić](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ...jako jednostka
 * Stosuj ścisłą izolację społeczną, zwłaszcza, jeśli jesteś w grupie podwyższonego ryzyka.
 * Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
@@ -276,7 +276,7 @@ While we don't yet have enough data from these countries to draw firm conclusion
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Podziękowania](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Podziękowania](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
 <br><br>

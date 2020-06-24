@@ -316,7 +316,7 @@ Gewissheit darüber besteht aber nicht.
 
 <!-- ############ SLIDE BREAK ############# -->
 
-# [Danksagung](https://nextstrain.org/ncov/2020-01-30?d=map&c=author)
+# [Danksagung](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
 Wir möchten uns für die beeindruckende, schnelle und transparente Arbeit aller an diesem Ausbruch beteiligten Wissenschaftler, insbesondere aber jener in China tätigen, bedanken.
 Nur durch den raschen Austausch von genomischen Daten und Metadaten sind solche Analysen möglich.
@@ -416,7 +416,7 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailierte Herkunft der Daten](https://nextstrain.org/ncov/2020-01-30?d=map&c=author)
+# [Detailierte Herkunft der Daten](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
 Diese Daten wurden via [GISAID](https://gisaid.org) zur Verfügung gestellt.
 

@@ -97,7 +97,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [病毒多次输入俄罗斯](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [病毒多次输入俄罗斯](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 此图中高亮了来自俄罗斯的样本。我们看到，这些样本既在地理上散布俄罗斯各地，也在基因组水平上散布在演化树的各处。
 <br><br>
@@ -109,7 +109,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [莫斯科疫情的复杂性](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [莫斯科疫情的复杂性](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 现在我们来重点关注莫斯科的样本，这个例子让我们看到病毒是如何频繁地输入一个地区的。
 <br><br>
 图中有几簇样本与同样来自莫斯科的其他样本最为接近，表明当地很有可能存在本地传播。
@@ -119,7 +119,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [圣彼得堡存在起源于三月上旬的大型本地传播链](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [圣彼得堡存在起源于三月上旬的大型本地传播链](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 圣彼得堡的情况则与莫斯科相反。
 <br><br>
@@ -131,7 +131,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [捷克存在五个本地传播链](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [捷克存在五个本地传播链](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 数据显示，捷克的情况是莫斯科和圣彼得堡两种情况的混合体。
 <br><br>
@@ -143,7 +143,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [土耳其各地的疫情广泛地混杂在一起](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [土耳其各地的疫情广泛地混杂在一起](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 在树的中部，我们看到有一串病例是在土耳其的很多不同省份采集得到的。
 其中有一些病例报告有去往沙特阿拉伯的旅行史，而后续又出现了与之紧密相关的、土耳其的本土病例。
@@ -158,7 +158,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [病毒至少被输入波兰11次](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [病毒至少被输入波兰11次](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Nextstrain 收录了15条来自波兰的基因组。在15条基因组中，至少有11条代表了来自世界其他地区的独立输入事件。
 与莫斯科的情况相似，根据目前波兰的确诊病例数量，我们预期这其中可能有几次输入事件引发了波兰的本地传播链，但我们目前还无法在基因组数据中看到这一点。
@@ -167,7 +167,7 @@ Nextstrain 收录了15条来自波兰的基因组。在15条基因组中，至�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [匈牙利、拉脱维亚、斯洛伐克和斯洛文尼亚的早期样本](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [匈牙利、拉脱维亚、斯洛伐克和斯洛文尼亚的早期样本](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 匈牙利、拉脱维亚、斯洛伐克和斯洛文尼亚等国在三月提交了20条序列。
 虽然对于这些国家，我们还没有足够的数据来得出确切的结论，但我们感谢这些早期工作，并会继续密切关注当地的新数据。
@@ -177,7 +177,7 @@ Nextstrain 收录了15条来自波兰的基因组。在15条基因组中，至�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [你能做些什么](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [你能做些什么](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ...个人可以采取的行动
 * 保持严格的社交距离，尤其是高风险人群。
 * 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循这些做法可以保护他人。
@@ -219,7 +219,7 @@ Nextstrain 收录了15条来自波兰的基因组。在15条基因组中，至�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [科学贡献人员](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 <br><br>

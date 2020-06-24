@@ -97,7 +97,7 @@ Por exemplo, o mapa mostra muitas poucas sequências da Islândia, do Reino Unid
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Atualizações sobre a Rússia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Atualizações sobre a Rússia](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 Destacando amostras da Rússia, vemos que elas estão espalhadas geograficamente (por toda a Rússia) e genomicamente (em toda a árvore).
 <br><br>
@@ -109,7 +109,7 @@ Embora existam algumas amostras na parte inferior da árvore que estão mais int
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Surto heterogêneo em Moscou](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Surto heterogêneo em Moscou](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 Um exemplo de importação frequente pode ser visto aproximando o zoom nas amostras de Moscou.
 <br><br>
@@ -120,7 +120,7 @@ Dado o número de casos confirmados em Moscou, é provável que pelo menos algum
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Grande aglomerado de surtos em São Petersburgo, desencadeado no início de Março](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Grande aglomerado de surtos em São Petersburgo, desencadeado no início de Março](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 Podemos olhar para São Petersburgo como um exemplo contrário.
 <br><br>
@@ -132,7 +132,7 @@ Esse padrão é consistente com uma dessas introduções a São Petersburgo, que
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Cinco cadeias de transmissão locais na República Tcheca](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Cinco cadeias de transmissão locais na República Tcheca](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 Os dados da República Tcheca mostram uma mistura desses dois padrões.
 <br><br>
@@ -144,7 +144,7 @@ A partir disso, podemos dizer que houve pelo menos 7 introduções na República
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Ampla mistura de casos pela Turquia](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Ampla mistura de casos pela Turquia](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 No meio da árvore, vemos uma série de casos amostrados de muitas províncias diferentes da Turquia.
 Alguns desses casos relataram histórico de viagens para a Arábia Saudita, com subsequentes casos intimamente relacionados na Turquia.
@@ -160,7 +160,7 @@ Isso indica que houve uma extensa mistura de linhagens virais, atingindo muitas 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Ao menos 11 introduções na Polônia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Ao menos 11 introduções na Polônia](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Temos 15 sequências da Polônia no Nextstrain. Dessas 15, pelo menos 11 delas representam introduções independentes de diferentes partes do mundo
 Como em Moscou, dado o número de casos reportados, podemos imaginar que várias dessas introduções tenham iniciado cadeias de transmissão locais na Polônia, mas ainda não podemos ver isso nos dados genômicos.
@@ -169,7 +169,7 @@ Como em Moscou, dado o número de casos reportados, podemos imaginar que várias
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Primeiras amostras da Hungria, Letônia, Eslováquia e Eslovênia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Primeiras amostras da Hungria, Letônia, Eslováquia e Eslovênia](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 Em Março, 20 sequências foram enviadas da Hungria, Letônia, Eslováquia e Eslovênia.
 Embora ainda não tenhamos dados suficientes desses países para conceber conclusões sólidas, aplaudimos esses esforços iniciais e continuaremos a monitorar os dados recebidos.
@@ -178,7 +178,7 @@ Embora ainda não tenhamos dados suficientes desses países para conceber conclu
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [O que você pode fazer](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [O que você pode fazer](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ... como indivíduo
 * Pratique distanciamento social estrito, especialmente se você faz parte de algum grupo de risco.
 * Lembre-se que mesmo que você não seja super vulnerável, muitas pessoas ao seu redor são. Siga essas práticas também para proteger os outros.
@@ -221,7 +221,7 @@ Embora ainda não tenhamos dados suficientes desses países para conceber conclu
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Crédito científico](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Crédito científico](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 Gostaríamos de reconhecer o trabalho incrível e oportuno realizado por todos os cientistas envolvidos nesse surto. Somente com o compartilhamento rápido de dados genômicos e de metadados é que tais análises foram possíveis.
 <br><br>

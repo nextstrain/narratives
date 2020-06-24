@@ -83,7 +83,7 @@ We hebben een aantal bronnen voorbereid die het interpreteren van de data die we
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Een opmerking over bemonstering](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [Een opmerking over bemonstering](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 
 We hebben momenteel sequenties van monsters die genomen zijn in 57 landen op 6 continenten. Dit is een ongelooflijke prestatie -- het sequencen van een onbekend, groot RNA-virus tijdens een pandemie is moeilijk, en is alleen mogelijk door het ongelooflijke werk en het tijdig delen van gegevens door wetenschappers en artsen over de hele wereld.
 <br><br>
@@ -187,7 +187,7 @@ Dit toont duidelijk aan dat deze pandemie een wereldwijde strijd is; als we het 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Takeaway](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 Regionale en nationale uitbraken zijn en zullen sterk met elkaar verweven zijn.
 <br> <br>
@@ -224,7 +224,7 @@ Deze pandemie is een wereldwijde strijd; als we het ergens willen verslaan moete
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Wetenschappelijk dankwoord](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 
 Wij willen onze dank uitspreken voor het fantastische en tijdige werk dat is verricht door alle wetenschappers die bij deze uitbraak betrokken zijn, en met name door degenen die in China werkzaam zijn. Alleen door het snel delen van genomische gegevens en metadata zijn dit soort analyses mogelijk.
@@ -642,7 +642,7 @@ We zijn dankbaar voor de gegevens die door deze laboratoria oorspronkelijk zijn 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Gedetaileerd wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Gedetaileerd wetenschappelijk dankwoord](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Deze gegevens werden gedeeld via [GISAID](https://gisaid.org). 
 Wij zijn dankbaar voor hun bijdragen.

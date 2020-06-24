@@ -202,8 +202,8 @@ Ci sono anche state numerose introduzioni nella zona delle Montagne Rocciose occ
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-<!--# [What you can do](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)-->
-# [Cosa puoi fare](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+<!--# [What you can do](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)-->
+# [Cosa puoi fare](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 <!--#### ...as an individual-->
 #### ...come individuo
 <!-- * Practice strict social distancing, especially if you are in a vulnerable group.-->
@@ -757,8 +757,8 @@ Ringraziamo questi laboratori per le sequenze raccolte:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-<!--# [Detailed scientific credit](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)-->
-# [Riconoscimenti scientifici dettagliati](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+<!--# [Detailed scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)-->
+# [Riconoscimenti scientifici dettagliati](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 <!--These data were shared via [GISAID](https://gisaid.org).
 We gratefully acknowledge their contributions.-->

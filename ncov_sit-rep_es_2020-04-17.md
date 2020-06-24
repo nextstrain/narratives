@@ -157,7 +157,7 @@ También han existido varias introducciones en la Región Oeste de las Montañas
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [¿Qué puedes hacer tú?](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [¿Qué puedes hacer tú?](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ...como individuo
 * Practica un estricto distanciamiento social, especialmente si perteneces a un grupo vulnerable.
 * Usa mascara en público.
@@ -684,7 +684,7 @@ Agradecemos los datos recolectados por los siguientes laboratorios:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Créditos Científicos detallados](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Créditos Científicos detallados](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 Los datos utilizados en este reporte son datos públicos compartidos por cada laboratorio a través de [GISAID](https://gisaid.org). Agradecemos estas contribuciones.
 

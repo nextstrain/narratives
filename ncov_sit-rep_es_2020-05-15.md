@@ -35,7 +35,7 @@ abstract: "Los reportes de situación de Nextstrain utilizan datos genómicos p�
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Resumen Ejecutivo](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Resumen Ejecutivo](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Analizamos 5.193 genomas de COVID-19 compartidos públicamente. Al comparar estos genomas virales, podemos caracterizar cómo se está moviendo el COVID-19 alrededor del mundo y cómo se esparce localmente. En estas actualizaciones semanales, nos enfocamos en las mutaciones virales y discutimos lo siguiente:
 <br><br>
@@ -173,7 +173,7 @@ Existe un debate abierto acerca de estas dos hipótesis. Será muy importante di
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [¿Qué puedes hacer tú?](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [¿Qué puedes hacer tú?](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 
 #### ...como individuo
 * Practica un estricto distanciamiento social, especialmente si perteneces a un grupo vulnerable.

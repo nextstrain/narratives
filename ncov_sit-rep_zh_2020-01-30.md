@@ -8,7 +8,7 @@ dataset: "https://nextstrain.org/ncov/2020-01-30?d=map"
 abstract: "这份报告使用了来自GISAID和Genbank公开共享的2019新型冠状病毒（nCoV）基因组数据来估计疫情的流传速度和方式。 一旦收集到新的病毒数据，我们将陆续更新该状况报告。请用桌面浏览器游览该网站"
 ---
 
-# [执行摘要](https://nextstrain.org/ncov/2020-01-30/2020-01-30)
+# [执行摘要](https://nextstrain.org/ncov/2020-01-30)
 
 ```auspiceMainDisplayMarkdown
 ## 执行摘要

@@ -200,7 +200,7 @@ Es gibt momentan keine Hinweise darauf, dass diese Mutationen das Verhalten des 
 Es ist komplet normal, dass RNA-Viren mutieren.
 
 
-# [Übertragung in Familien - 1](https://nextstrain.org/2020-01-25/ncov?m=div&d=tree&f_location=Zhuhai)
+# [Übertragung in Familien - 1](https://nextstrain.org/ncov/2020-01-30?m=div&d=tree&f_location=Zhuhai)
 
 Es gibt drei genetisch identische Isolate aus Zhuhai (Südostchina, Provinz Guangdong), die einen Cluster bilden und eine Mutation haben, die sonst in keinem anderen Isolat zu finden ist.
 

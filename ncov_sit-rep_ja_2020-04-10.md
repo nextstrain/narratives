@@ -83,7 +83,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [データについて](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [データについて](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 現在、6大陸の57カ国で採取されたサンプルの遺伝子配列があります。これは信じられないほどの成果です。流行の最中に未知の大型RNAウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
 <br><br>
 このデータにより、多くの有用な特性を推測し、流行の広がりをリアルタイムで追跡することができますが、結論は利用可能なデータによって制限されることに留意して下さい。
@@ -177,7 +177,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [まとめ](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [まとめ](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 地域的および国家的な感染拡大は深く絡み合っており、今後もそうでしょう。
 <br><br>
@@ -213,7 +213,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データのクレジット](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [分析データのクレジット](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。 この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。
 
@@ -630,7 +630,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データの詳細](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [分析データの詳細](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 これらのデータは [GISAID](https://gisaid.org) を介して共有されました。 彼らの貢献に感謝します。
 

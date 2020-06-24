@@ -241,7 +241,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [이란에서 시작된 코로나19 전파](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [이란에서 시작된 코로나19 전파](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 아직 이란으로부터 보고된 바이러스 유전체 자료는 없습니다.

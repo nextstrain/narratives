@@ -77,7 +77,7 @@ We juichen de groepen toe die werken aan het genereren van aanvullende gegevens 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Bronnen](https://nextstrain.org/ncov/2020-03-27)
+# [COVID-19 Bronnen](https://nextstrain.org/ncov/2020-04-03)
 We hebben een aantal bronnen voorbereid die de moeite waard zijn om te lezen om jezelf vertrouwd te maken met de ziekte COVID-19 en het virus dat deze ziekte veroorzaakt, SARS-CoV-2, ook bekend als hCov-19. 
 Deze informatie maakt het interpreteren van de gegevens die we in dit rapport presenteren makkelijker.
 <br><br>
@@ -250,7 +250,7 @@ Interessant is dat de meeste omringende sequenties (vervaagde tips) uit de Veren
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [Wat u kunt doen](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Wat u kunt doen](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### ...als individu
 * Beoefen strikte sociale onthouding. Dit geldt ook als je zelf niet kwetsbaar bent.
 * Was je handen alsof je "net een jalapeno hebt gehakt en een contactlens moet vervangen."
@@ -614,7 +614,7 @@ We zijn dankbaar voor de gegevens die door deze laboratoria oorspronkelijk zijn 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Gedetaileerd wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Gedetaileerd wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 Deze gegevens werden gedeeld via [GISAID](https://gisaid.org). Wij zijn dankbaar voor hun bijdragen.
 

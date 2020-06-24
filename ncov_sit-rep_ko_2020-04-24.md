@@ -189,7 +189,7 @@ Nextstrain의 자료 중 가장 이른 것은 3월 20일이지만, 현재 [세�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### 개인이 할 수 있는 것들
 * 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
 * 당신이 취약계층이 아니더라도 여러분 주변의 많은 사람들이 그렇다는 것을 기억 하십시오. 이 원칙들을 지켜야 다른 사람들을 보호할 수 있습니다.
@@ -231,7 +231,7 @@ Nextstrain의 자료 중 가장 이른 것은 3월 20일이지만, 현재 [세�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [과학적 기여](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [과학적 기여](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 
 이번 유행에 관련된 모든 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
 <br><br>

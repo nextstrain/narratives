@@ -82,7 +82,7 @@ Kami telah menyiapkan sejumlah informasi yang akan memudahkan interpretasi data 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Catatan mengenai sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [Catatan mengenai sampling](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 Saat ini kami memiliki sekuens dari sampel yang diambil di 57 negara di 6 benua. Ini adalah prestasi yang luar biasa -- melakukan sekuensing virus RNA besar dan belum dikenal di tengah-tengah pandemi merupakan hal yang sulit, dan hanya mungkin dilakukan melalui kerja luar biasa dan pembagian data yang tepat waktu oleh para ilmuwan dan dokter di seluruh dunia.
 <br><br>
 Meskipun data ini memungkinkan kami untuk menyimpulkan banyak karakteristik berguna dari wabah ini dan melacak penyebarannya secara langsung, kami harus menekankan bahwa kesimpulan kami dibatasi oleh data yang tersedia.
@@ -178,7 +178,7 @@ Ini menunjukkan bahwa pandemi ini adalah pertarungan global; kita semua harus me
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Kesimpulan](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Kesimpulan](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 Perebakan tingkat regional dan nasional sangatlah saling terkait, saat ini maupun pada masa yang akan datang.
 <br><br>
@@ -214,7 +214,7 @@ Pandemi ini adalah pertarungan global; kita semua harus membantu mengendalikan v
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Pengakuan ilmiah](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Pengakuan ilmiah](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 
 Kami menyampaikan penghargaan atas kerja keras luar biasa yang telah dilakukan oleh semua ilmuwan yang terlibat dalam wabah ini, terutama mereka yang bekerja di Cina.
@@ -633,7 +633,7 @@ Kami berterima kasih atas sumbangan data yang dikumpulkan oleh laboratorium-labo
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Data ini telah dibagikan melalui [GISAID](https://gisaid.org).
 Kami sangat menghargai dan berterima kasih atas kontribusi mereka.

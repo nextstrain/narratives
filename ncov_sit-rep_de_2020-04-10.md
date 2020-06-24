@@ -81,7 +81,7 @@ Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Anmerkung zur Probennahme](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [Anmerkung zur Probennahme](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 Bis jetzt sind Sequenzierungsdaten von Virusisolaten aus 57 Laendern von sechs Kontinenten oeffentlich zugaenglich. Das ist eine Meisterleistung, wenn man bedenkt, dass man ein unbekanntes, grosses RNA-Virus inmitten einer Pandemie sequenzieren muss. Dies ist nur dank dem wunderbaren Einsatz und dem zeitnahen Teilen von Daten durch Forscher und Aerzte weltweit moeglich.
 <br><br>
 Waehrend diese Daten es uns ermoeglichen, die Pandemie naeher zu charakterisieren und die Ausbreitung zeitnah zu verfolgen, ist es wichtig zu betonen, dass die Schlussfolgerungen aufgrund der Datenverfuegbarkeit begrenzt sind.
@@ -172,7 +172,7 @@ Das zeigt eindeutig, dass die Pandemie ein weltweiter Kampf ist; wir muessen all
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Zusammenfassung](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Zusammenfassung](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 Regionale und nationale Epidemien sind und werden miteinander verflochten sein. 
 <br><br>
@@ -208,7 +208,7 @@ Diese Pandemie ist ein globaler Kampf; wir sind alle gefordert, bei der Kontroll
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderbares Engagement bedanken, die in dieser Epidemie ihren unentbehrlichen Beitrag leisten. Besonders moechten wir uns bei denen bedanken, die in China die Epidemie versuchen in den Griff zu bekommen. Nur durch das schnelle Teilen von Genom- und Metadaten sind Analysen wie diese moeglich.
 
@@ -627,7 +627,7 @@ Vielen herzlichen Dank an nachfolgende Labore fuer das Zusammentragen der Daten:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailierte Danksagung](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Detailierte Danksagung](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Diese Daten wurden durch [GISAID](https://gisaid.org) ermoeglicht. Wir moechten uns hier recht herzlich fuer deren Beteiligung bedanken.
 

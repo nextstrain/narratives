@@ -36,7 +36,7 @@ abstract: "Ce rapport hebdomadaire utilise des données génomiques partagées p
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table des matières](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Table des matières](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Ressources sur COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-05-08?n=2).     
 * [A propos de ces informations](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-05-08?n=3).  
@@ -140,7 +140,7 @@ La répétabilité de ce schéma est la preuve que le virus franchit fréquemmen
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...en tant que particulier
 * Réduisez drastiquement le nombre de personnes avec lesquelles vous êtes en contact chaque jour, surtout si vous faites partie d'un groupe vulnérable (par exemple, les personnes âgées et les personnes souffrant de maladies préexistantes).
 * N'oubliez pas que même si vous ne faites pas partie de ces personnes vulnérables, de nombreuses personnes autour de vous le sont ; suivez ces pratiques pour protéger les autres.
@@ -177,7 +177,7 @@ La répétabilité de ce schéma est la preuve que le virus franchit fréquemmen
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédit scientifique](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Crédit scientifique](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Nous tenons à souligner le superbe travail accompli si rapidement par tous les scientifiques impliqués dans cette épidémie.
 Ce n'est que par le partage rapide des données génomiques et des métadonnées que de telles analyses sont possibles.

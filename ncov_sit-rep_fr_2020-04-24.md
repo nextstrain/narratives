@@ -185,7 +185,7 @@ C'est la preuve de nombreuses introductions distinctes, en grande partie en prov
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### En tant que particulier
 * Réduisez drastiquement le nombre de personnes avec lesquelles vous êtes en contact chaque jour, surtout si vous faites partie d'un groupe vulnérable (par exemple, les personnes âgées et les personnes souffrant de maladies préexistantes).
 * N'oubliez pas que même si vous ne faites pas partie de ces personnes vulnérables, de nombreuses personnes autour de vous le sont ; suivez ces pratiques pour protéger les autres.
@@ -227,7 +227,7 @@ C'est la preuve de nombreuses introductions distinctes, en grande partie en prov
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Crédit scientifique](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [Crédit scientifique](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 
 Nous tenons à souligner le superbe travail accompli si rapidement par tous les scientifiques impliqués dans cette épidémie, et en particulier ceux qui travaillent en Chine. 
 Ce n'est que par le partage rapide des données génomiques et des métadonnées que de telles analyses sont possibles.

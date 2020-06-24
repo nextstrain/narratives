@@ -31,7 +31,7 @@ abstract: „Situační zprávy Nextstrain využívají veřejně dostupné geno
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Úvodní přehled](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Úvodní přehled](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Provedli jsme analýzu 5 193 veřejně dostupných genomů viru způsobujícího nemoc COVID-19. Vzájemným porovnáním těchto virových genomů můžeme popsat, jak se virus SARS-CoV-2 vyvíjí a postupuje světem. Tento týden se zaměříme na mutace viru. Budeme se zabývat těmito tématy:
 <br><br>
@@ -177,7 +177,7 @@ V současnosti probíhá poměrně intenzivní debata o relativních přednostec
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Co můžete udělat vy](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [Co můžete udělat vy](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ... jako běžný občan
 * Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
 * Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.

@@ -37,7 +37,7 @@ abstract: "Este reporte utiliza datos genómicos públicos para el seguimiento d
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Contenidos](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Contenidos](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Información básica del COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-05-08?n=2).     
 * [Acerca del muestreo de datos](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-05-08?n=3).  
@@ -143,7 +143,7 @@ La consistencia de este patrón es una evidencia fuerte de que el virus atravies
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [¿Qué puedes hacer tú?](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [¿Qué puedes hacer tú?](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...como individuo
 * Practica un estricto distanciamiento social, especialmente si perteneces a un grupo vulnerable.
 * Recuerda que aunque no seas súper vulnerable, mucha gente a tu alrededor lo es; sigue estas prácticas para proteger a los demás.
@@ -181,7 +181,7 @@ La consistencia de este patrón es una evidencia fuerte de que el virus atravies
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Créditos Científicos](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Créditos Científicos](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Quisiéramos reconocer la excelente y oportuna labor realizada por todos los científicos que participaron en este brote. Sólo mediante el rápido intercambio de datos y metadatos genómicos es posible realizar análisis como éste.
 

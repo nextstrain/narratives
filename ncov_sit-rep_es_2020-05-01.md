@@ -97,7 +97,7 @@ Por ejemplo, este mapa nos permite observar muchas muestras de Islandia, el Rein
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Varias Introducciones a Rusia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Varias Introducciones a Rusia](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 Resaltando muestras de Rusia, observamos que se encuentran esparcidas tanto geográficamente (a lo largo de Rusia) como genómicamente (a lo largo del árbol).
 <br><br>
@@ -109,7 +109,7 @@ Aunque hay pocas muestras hacia el fondo del árbol que se encuentren relacionad
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Brotes heterogéneos en Moscú](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Brotes heterogéneos en Moscú](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 Un ejemplo de importación frecuente puede ser observado al enfocarnos en las muestras de Moscú.
 <br><br>
@@ -119,7 +119,7 @@ Dado el número de casos confirmados en Moscú, es posible que algunas de estas 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Gran cúmulo de brotes en San Petersburgo, originado a principios de Marzo](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Gran cúmulo de brotes en San Petersburgo, originado a principios de Marzo](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 Podemos tomar a San Petersburgo como contra-ejemplo.
 <br><br>
@@ -131,7 +131,7 @@ Este patrón es consistente con una de estas introducciones de San Petersburgo c
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Cinco cadenas de Transmisión Local en la República Checa](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Cinco cadenas de Transmisión Local en la República Checa](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 La información de la República Checa muestra una mezcla entre estos dos patrones.
 <br><br>
@@ -143,7 +143,7 @@ A partir de esto, podemos decir que hubo al menos 7 introducciones a la Repúbli
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Mezcla extendida de casos a lo largo de Turquía](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Mezcla extendida de casos a lo largo de Turquía](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 En el medio del árbol, observamos una cadena de casos muestreados en distintas provincias alrededor de Turquía.
 Algunos de estos casos han reportado un historial de viajes a Arabia Saudita, con la consecuente relación de casos en Turquía.
@@ -160,7 +160,7 @@ Podríamos especular también que una acumulación numerosa explicaría estas ob
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Al menos 11 introducciones en Polonia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Al menos 11 introducciones en Polonia](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Tenemos 15 secuencias de Polonia en Nextstrain. De estas 15, al menos 11 de ellas representan introducciones independientes desde algún lugar del mundo.
 Al igual que en Moscú, dado el número de casos reportados, podríamos esperar que muchas de estas introducciones hayan sido la semilla de cadenas de transmisión local en Polonia, pero aún no podemos ver esto en nuestra información genómica.
@@ -169,7 +169,7 @@ Al igual que en Moscú, dado el número de casos reportados, podríamos esperar 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Muestras tempranas de Hungría, Lituania, Eslovaquia y Eslovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Muestras tempranas de Hungría, Lituania, Eslovaquia y Eslovenia](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 En Marzo, 20 secuencias fueron enviadas desde Hungría, Lituania, Eslovaquia y Eslovenia.
 Aunque aún no tenemos información suficiente de estos países para sacar conclusiones en firme, aplaudimos estos tempranos esfuerzos y continuaremos monitoreando la información suministrada.
@@ -178,7 +178,7 @@ Aunque aún no tenemos información suficiente de estos países para sacar concl
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [¿Qué puedes hacer tú?](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [¿Qué puedes hacer tú?](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ...como individuo
 * Practica un estricto distanciamiento social, especialmente si perteneces a un grupo vulnerable.
 * Recuerda que aunque no seas súper vulnerable, mucha gente a tu alrededor lo es; sigue estas prácticas para proteger a los demás.
@@ -223,7 +223,7 @@ Aunque aún no tenemos información suficiente de estos países para sacar concl
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Créditos Científicos](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Créditos Científicos](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 Quisiéramos reconocer la excelente y oportuna labor realizada por todos los científicos que participaron en este brote. Solo mediante el rápido intercambio de datos y metadatos genómicos es posible realizar análisis como éste.
 

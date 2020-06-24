@@ -236,7 +236,7 @@ Aunque patrones interesantes entre los casos no asociados con viajes pueden ser 
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Exportación de COVID-19 desde Irán](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [Exportación de COVID-19 desde Irán](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 Todavía no tenemos genomas virales provenientes de Irán. Sin embargo, sí tenemos secuencias de muchos casos de viajes reportados a Irán.

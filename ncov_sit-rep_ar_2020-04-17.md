@@ -157,7 +157,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [ماذا تفعل](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [ماذا تفعل](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ...كفرد في المجتمع
 * قم بالتقيد بالحجر الصحي، تحديدا إذا كنت في مجموعة هي عرضة للوباء
 * تذكر ،  حتى لو لم تكن عرضة  للوباء،  فهناك  العديد من الأشخاص حولنا قد يكونون.  فتقيد بالحجر لحمايتهم
@@ -686,7 +686,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [الحقوق العلمية](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [الحقوق العلمية](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 كما نثمن بقوة ونشكر [GISAID](https://gisaid.org) على تزويدهم لنا بمنصتهم والتي تم من خلالها تحميل وتحليل البيانات. نقدر جهودهم الكبيرة لصيانة واتاحة هذه المنصة لمشاركة السلاسل الحيوة للفيروس
 

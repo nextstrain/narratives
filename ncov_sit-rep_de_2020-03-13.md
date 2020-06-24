@@ -80,7 +80,7 @@ In diesem aktualisierten Bericht legen wir dar, dass
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [COVID-19 Ressourcen](https://nextstrain.org/ncov/2020-03-05)
+# [COVID-19 Ressourcen](https://nextstrain.org/ncov/2020-03-13)
 Hier haben wir mehrere lesenswerte Ressourcen (auf Englisch) zusammengestellt um sich mit COVID-19 (der Krankheit) und dem Virus, welche sie verursacht, SARS-CoV-2, bekannt zu machen.
 Diese Informationen werden es einfacher machen, die nachfolgenden Daten zu verstehen.
 
@@ -220,7 +220,7 @@ Sind Sie unsicher, was soziale Distanzierung bedeutet? [Sehen Sie sich diesen hi
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Weiterführende Informationen](https://nextstrain.org/ncov/2020-03-05)
+# [Weiterführende Informationen](https://nextstrain.org/ncov/2020-03-13)
 
 #### Wir sind uns bewusst, dass viele Personen offene Fragen bezüglich COVID-19 haben.
 
@@ -263,7 +263,7 @@ Wissenschaftler bemühen sich daher, zu erklären, wieso diese Behauptungen nich
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Danksagung](https://nextstrain.org/ncov/2020-01-30?d=map&c=author)
+# [Danksagung](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 Wir möchten uns für die beeindruckende, schnelle und transparente Arbeit aller an diesem Ausbruch beteiligten Wissenschaftler, insbesondere aber jener in China tätigen, bedanken.
 Nur durch den raschen Austausch von genomischen Daten und Metadaten sind solche Analysen möglich.
@@ -405,7 +405,7 @@ Wir bedanken uns für bereitgestellten Daten bei den folgenden Ursprungslaboren:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detaillierte Herkunft der Daten](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Detaillierte Herkunft der Daten](https://nextstrain.org/ncov/2020-03-13?d=map&c=author)
 
 Diese Daten wurden über [GISAID](https://gisaid.org) geteilt. Wir sind sehr dankbar für diese Plattform.
 

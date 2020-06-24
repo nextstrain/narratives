@@ -95,7 +95,7 @@ We applaud the groups working to generate additional data for these regions. As 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [Materiały wprowadzające w tematykę](https://nextstrain.org/ncov/2020-03-27)
+# [Materiały wprowadzające w tematykę](https://nextstrain.org/ncov/2020-04-03)
 Przygotowaliśmy materiały online, które warto przeczytać w celu zapoznania się z COVID-19 i wirusem SARS-CoV-2, który tę chorobę wywołuje, również znanym jako hCov-19.
 Zawarte w nich informacje ułatwią interpretację danych, które prezentujemy w tym raporcie.
 <br><br>
@@ -310,7 +310,7 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [Co ty możesz zrobić](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Co ty możesz zrobić](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### ...jako jednostka
 * Stosuj ścisłą izolację społeczną, zwłaszcza jeśli jesteś w grupie podwyższonego ryzyka.
 * Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
@@ -687,7 +687,7 @@ Dziękujemy za dane zebrane w tych ośrodkach badawczych:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Szczególne podziękowania](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Szczególne podziękowania](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 Te dane były udostępniane poprzez platformę [GISAID](https://gisaid.org).
 Szczególnie dziękujemy za wkład ich drużyny.

@@ -35,7 +35,7 @@ abstract: "Laporan Keadaan Nextstrain menggunakan data genom yang dibagikan seca
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Ringkasan](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Ringkasan](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Kami menganalisis 5.193 genom COVID-19 yang tersedia untuk publik. Dengan memperbandingkan genom virus ini, kami dapat mengkarakterisasi bagaimana SARS-CoV-2 berevolusi dan bergerak di seluruh dunia. Pekan ini, kami fokus pada mutasi virus. Kami meliput:
 <br><br>
@@ -181,7 +181,7 @@ Ada cukup banyak perdebatan mengenai manfaat relatif dari dua hipotesis ini. Pen
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...sebagai pribadi
 * Lakukanlah perenggangan sosial secara ketat, terutama jika Anda tergolong dalam kelompok rentan.
 * Ingatlah bahwa meskipun Anda tidak sangat rentan, banyak orang di sekitar Anda sangatlah rentan; lakukanlah hal-hal ini untuk melindungi orang lain.

@@ -229,7 +229,7 @@ abstract: "این گزارش از داده‌های ژنتیکی برای ردی
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [انتقال ویروس از ایران](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [انتقال ویروس از ایران](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 ما هنوز رشته‌ی توالی ژنتیک از موارد داخل ایران نداریم. اما داده‌های زیادی از مواردی که سفر به ایران داشته‌اند داریم. 

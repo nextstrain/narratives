@@ -84,7 +84,7 @@ Nous avons préparé quelques ressources qui faciliteront l'interprétation des 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Une remarque sur l'échantillonnage](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [Une remarque sur l'échantillonnage](https://nextstrain.org/ncov/global/2020-04-09?c=country&r=country&d=map&p=grid&legend=closed)
 Nous disposons actuellement de séquences provenant d'échantillons prélevés dans 57 pays sur 6 continents. C'est une réalisation incroyable: le séquençage d'un virus à ARN inconnu et de grande taille en pleine pandémie est difficile, et n'est possible que grâce au travail exceptionnel et au partage en temps réel des données par les scientifiques et les médecins du monde entier.
 <br><br>
 Si ces données nous permettent de déduire de nombreuses caractéristiques utiles de l'épidémie et de suivre sa propagation en temps réel, il est important de souligner que nos conclusions sont limitées par les données disponibles.
@@ -180,7 +180,7 @@ Cela démontre de façon éclatante que cette pandémie est un combat mondial ; 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [En résumé](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [En résumé](https://nextstrain.org/ncov/global/2020-04-09?c=country&d=map&p=full)
 
 Les épidémies régionales et nationales sont et seront profondément imbriquées.
 <br><br>
@@ -217,7 +217,7 @@ Cette pandémie est un combat mondial ; nous devons tous aider à contrôler ce 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédit scientifique](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Crédit scientifique](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Nous tenons à souligner le superbe travail accompli si rapidement par tous les scientifiques impliqués dans cette épidémie, et en particulier ceux qui travaillent en Chine. 
 Ce n'est que par le partage rapide des données génomiques et des métadonnées que de telles analyses sont possibles.
@@ -635,7 +635,7 @@ Nous sommes reconnaissants pour les données recueillies par ces laboratoires d'
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Crédit scientifique détaillé](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédit scientifique détaillé](https://nextstrain.org/ncov/global/2020-04-09?d=map&c=author)
 
 Ces données ont été partagées par [GISAID](https://gisaid.org). Nous remercions chaleureusement leurs contributions.
 

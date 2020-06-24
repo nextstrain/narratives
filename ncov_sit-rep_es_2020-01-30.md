@@ -183,7 +183,7 @@ Las secuencias en estos grupos tienden a ser de muestras más recientes, lo que 
 Actualmente no hay evidencia de que estas mutaciones cambien la forma en que se comporta el virus; se espera que los virus de ARN muten.
 
 
-# [Transmisión dentro de la familia 1](https://nextstrain.org/2020-01-30/ncov?m=div&d=tree&f_location=Zhuhai)
+# [Transmisión dentro de la familia 1](https://nextstrain.org/ncov/2020-01-30?m=div&d=tree&f_location=Zhuhai)
 
 Hay tres aislamientos genéticamente idénticos de Zhuhai (en el sureste de China, provincia de Guangdong) que forman un grupo. Estas secuencias comparten una mutación que no se ve en ningún otro aislado (puedes pasar el puntero sobre las ramas para ver qué mutaciones están presentes).
 

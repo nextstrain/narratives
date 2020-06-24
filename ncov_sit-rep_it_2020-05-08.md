@@ -37,8 +37,8 @@ abstract: "Questo rapporto settimanale usa dati genomici condivisi pubblicamente
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-<!--# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)-->
-# [Sommario](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+<!--# [Table of Contents](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)-->
+# [Sommario](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 <!--* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).-->
 * [Risorse di base](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-05-08?n=2).     
@@ -189,8 +189,8 @@ La frequenza di questo pattern è una prova molto forte del fatto che il virus a
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-<!-- # [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)-->
-# [Cosa puoi fare](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+<!-- # [What you can do](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)-->
+# [Cosa puoi fare](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 
 <!-- #### ...as an individual -->
 #### ...come individuo
@@ -243,8 +243,8 @@ La frequenza di questo pattern è una prova molto forte del fatto che il virus a
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-<!--  # [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)-->
-# [Riconoscimenti scientifici](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+<!--  # [Scientific credit](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)-->
+# [Riconoscimenti scientifici](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 <!-- We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.-->

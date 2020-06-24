@@ -35,7 +35,7 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Spis treści](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Spis treści](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-08?n=2).     
 * [O danych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-08?n=3).  
@@ -169,7 +169,7 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Co ty możesz zrobić](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Co ty możesz zrobić](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...jako jednostka
 * Stosuj ścisłą izolację społeczną, zwłaszcza, jeśli jesteś w grupie podwyższonego ryzyka.
 * Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
@@ -206,7 +206,7 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Podziękowania](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Podziękowania](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
 <br><br>

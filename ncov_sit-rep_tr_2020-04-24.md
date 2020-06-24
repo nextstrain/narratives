@@ -187,7 +187,7 @@ Bu, Afrika'daki birçok ülkeye büyük ölçüde Avrupa'dan olmak üzere birço
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Ne Yapabilirsiniz?](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Ne Yapabilirsiniz?](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### ...bireysel olarak
 * Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız.
 * Hassas grupta olmasanız da etrafınızdaki pek çok kişinin bu kategoriye girdiğini unutmayın. Diğerlerini korumak için bu kurallara uyun.
@@ -229,7 +229,7 @@ Bu, Afrika'daki birçok ülkeye büyük ölçüde Avrupa'dan olmak üzere birço
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Bilimsel Katkılar](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [Bilimsel Katkılar](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 
 Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına teşekkür etmek istiyoruz. Bu gibi çalışmalar yalnızca genomik verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
 <br><br>

@@ -97,7 +97,7 @@ Zum Beispiel zeigt die Karte viele Proben aus Island, der U.K. und den Niederlan
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Mehrfache Einschleppungen nach Russland ](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Mehrfache Einschleppungen nach Russland ](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
 Wenn wir dir Proben aus Russland hervorheben, sehen wir eine sowohl geographische (innerhalb Russlands) als auch genomische (innerhalb des Baumes) Durchmischung.
 <br><br>
@@ -110,7 +110,7 @@ Der Grossteil der russischen Proben stammt von europaeischen Linien ab, waehrend
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Ein heterogener Ausbruch in Moskau](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Ein heterogener Ausbruch in Moskau](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 Man kann ein Beispiel fuer mehrfache Einschleppugen sehen, indem man in die Proben aus Moskau zoomt.
 <br><br>
@@ -121,7 +121,7 @@ Wenn man die Anzahl der Faelle in Moskau in Betracht zieht, ist es wahrscheinlic
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Ein grosser Ausbruck in St. Petersburg, der Anfang Maerz begann](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Ein grosser Ausbruck in St. Petersburg, der Anfang Maerz begann](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 Wir koennen St. Petersburg als ein Gegenbeispiel betrachten.
 <br><br>
@@ -133,7 +133,7 @@ Dieses Muster stimmt damit ueberein, dass eine der Einschleppungen nach St. Pete
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Fuenf lokale Uebertragungsketten in der Tschechischen Republik](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Fuenf lokale Uebertragungsketten in der Tschechischen Republik](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 Der Ausbruch in der Tschechischen Republik stellt sich als Gemisch dieser beiden Muster dar.
 <br><br>
@@ -145,7 +145,7 @@ Hieraus schlussfolgern wir, das es mindestens sieben Einschleppungen in die Tsch
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Hochgradige Durchmischung von Faellen innerhalb der Tuerkei](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Hochgradige Durchmischung von Faellen innerhalb der Tuerkei](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 In der Mitte des Baumes sehen wir eine Serie von Faellen, die in verschiedenen Provinzen der Tuerkei beprobt worden sind.
 Einige dieser Faelle haben einen vorherigen Reiseverlauf nach Saudi-Arabien berichtet, mit spaeteren nah verwandten Faellen in der Tuerkei.
@@ -160,7 +160,7 @@ Dies deutet auf eine hochgradige Durchmischung von viralen Linien hin, die viele
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Mindestens elf separate Einschleppungen nach Polen](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Mindestens elf separate Einschleppungen nach Polen](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 Wir haben fuenfzehn Sequenzen aus Polen in Nextstrain. Davon repraesentieren mindesten elf separate Einschleppungen aus anderen Teilen der Welt.
 Wie in Moskau koennen wir basierend auf der Anzahl der berichteten Faelle erwarten, dass einige dieser Einschleppungen lokale Uebertragungketten in Polen initiiert haben. Wir koennen dies jedoch noch nicht in den genomischen Daten erkennen.
@@ -169,7 +169,7 @@ Wie in Moskau koennen wir basierend auf der Anzahl der berichteten Faelle erwart
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Fruehe Proben aus Ungarn, Lettland, Slowakei und Slowenien](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Fruehe Proben aus Ungarn, Lettland, Slowakei und Slowenien](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 Im Maerz wurden 20 Sequenzen aus Ungarn, Lettland, Slowakei und Slowenien veroeffentlicht.
 
@@ -179,7 +179,7 @@ Wir haben noch nicht genuegend Daten aus diesen Laendern, um klare Schlussfolger
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Was Sie tun koennen](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Was Sie tun koennen](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 #### ...als Einzelperson
 * Reduzieren Sie die Anzahl an Personen, mit denen Sie taeglich Kontakt haben, besonders wenn Sie zu einer Risikogruppe gehoeren (z.B. Senioren und Leute mit Vorerkrankungen).
 * Bedenken Sie, dass selbst wenn Sie nicht zu einer Risikogruppe gehoeren, Leute in Ihrer Umgebung dies eventuell tun. Halten Sie sich an die Anweisungen, um Andere zu schuetzen.
@@ -223,7 +223,7 @@ Wir haben noch nicht genuegend Daten aus diesen Laendern, um klare Schlussfolger
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderbares Engagement bedanken, die in dieser Epidemie ihren unentbehrlichen Beitrag leisten. Nur durch das schnelle Teilen von Genom- und Metadaten sind Analysen wie diese moeglich. 
 <br><br>

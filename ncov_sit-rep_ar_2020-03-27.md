@@ -238,7 +238,7 @@ abstract: "  يستخدم هذا التقرير بيانات الجينومات 
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [قدوم الفيروس من إيران](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [قدوم الفيروس من إيران](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 
 ليس لدينا أي تسلسل جينومي للفيروس  من إيران. ولكن لدينا عينات من مرضى لهم سجل سفر مرتبط بإيران
 <br><br>

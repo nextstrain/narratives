@@ -31,7 +31,7 @@ abstract: "Báo cáo hiện trạng của Nextstrain sử dụng dữ liệu b�
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Tóm tắt báo cáo](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Tóm tắt báo cáo](https://nextstrain.org/ncov/global/2020-05-14?d=tree,entropy&p=grid)
 
 Chúng tôi đã tiến hành phân tích 5.193 bộ gen COVID-19 được chia sẻ công khai. Thông qua việc so sánh các bộ gen vi-rút này với nhau, chúng tôi có thể mô tả diễn biến tiến hóa và lây lan của vi-rút SARS-CoV-2 trên toàn thế giới. Trong báo cáo tuần này, chúng tôi sẽ tập trung phân tích các đột biến của vi-rút. Chúng tôi sẽ đề cập đến những nội dung:
 <br><br>
@@ -177,7 +177,7 @@ Có rất nhiều tranh cãi xoay quanh giá trị tương đối của hai gi�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Bạn có thể làm gì](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+# [Bạn có thể làm gì](https://nextstrain.org/ncov/global/2020-05-14?c=country&d=map&p=full)
 #### ...dưới vai trò là một cá nhân
 * Thực hành giãn cách xã hội nghiêm ngặt, đặc biệt nếu bạn thuộc nhóm dân cư dễ bị tổn thương.
 * Hãy nhớ rằng nếu không phải là bạn thì rất nhiều người xung quanh bạn vẫn có thể là đối tượng cực kỳ dễ bị tổn thương; do đó hãy thực hiện theo những biện pháp thực hành này để bảo vệ người khác.

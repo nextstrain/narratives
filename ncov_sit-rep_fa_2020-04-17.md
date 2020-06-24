@@ -158,7 +158,7 @@ abstract: "این گزارش‌های هفتگی از داده‌های کووی
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [کارهایی که شما می‌توانید انجام دهید](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+# [کارهایی که شما می‌توانید انجام دهید](https://nextstrain.org/ncov/north-america/2020-04-17?c=country&d=map&p=full)
 #### ...به عنوان یک فرد
 * فاصله اجتماعی را رعایت کنید، مخصوصا اگر جز گروه‌های آسیب‌پذیر هستید.
 * در مکان‌های عمومی ماسک بزنید.
@@ -694,7 +694,7 @@ abstract: "این گزارش‌های هفتگی از داده‌های کووی
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [اعتبار علمی تکمیلی](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [اعتبار علمی تکمیلی](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
 این داده ها توسط [GISAID](https://gisaid.org) به اشتراک گذاشته شدند و ما از مشارکت آن ها بسیار قدردانی می کنیم.
 در سمت راست، توالی‌های خاصی را که توسط هر آزمایشگاه به اشتراک گذاشته شده را نام می‌بریم.

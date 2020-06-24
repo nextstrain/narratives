@@ -183,7 +183,7 @@ To je důkazem mnoha samostatných případů zanesení nákazy, převážně z 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Co můžete udělat vy](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Co můžete udělat vy](https://nextstrain.org/ncov/africa/2020-04-24?c=country&d=map&p=full)
 #### ... jako běžný občan
 * Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
 * Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
@@ -225,7 +225,7 @@ To je důkazem mnoha samostatných případů zanesení nákazy, převážně z 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/africa/2020-04-24?d=map&c=author)
 
 Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou.
 Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.

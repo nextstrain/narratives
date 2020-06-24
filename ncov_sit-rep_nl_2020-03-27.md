@@ -243,7 +243,7 @@ De sequencing inspanningen nemen toe en we zullen verslag uitbrengen naarmate de
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Export van COVID-19 uit Iran](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [Export van COVID-19 uit Iran](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 We hebben nog geen virale genomen uit Iran.

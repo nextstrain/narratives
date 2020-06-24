@@ -78,7 +78,7 @@ Kami sangat menghargai pihak-pihak yang bekerja untuk menghasilkan data tambahan
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [Informasi mengenai COVID-19](https://nextstrain.org/ncov/2020-03-27)
+# [Informasi mengenai COVID-19](https://nextstrain.org/ncov/2020-04-03)
 Kami telah menyiapkan sejumlah informasi yang dapat dibaca untuk membuat Anda lebih mengenali COVID-19 dan virus yang menyebabkannya, SARS-CoV-2, juga dikenal sebagai hCov-19.
 Informasi ini akan memudahkan interpretasi data yang kami sajikan dalam narasi ini.
 <br><br>
@@ -247,7 +247,7 @@ Yang menarik, kebanyakan sekuens di sekelilingnya (ujung samar) berasal dari AS,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
 #### ...sebagai pribadi
 * Lakukanlah perenggangan sosial secara ketat.
 * Meskipun Anda tidak rentan, lakukanlah perenggangan sosial untuk melindungi orang lain.
@@ -616,7 +616,7 @@ Kami berterima kasih atas sumbangan data yang dikumpulkan oleh laboratorium-labo
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
 Data ini telah dibagikan melalui [GISAID](https://gisaid.org).
 Kami sangat menghargai dan berterima kasih atas kontribusi mereka.

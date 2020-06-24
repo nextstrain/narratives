@@ -136,8 +136,8 @@ Ad esempio, la cartina mostra molte sequenze da Islanda, Regno Unito e Paesi Bas
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-<!-- # [Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)-->
-# [Molteplici introduzioni del virus in Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+<!-- # [Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)-->
+# [Molteplici introduzioni del virus in Russia](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 <!-- Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).-->
 Evidenziando i campioni raccolti in Russia, vediamo che sono sparsi sia geograficamente (su tutta la Russia) che genomicamente (lungo l'albero filogenetico).
 <br><br>
@@ -151,8 +151,8 @@ Anche se ci sono pochi campioni verso la parte bassa dell'albero che sono più s
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-<!--  # [Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)-->
-# [Focolai etereogenei a Mosca](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+<!--  # [Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)-->
+# [Focolai etereogenei a Mosca](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 <!-- An example of frequent importation can be seen by zooming in on samples from Moscow.-->
 Un esempio di importazione frequente del virus può essere visto ingrandendo sulle sequenze di Mosca.
@@ -167,8 +167,8 @@ Dato il numero di casi confermati a Mosca, è probabile che almeno alcune di que
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-<!--# [Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)-->
-# [Ampio focolaio a San Pietroburgo, scoppiato all'inizio di marzo](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+<!--# [Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)-->
+# [Ampio focolaio a San Pietroburgo, scoppiato all'inizio di marzo](https://nextstrain.org/ncov/europe/2020-05-01?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 
 <!-- We can look at St. Petersburg as a counterexample.-->
@@ -185,8 +185,8 @@ Ciò è coerente con l'ipotesi che una di queste introduzioni a San Pietroburgo 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-<!-- # [Five local transmission chains in the Czech Republic](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)-->
-# [Cinque catene di trasmissione locale in Repubblica Ceca](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+<!-- # [Five local transmission chains in the Czech Republic](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)-->
+# [Cinque catene di trasmissione locale in Repubblica Ceca](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
 <!-- The data from the Czech Republic show a mix of these two patterns.-->
 Le sequenze dalla Repubblica Ceca mostrano un mescolamento di questi due pattern. 
@@ -202,8 +202,8 @@ Da questo, possiamo concludere che ci sono state almeno 7 introduzioni del virus
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-<!--  # [Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)-->
-# [Estensivo mescolamente dei casi attraverso la Turchia](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+<!--  # [Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)-->
+# [Estensivo mescolamente dei casi attraverso la Turchia](https://nextstrain.org/ncov/europe/2020-05-01?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 <!--  In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
 Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.-->
@@ -226,8 +226,8 @@ Queste osservazioni potrebbero anche essere spiegate dall'eventualità di un gra
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-<!-- # [At least 11 introductions to Poland](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)-->
-# [Almeno 11 introduzioni in Polonia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+<!-- # [At least 11 introductions to Poland](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)-->
+# [Almeno 11 introduzioni in Polonia](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Poland&p=full&legend=closed)
 
 <!-- We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
 As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.-->
@@ -238,8 +238,8 @@ Come a Mosca, dato il numero di casi riportati, potremmo aspettarci che diverse 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-<!-- # [Early samples from Hungary, Latvia, Slovakia and Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)-->
-# [Primi campioni dall'Ungheria, Lettonia, Slovacchia e Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+<!-- # [Early samples from Hungary, Latvia, Slovakia and Slovenia](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)-->
+# [Primi campioni dall'Ungheria, Lettonia, Slovacchia e Slovenia](https://nextstrain.org/ncov/europe/2020-05-01?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 <!-- In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
 While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data.-->
@@ -250,8 +250,8 @@ Anche se non disponiamo ancora di dati sufficienti da questi Paesi per trarre co
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-<!-- # [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)-->
-# [Cosa puoi fare](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+<!-- # [What you can do](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)-->
+# [Cosa puoi fare](https://nextstrain.org/ncov/europe/2020-05-01?c=country&d=map&p=full)
 <!-- #### ...as an individual-->
 #### ...come individuo
 <!-- * Practice strict social distancing, especially if you are in a vulnerable group.
@@ -311,8 +311,8 @@ Anche se non disponiamo ancora di dati sufficienti da questi Paesi per trarre co
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-<!-- # [Scientific credit](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)-->
-# [Riconoscimenti scientifici](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+<!-- # [Scientific credit](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)-->
+# [Riconoscimenti scientifici](https://nextstrain.org/ncov/europe/2020-05-01?d=map&c=author)
 
 <!--We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.-->

@@ -31,7 +31,7 @@ abstract: "Báo cáo hàng tuần này sử dụng dữ liệu bộ gen được
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Mục lục](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Mục lục](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Tài nguyên cơ sở](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-05-08?n=2).     
 * [Giới thiệu về nguồn dữ liệu này](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-05-08?n=3).  
@@ -135,7 +135,7 @@ Tính nhất quán của mô hình này là bằng chứng thuyết phục cho t
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Bạn nên làm gì](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Bạn nên làm gì](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...dưới vai trò là một cá nhân
 * Thực hành giãn cách xã hội nghiêm ngặt, đặc biệt nếu bạn thuộc nhóm dân cư dễ bị tổn thương.
 * Hãy nhớ rằng nếu không phải là bạn thì rất nhiều người xung quanh bạn vẫn có thể là đối tượng cực kỳ dễ bị tổn thương; do đó hãy thực hiện theo những biện pháp thực hành này để bảo vệ người khác.
@@ -172,7 +172,7 @@ Tính nhất quán của mô hình này là bằng chứng thuyết phục cho t
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Ghi nhận công lao nghiên cứu khoa học](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Ghi nhận công lao nghiên cứu khoa học](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Chúng tôi muốn ghi nhận các công trình nghiên cứu tuyệt vời và kịp thời liên quan đến dịch bệnh này của tất cả các nhà khoa học.
 Chính nhờ sự chia sẻ kịp thời các dữ liệu và siêu dữ liệu về bộ gen mà chúng tôi mới có thể thực hiện được các bài báo cáo phân tích này.

@@ -243,7 +243,7 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [イランから国外への COVID-19 の伝搬](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [イランから国外への COVID-19 の伝搬](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 イランからのウイルスゲノムはまだ入手していません。

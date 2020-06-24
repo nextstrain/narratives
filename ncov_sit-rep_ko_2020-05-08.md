@@ -35,7 +35,7 @@ abstract: "이 주간 보고서는 공개된 유전체 정보를 이용해 코�
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [목차](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [목차](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-05-08?n=2).     
 * [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-05-08?n=3).  
@@ -139,7 +139,7 @@ Nextstrain은 1월 말에서 3월 말 사이에 채취된 14건의 말레이시�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### 개인이 할 수 있는 것들   
 * 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
 * 당신이 취약계층이 아니더라도 여러분 주변의 많은 사람들이 그렇다는 것을 기억 하십시오. 이 원칙들을 지켜야 다른 사람들을 보호할 수 있습니다.
@@ -176,7 +176,7 @@ Nextstrain은 1월 말에서 3월 말 사이에 채취된 14건의 말레이시�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [과학적 기여](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [과학적 기여](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 이번 유행에 관련된 모든 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
 <br><br>

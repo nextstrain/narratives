@@ -239,7 +239,7 @@ abstract: "Этот отчет использует общедоступные �
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Экспортирование COVID-19 из Ирана](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [Экспортирование COVID-19 из Ирана](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 Пока что у нас нет вирусных геномов из Ирана.

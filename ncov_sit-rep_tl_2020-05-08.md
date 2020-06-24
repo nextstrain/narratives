@@ -31,7 +31,7 @@ abstract: "Ang lingguhang report na ito ay gumagamit ng genomic na datos na ibin
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Talaan ng mga Nilalaman](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Talaan ng mga Nilalaman](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&p=grid)
 
 * [Mga sangguniang pinagbatayan](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=2).     
 * [Tungkol sa data na ito](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=3).  
@@ -135,7 +135,7 @@ Ang hindi pagbabago ng pattern na ito ay matibay na ebidensya na ang virus ay ma
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Ano ang maaari mong gawin](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [Ano ang maaari mong gawin](https://nextstrain.org/ncov/asia/2020-05-08?c=country&d=map&p=full)
 #### ...bilang indibidwal
 * Isagawa ang mahigpit na social distancing, lalo na kung ikaw ay nasa mahihinang grupo.
 * Tandaan na kahit hindi ka lubhang mahina, maraming taong nakapaligid sa iyo; sundin ang mga kasanayang ito upang protektahan ang iba.
@@ -172,7 +172,7 @@ Ang hindi pagbabago ng pattern na ito ay matibay na ebidensya na ang virus ay ma
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Siyentipikong kredito](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Siyentipikong kredito](https://nextstrain.org/ncov/asia/2020-05-08?d=map&c=author)
 
 Nais naming kilalanin ang kahanga-hanga at napapanahong pagsisikap na isinagawa ng lahat ng siyentipikong sangkot sa paglaganap ng sakit na ito.
 Tanging sa pamamagitan ng mabilis na pagbabahagi ng mga genomic na datos at metadata nagiging posible ang mga pagsusuring tulad nito.
