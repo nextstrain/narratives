@@ -166,7 +166,7 @@ Isso sugere fortemente que há uma transmissão local em andamento dentro da Cal
 
 O distanciamento social — isto é, diminuir o número de pessoas que você encontra todos os dias — pode ser desafiador, mas é extremamente benéfico para o bem comum. Se todos diminuíssem seus contatos diários em 25%, esperaríamos uma redução de 50% no número acumulado de casos no próximo mês ([Klein et al., 2020](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)). Ainda não tem certeza do que distanciamento social significa? [Confirma esse guia útil (em Inglês)](https://www.theatlantic.com/family/archive/2020/03/coronavirus-what-does-social-distancing-mean/607927/).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ## Dicas que indivíduos podem seguir

@@ -192,7 +192,7 @@ abstract: "يستخدم هذا التقرير البيانات الجينومي�
 
 هذه الانتشارات الوبائية يمكن بدورها ان تزرع ادخالات جديدة الى اماكن اخرى
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -208,7 +208,7 @@ abstract: "يستخدم هذا التقرير البيانات الجينومي�
 الان، منتصف مارس (بعد حوالي 6 اسابيع) نرى انتشارا كامل الفعالية للوباء في هذه المنطقة. من خلال البيانات التسلسلية فقط، يمكننا تقدير بأن معدل التضاعف سيحدث في غضون 3-6 ؛ بافتراض معدل نمو لوغاريتمايتي في المجتمع.
 
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -247,7 +247,7 @@ abstract: "يستخدم هذا التقرير البيانات الجينومي�
 
 ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

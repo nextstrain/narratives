@@ -229,7 +229,7 @@ y-축은 (유행이 퍼져나갈) 공간, x-축은 시간을 나타냅니다.
 
 이렇게 시작한 각 유행은 다른 지역에서 유행을 새로 발생시킬 수도 있습니다.
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -246,7 +246,7 @@ y-축은 (유행이 퍼져나갈) 공간, x-축은 시간을 나타냅니다.
 유전체 염기서열 정보를 이용한 추정에 따르면 이 유행은 3-6일에 두배씩 커지는
 지수함수적 성장을 하고 있습니다.
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -303,7 +303,7 @@ y-축은 (유행이 퍼져나갈) 공간, x-축은 시간을 나타냅니다.
 만약 모든 사람들이 하루에 만나는 사람을 25% 줄이면, 다음달에 발생할 감염자의
 수가 50% 줄어듭니다 ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

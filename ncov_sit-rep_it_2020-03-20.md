@@ -188,7 +188,7 @@ Qui sotto trovate un esperimento concettuale che mostra come ciò si sia verific
 
 Queste nuove epidemie, a loro volta, potrebbero causare ulteriori introduzioni in altre località.
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 ```
 
@@ -201,7 +201,7 @@ Quando si passa con il mouse sopra la radice del ramo principale si vede che il 
 <br><br>
 Adesso, a metà marzo (circa 6 settimane più tardi), vediamo che in quest'area c'è un focolaio locale molto attivo. Esclusivamente sulla base delle sequenze e assumendo una popolazione in crescita esponenziale, possiamo stimare un tasso di duplicazione compreso tra 3 e 6 giorni.  
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -242,7 +242,7 @@ Che la distanza sociale sia mantenuta per tutto questo tempo è cruciale. Come m
 Il distanziamento sociale - cioè la riduzione del numero di persone che si incontrano ogni giorno - può essere duro, ma è enormemente vantaggioso per il bene collettivo.  
  Se tutti diminuissero del 25% i loro contatti giornalieri con altre persone, ci potremmo aspettare una diminuizione del 50% nel numero dei casi totali nel mese successivo ([Klein et al., 13 marzo 2020](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

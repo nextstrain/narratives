@@ -198,7 +198,7 @@ Dit wijst er sterk op dat er binnen Californië nog steeds sprake is van lokale 
 Beperken van sociale contacten - dat wil zeggen, het verminderen van het aantal mensen dat je elke dag tegenkomt - kan een uitdaging zijn, maar is erg goed voor het algemeen belang.  
  Als iedereen zijn dagelijkse contacten met 25% zou verminderen, dan verwachten we de volgende maand een afname van 50% van het cumulatieve aantal gevallen. ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)). Weet u niet zeker wat 'social distancing' betekent? [Bekijk deze handige gids (engels)](https://www.theatlantic.com/family/archive/2020/03/coronavirus-what-does-social-distancing-mean/607927/).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ## Stappen die individuen kunnen nemen

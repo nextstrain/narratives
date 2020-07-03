@@ -183,7 +183,7 @@ Folgendes stellt ein Gedankenexperiment dar, wie sich die Situation in Wuhan abg
 
 Diese neuen Epidemien koennen widerum das Virus in andere Gebiete bringen.
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -197,7 +197,7 @@ Betrachtet man die Wurzel der Hauptklade kann davon ausgegangen werden, dass das
 <br><br>
 Mitte Maerz (ungefaehr sechs Wochen spaeter) ist die Epidemie in vollem Gange. Ausgehend von den Sequenzierdaten, erwarten wir eine Verdopplungsrate von drei bis sechs Tagen, wenn von einer exponentiellen Wachstumsrate ausgegangen wird.
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -234,7 +234,7 @@ Es ist wichtig, dass social distancing in dieser Zeit eingehalten wird. Wie man 
 Social distancing beschreibt die Reduktion der Anzahl an Personen, denen man taeglich begegnet. Social distancing kann herausfordernd sein, aber das Gemeinwohl profitiert stark davon.  
 Wenn jeder seine taeglichen Kontakte um 25% reduziert, kann mit einer Reduktion von 50% in der kumulativen Anzahl der Faelle im naechsten Monat gerechnet werden. ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

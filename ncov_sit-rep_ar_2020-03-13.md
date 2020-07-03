@@ -213,7 +213,7 @@ abstract: "يستخدم هذا التقرير بيانات الجينوم الت
 التباعد الاجتماعي -- هذا يعني, تقليل عدد الأشخاص الذين تلتقيهم في كل يوم-- يمكن أن يشكل ذلك تحديا لكنه مفيد جدا ويصب في مصلحة الجميع  
  لو أن كل شخص قلل اتصاله اليومي بالآخرين بنسبة 25 بالمئة فمن الممكن التوقع  بإنخفاض بنسبة 50 بالمئة في الإعداد التراكمية لحالات الإصابة خلال الشهر القادم ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)). لست متأكدا ماذا يعني التباعد الاجتماعي? [تفحص الدليل المساعد](https://www.theatlantic.com/family/archive/2020/03/coronavirus-what-does-social-distancing-mean/607927/).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ## خطوات يستطيع الأفراد القيام بها

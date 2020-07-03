@@ -220,7 +220,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 این همه‌گیری‌های جدید ممکن است خودشان باعث ورود ویروس به مکان‌های دیگری شوند.
 
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -235,7 +235,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 <br><br>
 اکنون در اواسط مارچ (تقریبا ۶ هفته بعد) می‌بینیم که همه‌گیری محلی در این منطقه کاملا شکل گرفته و یکه‌تازی می‌کند. از داده‌های نمونه توالی ژنتیکی به تنهایی می‌توان دو برابر شدن در بازه ۳ تا ۶ روز با فرض رشد نمایی جمعیت را تخمین زد. 
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 <!-- There is no right side text -->
 
@@ -275,7 +275,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 کاهش فاصله اجتماعی یعنی کاهش تعداد افرادی که هر روز با آنها مواجه می شوید، چالش انگیز است، ولی بسیار زیاد برای همه جامعه سودمند است. 
  اگر هر شخص روزانه ارتباطاتش با افراد را ۲۵٪ کاهش دهد، انتظار داریم که ۵۰٪ کاهش در تعداد کل مبتلایان در ماه آینده مشاهده کنیم. ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

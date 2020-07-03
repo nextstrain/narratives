@@ -187,7 +187,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 
 这些新的疫情可能会接着把病毒进一步传播到其他地方。
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -201,7 +201,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 <br><br>
 现在，在3月中旬(大约6周后)，我们可以看到这一地区的本地疫情正处于全面爆发中。仅从序列数据来看，如果假设病毒种群呈指数级增长，我们估计倍增率为3-6天。
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -242,7 +242,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 社交控制——也就是说，减少自己每天遇到的人的数量。这可能很有挑战性，但却能为整个社会的公共利益作出极大的贡献。
  如果每个人的日常接触减少25%，我们预计下个月的累计病例数量将减少50%（[Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)）。
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

@@ -189,7 +189,7 @@ Poniżej jest przedstawiony eksperyment myślowy obrazujący, jak sytuacja rozeg
 
 Te nowe ogniska epidemii mogą z kolei stać się przyczyną wprowadzania wirusa w nowe obszary.
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -203,7 +203,7 @@ Przesuwając myszką nad korzeniem głównego kladu możemy zobaczyć, że wirus
 <br><br>
 Obecnie, w połowie marca (czyli mniej więcej 6 tygodni później), widzimy, że lokalna epidemia jest w pełnym rozkwicie. Z danych z sekwencjonowania oszacowaliśmy tempo podwajania się liczby przypadków na 3-6 dni, zakładając wykładniczy wzrost populacji.
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -243,7 +243,7 @@ Kluczowe jest, aby izolacja społeczna została utrzymana w tym czasie. Jak poka
 Izolacja społeczna -- czyli zmniejszenie liczby kontaktów z ludźmi, z którymi zwykle spotykamy się każdego dnia -- może być wymagająca, ale jest wyjątkowo korzystna dla dobra publicznego.
 Jeśli każdy zmniejszy swoje codzienne kontakty o 25%, możemy spodziewać się 50% spadku skumulowanej liczby przypadków w ciągu następnego miesiąca ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

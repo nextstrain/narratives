@@ -198,7 +198,7 @@ Soziale Distanzierung - d.h. die Verringerung der sozialen Kontakte - kann eine 
 Wenn jeder seine täglichen Kontakte um 25&nbsp;% verringern würde, erwarten wir, dass die kumulierte Zahl der Fälle im nächsten Monat um ca. 50	&nbsp;% zurückgeht ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 Sind Sie unsicher, was soziale Distanzierung bedeutet? [Sehen Sie sich diesen hilfreichen Leitfaden an](https://www.theatlantic.com/family/archive/2020/03/coronavirus-what-does-social-distancing-mean/607927/).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ## Schritte, die Einzelpersonen unternehmen können

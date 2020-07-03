@@ -190,7 +190,7 @@ COVID-19 が突然爆発的に広がったように見えるかもしれませ�
 
 これらの新しい流行は、他の場所へのさらなる伝搬の種になる可能性があります。
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -204,7 +204,7 @@ COVID-19 が突然爆発的に広がったように見えるかもしれませ�
 <br><br>
 現在、3月中旬（約6週間後）に、この地域で流行が本格化していることがわかります。遺伝子配列データだけから、3〜6日での倍増が推定され、指数関数的な母集団の増加が想定されます。
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -245,7 +245,7 @@ COVID-19 が突然爆発的に広がったように見えるかもしれませ�
 社会的距離、つまり毎日出会う人の数を減らすことは困難な場合がありますが、公共の利益にとって非常に有益です。  
  もし全員が毎日の接触数を25％減らすと、来月の累積症例数は50％減ると予想されます。([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf))
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

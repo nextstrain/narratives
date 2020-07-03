@@ -195,7 +195,7 @@ Het gedachte-experiment hieronder laat zien hoe dit zich afspeelde in Wuhan. Op 
 
 Deze nieuwe uitbraken kunnen op hun beurt verdere introducties op andere locaties starten.
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -210,7 +210,7 @@ Door over de stam van de hoofdclade te bewegen, blijkt dat het virus waarschijnl
 Nu, half maart (~ 6 weken later), zien we dat er in dit gebied een lokale uitbraak in volle gang is. Alleen al op basis van de sequentiegegevens schatten we een verdubbeling iedere 3-6 dagen, uitgaande van een exponentieel groeiende populatie.
 
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -252,7 +252,7 @@ Het is van cruciaal belang dat gedurende deze tijd de sociale afstand wordt geha
 Sociale afstand nemen - dat wil zeggen het verminderen van het aantal mensen dat u elke dag tegenkomt - kan een uitdaging zijn, maar is enorm voordelig voor het algemeen belang.
   Als iedereen zijn dagelijkse contacten met 25% zou verminderen, zouden we verwachten dat het cumulatieve aantal gevallen de komende maand met 50% zal afnemen ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

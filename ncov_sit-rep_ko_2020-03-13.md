@@ -236,7 +236,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 사회적 거리두기가 무엇인지 잘 모르시겠다고요? [이 가이드를 참고하세요](https://www.theatlantic.com/family/archive/2020/03/coronavirus-what-does-social-distancing-mean/607927/).
 
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ## 개인이 할 수 있는 것들

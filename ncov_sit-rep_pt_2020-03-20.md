@@ -188,7 +188,7 @@ Abaixo encontra-se um exemplo da forma como ocorreu em Wuhan. O eixo y (ordenada
 
 Estes novos surtos podem por sua vez disseminar novas introduções em outros locais.
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -202,7 +202,7 @@ Colocando o ponteiro na base do clado principal (em vermelho) você verá que o 
 <br><br>
 Neste momento, em meados de março (aproximadamente 6 semanas mais tarde), podemos ver que um surto local está em pleno curso nesta área. Apenas com dados de sequência, estimamos uma velocidade de duplicação de casos de 3-6 dias, assumindo uma população em crescimento exponencial.  
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -243,7 +243,7 @@ A manutenção do distanciamento social é crítica durante este período. Tal c
 O distanciamento social - ou seja, diminuir o número de pessoas com quem se encontra todos os dias - pode ser um desafio, mas é incrivelmente benéfico para o bem comum.  
  Se todas as pessoas diminuíssem os seus contactos diários em 25%, esperaríamos ver uma diminuição de 50% no número cumulativo de casos ao longo do próximo mês ([Klein et al., 13-03-2020](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

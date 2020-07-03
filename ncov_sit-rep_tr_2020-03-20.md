@@ -187,7 +187,7 @@ Aşağıda bu durumun Wuhan'da nasıl gerçekleştiğini gösteren bir düşünc
 
 Dolayısıyla bu salgınlar virüsün diğer bölgelere taşınmasına da yol açabilir.
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -200,7 +200,7 @@ Bunun açık bir örneğini Washington eyaletin gelen verilerde görebiliriz. İ
 <br><br>
 Şu anda, Mart ortasında (yani yaklaşık 6 hafta sonra), görüyoruz ki yerel salgın tam anlamıyla bu bölgeyi etkilemiş durumda. Sadece genom dizi verilerine dayanarak ve popülasyonun üssel büyüdüğünü varsayarak, ikiye katlanma oranının (doubling rate) 3-6 gün olduğu sonucunu çıkarabiliriz.
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -237,7 +237,7 @@ Bu süre zarfında sosyal mesafenin korunması oldukça önemlidir. Sağ tarafta
 
 Sosyal mesafelenme --yani her gün karşılaştığınız insan sayısını azaltmak-- zor olabilir, ancak toplum sağlığı için çok önemlidir. Eğer herkes günlük iletişimini %25 oranında azaltırsa, gelecek ay toplam vaka sayısında %50 oranında bir azalma gözlemleyebiliriz. ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

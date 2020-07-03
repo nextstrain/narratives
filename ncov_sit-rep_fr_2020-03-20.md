@@ -192,7 +192,7 @@ Vous trouverez ci-dessous une réflexion montrant comment cela s'est déroulé �
 
 Ces nouvelles épidémies peuvent, à leur tour, semer de nouvelles introductions dans d'autres endroits.
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -206,7 +206,7 @@ Passer la souris à racine du clade principal montre que le virus a probablement
 <br><br>
 À la mi-mars (~ 6 semaines plus tard), nous constatons qu'une épidémie locale bat son plein dans cette zone. À partir des seules données de séquence, nous estimons un taux de doublement de 3 à 6 jours, en supposant une population en croissance exponentielle.  
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -248,7 +248,7 @@ Il est essentiel que la distanciation sociale soit maintenue pendant cette péri
 La distanciation sociale - c'est-à-dire la diminution du nombre de personnes que vous rencontrez chaque jour - cela peut être difficile, mais cette mesure est extrêmement bénéfique pour le bien public.  
  Si chacun diminuait ses contacts quotidiens de 25 %, on pourrait s'attendre à une diminution de 50 % du nombre cumulé de cas au cours du mois suivant ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 ```
 

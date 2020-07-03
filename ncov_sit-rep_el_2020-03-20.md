@@ -183,7 +183,7 @@ abstract: "Aυτή η αναφορά χρησιμοποιεί δεδομένα �
 
 Αυτά τα νέα κρούσματα μπορούν με τη σειρά τους να προκαλέσουν περαιτέρω εισαγωγές του ιού σε άλλες τοποθεσίες.
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -197,7 +197,7 @@ abstract: "Aυτή η αναφορά χρησιμοποιεί δεδομένα �
 <br><br>
 Τώρα, στα μέσα Μαρτίου (~ 6 εβδομάδες αργότερα), βλέπουμε ότι μια τοπική εστία φαίνεται ξεκάθαρα στην περιοχή. Από τα δεδομένα των αλληλουχιών μόνο, υπολογίζουμε ένα ρυθμό διπλασιασμού κάθε 3-6 μέρες υποθέτοντας ότι ο πληθυσμός αυξάνεται εκθετικά. 
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -237,7 +237,7 @@ abstract: "Aυτή η αναφορά χρησιμοποιεί δεδομένα �
 
 Αν ο καθένας μείωνε τις καθημερινές επαφές κατά 25%, αναμένουμε μια μείωση της τάξης του 50% στο συνολικό αριθμό κρουσμάτων μέσα στον επόμενο μήνα ([Klein κλπ., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

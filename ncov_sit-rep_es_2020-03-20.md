@@ -188,7 +188,7 @@ Abajo pueden ver una situación teórica que explica cómo sucedió el brote en 
 
 Los brotes nuevos, a su vez, pueden ser fuentes del virus para introducciones adicionales en otros lugares del mundo.
 
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/local-spark-expansion.jpeg" width="70%">
 
 
 ```
@@ -201,7 +201,7 @@ Se puede apreciar un ejemplo claro de la propagación del virus en los datos que
 <br><br>
 Ahora, a mediados de marzo (~6 semanas después), podemos apreciar que el brote local en el estado de Washington está creciendo rápidamente. Usando solamente los datos de la secuenciación genómica, podemos apreciar que la tasa de duplicación del virus (lo rápido que los casos del virus se duplican) se encuentra entre 3 a 6 días, asumiendo una población con crecimiento exponencial.  
 <br>
-<img src="https://github.com/nextstrain/ncov/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
+<img src="https://github.com/nextstrain/narratives/raw/master/figures/wa_doubling-rate_2020-03-19.png" width="70%">
 
 
 <!-- There is no right side text -->
@@ -238,7 +238,7 @@ Es vital mantener la distancia social durante ese tiempo. Como pueden apreciar a
 Distanciación social – es decir, disminuir el número de personas con cual te encuentras cada día – puede ser difícil, pero es increíblemente beneficioso para el público.  
  Si cada persona disminuye su número de contactos diarios por un 25%, esperamos apreciar una reducción del 50% en el número de casos acumulados en el próximo mes ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ```

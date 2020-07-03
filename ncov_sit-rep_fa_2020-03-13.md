@@ -230,7 +230,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 مطمئن نیستید که فاصله اجتماعی به چه معناست؟
 [این راهنمای مفید را بررسی کنید](https://www.theatlantic.com/family/archive/2020/03/coronavirus-what-does-social-distancing-mean/607927/).
 <div>
-  <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
+  <img src="https://github.com/nextstrain/narratives/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
 
 ## گام‌هایی که افراد عادی می‌توانند بردارند
