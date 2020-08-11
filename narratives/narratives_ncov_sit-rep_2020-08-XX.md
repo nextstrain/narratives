@@ -171,3 +171,18 @@ Given the heavy sunsampling we do here, we need to remain cautious to not over i
 
 Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
 The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
+
+
+# [The Early Situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+
+South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
+
+Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence this variant also moved around the continent to Chilie, Uruguay, and Argentina. 
+
+We can also see distinct clusters of transmission involving Columbia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree. 
+
+# [The More Recent Situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
+
+Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
+
+Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the same varients circulating now are descendants of those introduced early in the epidemic. 
