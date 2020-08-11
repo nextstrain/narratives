@@ -89,7 +89,7 @@ In the next slides we're going to provide on overview of each of those regions b
 
 # [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-07-31?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
 
-If we examie the situation in Asia based off genomes collected before June 2020, we see signs of both extensive within asia transmission as well as transmissions to and from other regions of the world.
+If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within Asia transmission as well as transmissions to and from other regions of the world.
 
 #### Interpreting the lines and colors
 
@@ -144,13 +144,30 @@ UPDATE NEED MORE DATA FROM A NEWER BUILD.
 
 ...
 
-# [Situation in Europe over the past week](https://nextstrain.org/ncov/europe?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [Early Situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-Examining only samples uploaded in c. the past week highlights two important points.
+SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is dominating this sample set, likely a product of the various regulations introduced throughout Europe.
-There are some which don't follow this trend - if you hover over a contry in the legend then you'll see the tips from that highlighted which will help idenfity these - for instance, we can see some Italian samples nested within a larger Swiss clade.
-Given the heavy sunsampling we do here, we are cautious to not over interpret putative between-country transmissions from this view.
+By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
 
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a (sample collection) time window extending back to early march.
+Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including countries for which we don't have samples.
+
+# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
+
+Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
+
+However, SARS-CoV-2 was already so mixed across Europe that multiple variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown, which were related to the viruses circulating in other countries, meaning the phylogenetic picture remains well-mixed even after borders closed.
+
+We can see some signs of local transmission, though, as we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange, while Spain (dark blue) shows distinct local transmission at the bottom and tops of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
+
+# [Situation in Europe over the past week](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+
+Examining only samples uploaded in the past week highlights two important points.
+
+Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate this sample set, likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
+
+There are some samples which don't follow this trend of linking to other samples from that country: if you hover over a contry in the legend then you'll see the tips from that highlighted which will help idenfity these - for instance, we can see some Italian samples nested within a larger Swiss clade.
+Given the heavy sunsampling we do here, we need to remain cautious to not over interpret putative between-country transmissions from this view.
+
+Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
 The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
