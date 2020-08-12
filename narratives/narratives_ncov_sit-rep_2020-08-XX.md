@@ -186,3 +186,15 @@ We can also see distinct clusters of transmission involving Columbia (orange), C
 Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
 
 Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the same varients circulating now are descendants of those introduced early in the epidemic. 
+
+# [The Situation in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+
+Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants. 
+
+We now have sequences from countries across Africa and throug the epidemic, though sequencing efforts seem to have declined slightly more recently. South Africa makes up a large proportion of the sequencing done. 
+
+# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+
+In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree. For Senegal and South Africa we also have more recent samples available. These generally fall within the older diversity of the country, as we would expect from continued local transmission.
+
+Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere, which likely reflects continued restrictions in movement globally.
