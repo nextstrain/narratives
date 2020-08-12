@@ -67,7 +67,7 @@ Europe and North America have a mixture of all clades, but are dominated by 20B 
 
 # [The (well publicized) D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-07-31?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-The D614G mutation in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
+The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
 
 CASSIA: please proof / change!
 
@@ -204,19 +204,27 @@ Though we must be cautious with our conclusions as they are greatly limited by h
 # [United States epidemic is a mixture of local and intra-country transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
 
 Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies.](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+
 <br><br>
+
 In the tree, we can clearly see examples of local transmission as shown by like-colored tips clustering together over time. If you click, "Explore the Dataset", and filter the location to Yakima County, you can see the introduction and growth of genetically related viruses in this region of Washington State.
+
 <br><br>
+
 On the tree, we  also see intra-country transmission across the U.S. as shown by mixing of colors at the tree tips. On the map, transmission lines extend between states. These observations are consistent with states reopening policies and only limited domestic travel restrictions.
 
 # [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=full)
 
 There has been limited sequencing from Central America, especially over the past two months, which limits the inferences we can draw about the epidemic. From the genomes that have been shared, we see clear geographic clustering.
+
 <br><br>
+
 Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
 
-# [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree&f_country=Mexico&p=full)
+<br><br>
 
 In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
+
 <br><br>
+
 In the center, there's a cluster of cases in Baja California (in light blue). These were likely imported from California, USA (green lines) in March. Although we should be cautious about interpreting inferred transmission locations given sparse sequencing, this inferred importation is consistent with known travel links between the neighboring locations.
