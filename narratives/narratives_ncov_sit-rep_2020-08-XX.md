@@ -1,11 +1,9 @@
 ---
 title: August update of COVID-19 genomic epidemiology
 authors:
-  - Emma Hodcroft
   - James Hadfield
+  - Emma Hodcroft
   - Cassia Wagner
-  - Nicola Müller
-  - Sidney M. Bell
   - Richard Neher
   - Trevor Bedford
 authorLinks:
@@ -39,6 +37,50 @@ To date, there are over 75 thousand sequences publicly shared from half the coun
 Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help with interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation))
 "
 ---
+
+<!-- table of contents slide -->
+# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+
+### Table of contents
+* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
+* [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
+* [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=9)
+* [Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=12)
+* [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=14)
+* [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=16)
+
+#### Nextstrain Resources
+* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
+* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
+* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+
+<!-- This is the right-side text -->
+```auspiceMainDisplayMarkdown
+
+# Executive Summary
+
+- Asia has a higher poportion of 19A & 19B clades, with 20B and 20C clades dominating in Europe & North America
+
+- Globally, we can clearly see the rise to prominenence of the D614G mutation in the spike protein. This mutation is hypothesised to cause a slight increase in SARS-CoV-2 transmission
+
+- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday
+
+- In Asia, there have been numerous between-country transmissions in the region early in the pandemic, with a move to within-country links more recently in time, a trend we see in most regions.
+
+- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples we have so far, as tightly clustering cases coming from previously circulating diversity.
+
+- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+
+- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticably. Unfortutunately, despite severe ongoing epidemcis in many countries, more recent sequences are not readily available. 
+
+- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+
+- A different pictures is shown in the USA, were domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+
+```
 
 
 # [Worldwide distribution of genetic variants (clades)](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
@@ -115,8 +157,6 @@ This is also evident looking at the phylogeny, where we have large monophyletic 
 
 These data are consistent with less recent international travel and stricter control measures.
 
-**BUG!!!! The map sometimes does not not zoom appropriately here. (This is probably related to the fact that we added the tree panel and the timeouts used in the map src code.)**
-
 
 # [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
@@ -138,8 +178,7 @@ Australia, and the state of Victoria (capitol city: Melbourne), shown here in or
 
 These most recent genomes all appear to be a subclade of clade 20B (if you scroll back to the previous slide you can see how clade 20B fits into the entire phylogeny). The rececent dates and clustering are signs of a local outbreak.
 
-
-UPDATE NEED MORE DATA FROM A NEWER BUILD.
+We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
 
 
 # [Early Situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
@@ -166,7 +205,7 @@ Examining only samples uploaded in the past week highlights two important points
 
 Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
 
-There are some samples which don't follow this trend of linking to other samples from that country: if you hover over a contry in the legend then you'll see the tips from that country highlighted, which will help idenfity these. For instance, we can see some Italian samples nested within a larger Swiss clade.
+There are some samples which don't follow this trend of linking to other samples from that country: if you hover over a contry in the legend then you'll see the tips from that country highlighted, which will help idenfity these. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
 Given the heavy sunsampling we do here, we need to remain cautious to not over interpret putative between-country transmissions from this view.
 
 Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
