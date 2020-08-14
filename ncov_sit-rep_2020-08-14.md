@@ -60,6 +60,7 @@ Each circle is centered on an individual country, the colour indicates region an
 * [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
 * [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
 * [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
+* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
 #### Nextstrain Resources
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
