@@ -297,7 +297,7 @@ Toward the bottom of the tree in clade 19B, we see a cluster of transmission in 
 
 In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
 
-In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations. Although we should be cautious about interpreting inferred transmission locations given sparse sequencing, this inferred importation is consistent with known travel links between the neighboring locations.
+In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations although we should be cautious about interpreting inferred transmission locations given sparse sequencing.
 
 
 <!-- ############ SLIDE BREAK ############# -->
