@@ -178,6 +178,16 @@ The recent dates and clustering are signs of a local outbreak.
 We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
 
 
+# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
+
+New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
+The cluster has now spread to around 30 known cases, primarily based in the largest city, Auckland.
+
+The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here. 
+This lineage originated in Europe, but has since been observed in multiple regions around the world. 
+
+
+
 # [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
 SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
