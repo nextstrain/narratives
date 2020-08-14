@@ -14,7 +14,7 @@ authorLinks:
   - https://bedford.io/team/eli-harkins/
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
-affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
+affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
 translatorLinks:
 license: "CC-BY"
@@ -34,7 +34,7 @@ To date, there are over 75,000 sequences publicly shared from half the countries
 ### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
 (This also helps for the computational requirements.)
 \n\n
-### Here you can see the geographical distribution of 4311 genomes.
+### Here you can see the geographical distribution of ~4300 genomes.
 Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
 "
 ---
@@ -112,7 +112,7 @@ Europe and North America have a mixture of all clades, but are dominated by 20B 
 
 The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
 
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of [making the virus more vulnerable to neutralizing antibodies](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1).
+Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
 Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
 In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
@@ -165,7 +165,7 @@ The majority of New Zealand's samples (blues, purples, greens) come from a tight
 
 This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls.
 
-_HINT:_ if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!
+_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
 
 
 # [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
