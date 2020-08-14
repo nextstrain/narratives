@@ -223,6 +223,8 @@ However, SARS-CoV-2 was already so mixed across Europe that different variants o
 
 However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
 
+_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
+
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
