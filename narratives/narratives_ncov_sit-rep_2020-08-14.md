@@ -4,15 +4,15 @@ authors:
   - James Hadfield
   - Cassia Wagner
   - Eli Harkins
-  - Richard Neher
   - Trevor Bedford
+  - Richard Neher
   - Emma Hodcroft
 authorLinks:
   - https://bedford.io/team/james-hadfield/
   - https://bedford.io/team/cassia-wagner/
   - https://bedford.io/team/eli-harkins/
-  - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
+  - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
