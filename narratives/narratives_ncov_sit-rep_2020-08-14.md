@@ -62,11 +62,11 @@ Each circle is centered on an individual country, the colour indicates region an
 
 # Executive Summary
 
-- Asia has a higher poportion of 19A & 19B clades, with 20B and 20C clades dominating in Europe & North America
+- Asia has a higher proportion of 19A & 19B clades, with 20B & 20C clades dominating in Europe & North America.
 
 - Globally, we can clearly see the rise to prominenence of the D614G mutation in the spike protein. This mutation is hypothesised to cause a slight increase in SARS-CoV-2 transmission
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday
+- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
 
 - In Asia, there have been numerous between-country transmissions in the region early in the pandemic, with a move to within-country links more recently in time, a trend we see in most regions.
 
@@ -87,7 +87,7 @@ Each circle is centered on an individual country, the colour indicates region an
 
 
 Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
-
+\n\n
 We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
 
 * 19A and 19B emerged in Wuhan and have been dominating the early outbreak
@@ -111,13 +111,11 @@ Europe and North America have a mixture of all clades, but are dominated by 20B 
 
 The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
 
-<br><br>
-<br><br>
+\n\n
 
 Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of [making the virus more vulnerable to neutralizing antibodies](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1).
 
-<br><br>
-<br><br>
+\n\n
 
 Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world. In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant. There's no evidence that these other substitutions and reversions have resulted in continued transmission chains.
 
@@ -127,8 +125,7 @@ Here we can see that this variant was inferred to have appeared very shortly aft
 
 As there are so many genomes, we produce a regional build for each of the 6 regions shown here, as well as our main 'global' build.
 This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
-
-
+\n\n
 In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
 
 
@@ -152,9 +149,9 @@ Especially pronounced in this view are those transmissions from Europe to Asia (
 
 Looking at the genomes samples after June 1st (i.e. in the past 2 months) we see that the sampling is dominated by fewer countries.
 This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
-
+\n\n
 This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
-
+\n\n
 These data are consistent with less recent international travel and stricter control measures.
 
 
@@ -162,52 +159,50 @@ These data are consistent with less recent international travel and stricter con
 
 Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
 Only samples from Australia and New Zealand are colored.
-
+\n\n
 You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
-
+\n\n
 The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy empoloyed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
-
+\n\n
 This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls.
-
+\n\n
 _HINT:_ if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!
 
 
 # [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
 Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
-
+\n\n
 These most recent genomes all appear to be a subclade of clade 20B (if you scroll back to the previous slide you can see how clade 20B fits into the entire phylogeny). The rececent dates and clustering are signs of a local outbreak.
-
+\n\n
 We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
 
 
 # [Early Situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
 SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
-
-
+\n\n
 By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
-
-
+\n\n
 Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
 
 # [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
 Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
-
+\n\n
 However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
-
+\n\n
 However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
 
 # [Situation in Europe over the past week](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
 Examining only samples uploaded in the past week highlights two important points.
-
+\n\n
 Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
-
+\n\n
 There are some samples which don't follow this trend of linking to other samples from that country: if you hover over a country in the legend then you'll see the tips from that country highlighted, which will help identify these. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-Given the heavy sunsampling we do here, we need to remain cautious to not over interpret putative between-country transmissions from this view.
-
+Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
+\n\n
 Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
 The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
 
@@ -215,53 +210,43 @@ The reasons for sequencing "old" genomes varies, but these samples help us fill 
 # [The Early Situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
 South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
-
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence this variant also moved around the continent to Chilie, Uruguay, and Argentina.
-
-We can also see distinct clusters of transmission involving Columbia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
+\n\n
+Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+\n\n
+We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
 
 # [The More Recent Situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
 Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
-
+\n\n
 Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the same varients circulating now are descendants of those introduced early in the epidemic.
 
 # [The Situation in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
 Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
-
+\n\n
 We now have sequences from countries across Africa and through the epidemic, though sequencing efforts seem to have declined slightly more recently. South Africa makes up a large proportion of the sequencing done.
 
 # [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
 
 In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree. For Senegal and South Africa we also have more recent samples available. These generally fall within the older diversity of the country, as we would expect from continued local transmission.
-
+\n\n
 Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere, which likely reflects continued restrictions in movement globally.
 
 # [United States epidemic is a mixture of local and within-country transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
 
 Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
-
-<br><br>
-
+\n\n
 In the tree, we can clearly see examples of local transmission as shown by similarly-colored tips clustering together over time. If you click, "Explore the Dataset", and filter the location to Yakima County, you can see the introduction and growth of genetically related viruses in this region of Washington State. (You can also [click here](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) to do this, but you will leave the narrative.)
-
-<br><br>
-
+\n\n
 On the tree, we  also see within-country transmission across the U.S. as shown by mixing of colors at the tree tips. On the map, transmission lines extend between states. These observations are consistent with states' reopening policies and few domestic travel restrictions.
 
 # [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
 
-There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see clear geographic clustering.
-
-<br><br>
-
+There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
+\n\n
 Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
-
-<br><br>
-
+\n\n
 In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
-
-<br><br>
-
-In the center, there's a cluster of cases in Baja California (in light blue). These were likely imported from California, USA (green branches on the tree) in March. Although we should be cautious about interpreting inferred transmission locations given sparse sequencing, this inferred importation is consistent with known travel links between the neighboring locations.
+\n\n
+In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations. Although we should be cautious about interpreting inferred transmission locations given sparse sequencing, 
