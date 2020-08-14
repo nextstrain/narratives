@@ -29,13 +29,15 @@ The pandemic is currently widespread around the world, with over [1.5 million ne
 ### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
 \n\n
 ### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testiment to the scientists and public health officials behind this.
+To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
 \n\n
 ### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
 (This also helps for the computational requirements.)
 \n\n
 ### Here you can see the geographical distribution of ~4300 genomes.
 Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+\n\n
+### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
 "
 ---
 
