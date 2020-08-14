@@ -2,18 +2,18 @@
 title: August 2020 update of COVID-19 genomic epidemiology
 authors:
   - James Hadfield
-  - Emma Hodcroft
   - Cassia Wagner
   - Eli Harkins
   - Richard Neher
   - Trevor Bedford
+  - Emma Hodcroft
 authorLinks:
   - https://bedford.io/team/james-hadfield/
-  - https://neherlab.org/emma-hodcroft.html
   - https://bedford.io/team/cassia-wagner/
   - https://bedford.io/team/eli-harkins/
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
+  - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
 translatorLinks:
@@ -152,7 +152,7 @@ The color of each transmission line (lines between circles) represents the origi
 
 #### Transmissions into Asia
 
-This shows that the majority of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
+This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
 Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
 
 
@@ -197,7 +197,7 @@ We can see similar clustering in sequences from New South Wales, where cases hav
 # [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
 New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-The cluster has now spread to around 30 known cases, primarily based in the largest city, Auckland.
+The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
 
 The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
 This lineage originated in Europe, but has since been observed in multiple regions around the world.
