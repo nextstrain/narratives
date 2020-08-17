@@ -15,8 +15,14 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators: Elisabeth Hirth
+translators:
+  - Elisabeth Hirth
+  - Nicola Müller
+  - Richard Neher
 translatorLinks:
+  - https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
+  - https://bedford.io/team/nicola-mueller/
+  - https://neherlab.org/richard-neher.html
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
