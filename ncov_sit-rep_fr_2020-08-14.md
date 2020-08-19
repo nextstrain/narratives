@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: Analyse génomique de la propagation du COVID-19. Rapport de situation août 2020.
 authors:
   - James Hadfield
   - Cassia Wagner
