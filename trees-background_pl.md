@@ -79,7 +79,7 @@ As the pathogen replicates and spreads, its genome needs to be replicated many t
 # Przykład
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 Powyższa ilustracja pokazuje schemat drzewa transmisji. Każde kółko przedstawia jeden przypadek (zainfekowaną osobę), gdzie linie poziome wskazują czas trwania infekcji. Pionowo połączone kółka przedstawiają transmisję z jednej osoby na drugą. 
@@ -111,7 +111,7 @@ The tips of the tree represent samples (i.e., blue cases from the last slide). T
 ## Przykład
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Powyżej po lewej stronie, widzimy ilustrację drzewa filogenetycznego, na którym mutacje są oznaczone kółkami. Po prawej znajdują się sekwencje odpowiadające poszczególnym gałęziom drzewa (próbkom), również z mutacjami zaznaczonymi kółkami. Widzimy, że sekwencje, które dzielą te same mutacje grupują się razem. Gdy pokrewne przypadki zdają się być połączone pionową linią na drzewie, jak np. A i B, to oznacza, że nie ma różnic między nimi - ich sekwencje są identyczne.
@@ -249,7 +249,7 @@ Interpreting these should, however, be done with caution, as the sampling and se
 # Przykład
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 Po lewej stronie, pokazujemy hipotetyczne drzewo filogenetyczne z wszystkimi próbami, gdzie próby z dwóch lokalizacji zaznaczone są na pomarańczowo i niebiesko. Gdy podążamy w dół drzewa, widzimy trzy momenty kiedy kolor (lokalizacja) zmienia się z pomarańczowego na niebieski. Z tego możemy wnioskować, że nastąpiły trzy różne introdukcje z pomarańczowej lokalizacji do niebieskiej. 

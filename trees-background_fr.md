@@ -58,7 +58,7 @@ Les agents pathogènes se propagent par réplication rapide dans un hôte, puis 
 # Exemple
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="illustration montrant la relation entre l'arbre de transmission et l'arbre phylogénétique" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="illustration montrant la relation entre l'arbre de transmission et l'arbre phylogénétique" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 L'illustration ci-dessus montre un croquis d'un arbre de transmission. Chaque cercle représente un cas (personne infectée), avec des lignes horizontales indiquant la durée de leur infection. Les cas liés représentent les transmissions d'une personne à l'autre.
@@ -83,7 +83,7 @@ Les extrémités de l'arbre représentent des échantillons (c'est-à-dire les c
 ## Exemple
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Exemple de phylogénie où tous les cas ou seulement un sous-ensemble de cas sont inclus dans la phylogénie finale" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Exemple de phylogénie où tous les cas ou seulement un sous-ensemble de cas sont inclus dans la phylogénie finale" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Ci-dessus, nous voyons une illustration avec un arbre phylogénétique à gauche, où les mutations sont représentées par des cercles colorés. À droite, on trouve les séquences correspondantes, avec également les mutations représentées par des cercles de couleur. On peut voir que les séquences qui partagent les mêmes mutations se regroupent. Lorsque les séquences apparaissent reliées par une ligne verticale plate, comme A et B, cela signifie qu'il n'y a pas de différences entre elles - leurs séquences sont identiques.
@@ -173,7 +173,7 @@ Il convient toutefois de les interpréter avec prudence, car l'échantillonnage 
 # Exemple
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration montrant comment l'échantillonnage affecte l'interprétation de la propagation virale" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration montrant comment l'échantillonnage affecte l'interprétation de la propagation virale" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 À gauche, nous montrons un arbre phylogénétique entièrement échantillonné, avec des échantillons provenant de deux endroits différents indiqués en orange et en bleu. En descendant l'arbre, nous observons trois cas où la couleur (l'emplacement) passe de l'orange au bleu. De cela, nous concluons qu'il y a eu trois introductions différentes depuis la zone orange vers la zone bleue.

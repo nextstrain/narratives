@@ -61,7 +61,7 @@ abstract: " يفسر هذا التقرير كيفية قراءة وتحليل ا
 # مثال
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 يظهر الشكل الموضح أعلاه عرض لشجرة انتشار العدوى. حيث أن كل دائرة تمثل حالة (شخص مصاب), والخطوط الافقية تشير الى طول فترة اصاباتهم. الحالات المترابطة تشير الى انتشار العدوى من شخص الى الآخر. يظهر هنا صورة كاملة لشجرة انتشار العدوى. عمليا، مع ذلك، فقط بعض الحالات تم جمعها (بالازرق) والاخرى تقديريه؛ ولذلك شجرة الانتشار ليست أكيدة بالمطلق، وما هو متوفر فقط تقدير تقريبي عن عدد الحالات.  تسلسل الجينومات يجعلنا قادرين على تحليل اجزاء من شجرة الانتشار. في هذا المثال، هناك ثلاث طفرات ( على شكل معينات صغيرة) مشار لها على الشجرة. التسلسلات التي تمتلك نفس الطفرات تعتبر متشابهة وبالتالي فإن هذه الطفرات تتيح لنا وضع العينات في  مجموعات مختلفه، كل مجموعة تحتوي سلاسل الفيروسات الأكثر تقاربا للحد الذي يمكن اعتبارها بأنها تنتمي لنفس بؤرة الانتشار.
 </p>
@@ -83,7 +83,7 @@ abstract: " يفسر هذا التقرير كيفية قراءة وتحليل ا
 ## مثال
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 نرى في الشكل الموضح اعلاه شجرة تصنيف جيني على اليسار، حيث ان الطفرات مشار لها بدوائر ملونة. علي اليمين يوجد السلاسل الجينية المقابلة لتلك الطفرات على اليسار. هنا أيضا يشار للطفرات بدوائر ملونة ايضا. نستطيع مشاهدة ان التسلسلات التي تشترك بنفس الطفرات تتجمع معا (A و B). عندما تظهر التسلسلات مرتبطة معا بخط عمودي فهذا يعني انه لا يوجد هناك فروقات فيما بينهم-- اي سلاسلهم الجينية متطابقة.
@@ -165,7 +165,7 @@ abstract: " يفسر هذا التقرير كيفية قراءة وتحليل ا
 # مثال
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 نعرض على اليسار شجرة تصنيف جيني لمجموعة كاملة من العينات، مع عينات من موقعين مختلفين موضحة باللونين البرتقالي والازرق. كلما انتقلنا في الشجرة من اعلى لاسفل نلاحظ تغير اللون من البرتفالي للازرق في ثلاث مواقع منفصلة. نستنتج من ذلك بانه كان هناك ثلاثة حالات ادخال مختلفة للفيروس من المنطقة البرتقالية الى المنطقة الزرقاء. لكن هذا الاستنتاج يعتمد على جمع العينات: في الشجرة الوسطى قمنا بازالة عينة برتقالية واحدة. نلاحظ الان تبدل واحد فقط من البرتقالي للازرق، مقترحا بانه كان هناك حالة ادخال واحدة الى المنطقة الزرقاء وحدثت قبل الوقت المقترح في الشجرة الأولى (اقصى اليسار). في المثال الاخير، لدينا تسلسل واحد فقط من المنطقة البرتقالية ليبدو وكأن هناك ادخال واحد من المنطقة البرتقالية للمنطقة الزرقاء. لذلك، وعلى الرغم من أهمية هذه الاستنتاجات الا انه يجب توخي الحذر في تحليلها .

@@ -63,7 +63,7 @@ Bir patojen çoğalıp yayılırken, patojenin genomunun da birçok kez çoğalt
 # Bir örnek
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 Yukarıdaki görsel bir bulaşma ağacının taslağını gösteriyor. Her bir daire bir vakayı (enfekte olmuş bir bireyi), yatay çizgiler ise bireylerin enfekte olduğu süreyi temsil ediyor. Aralarında bağlantı olan vakalar bir bireyden bir diğerine enfeksiyonun bulaşmasını temsil ediyor.
@@ -88,7 +88,7 @@ Ağacın uç noktaları örnekleri temsil eder (örneğin bir önceki sayfadaki 
 ## Bir örnek
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Sol üst tarafta mutasyonların renkli daireler tarafından gösterildiği bir filogenetik ağacı görüyoruz. Sağda ise, bunlara karşılık gelen ve yine mutasyonların renkli daireler ile gösterildiği genomik dizileri görüyoruz. Burada aynı mutasyonlara sahip dizilerin beraber gruplandığını görebiliriz. Eğer diziler bir dikey düz çizgi ile birbirine bağlı gözüküyorsa -A ve B örneğindeki gibi- bu, bu diziler arasında bir fark olmadığı anlamına geliyor - yani bu genomik diziler tamamen aynı.
@@ -165,7 +165,7 @@ Ancak, bu çıkarımları yaparken dikkatli olmak gerekir çünkü eksik örnekl
 # Bir örnek
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 Sol tarafta, turuncu ve mavi ile gösterilmiş iki farklı bölgeden alınan örneklerle eksiksiz bir şekilde örneklenmiş bir filogetik ağaç görüyoruz. Ağaçta aşağı doğru ilerledikçe üç örneğin renginin (bölgesinin) turuncudan maviye değiştiğini görüyoruz. Buradan turuncu bölgeden mavi bölgeye üç farklı virüs girişi olduğu sonucunu çıkartabiliriz.

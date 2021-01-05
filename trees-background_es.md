@@ -62,7 +62,7 @@ A medida que el patógeno se replica y se propaga, su genoma necesita ser replic
 # Un ejemplo
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="Ilustración que muestra cómo se relacionan el árbol de transmisión y el árbol filogenético" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="Ilustración que muestra cómo se relacionan el árbol de transmisión y el árbol filogenético" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 La ilustración anterior muestra el boceto de un árbol de transmisión. Cada círculo representa un caso (persona infectada) y las líneas horizontales indican la duración de su infección. Los casos que aparecen conectados representan transmisiones de una persona a otra.
@@ -87,7 +87,7 @@ Las puntas de las ramas del árbol representan las muestras y también se denomi
 ## Un ejemplo
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Ejemplo de filogenia donde todos o solo un subconjunto de casos están incluidos en la filogenia final" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Ejemplo de filogenia donde todos o solo un subconjunto de casos están incluidos en la filogenia final" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Arriba a la izquierda, vemos una ilustración con un árbol filogenético donde las mutaciones se muestran como círculos de colores. A la derecha están las secuencias correspondientes, también con mutaciones que se muestran como círculos de colores. Podemos ver que las secuencias que comparten las mismas mutaciones se agrupan. Cuando las secuencias aparecen unidas por una línea vertical plana, como A y B, esto significa que no hay diferencias entre ellas, sus secuencias son idénticas.
@@ -177,7 +177,7 @@ Sin embargo, la interpretación de estos debe hacerse con precaución, ya que el
 # Un ejemplo
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Ilustración que muestra cómo el muestreo afecta la interpretación de la propagación viral" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Ilustración que muestra cómo el muestreo afecta la interpretación de la propagación viral" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 A la izquierda, mostramos un árbol filogenético completamente muestreado, con muestras de dos ubicaciones diferentes coloreadas en naranja y azul. Mientras avanzamos por el árbol, observamos tres casos en los que el color (ubicación) cambia de naranja a azul. A partir de esto, concluiríamos que hubo tres introducciones diferentes desde la ubicación naranja a la ubicación azul.

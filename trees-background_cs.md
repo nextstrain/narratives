@@ -54,7 +54,7 @@ Během replikace a šíření patogenu se jeho genom musí mnohokrát replikovat
 # Příklad
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 Na výše uvedeném obrázku je uveden nákres přenosového stromu. Jednotlivé kroužky představují případ (nakaženou osobu) a vodorovné čáry ukazují dobu trvání infekce. Propojené případy představují situace, kdy došlo k přenosu z jedné osoby na další.
@@ -79,7 +79,7 @@ Jednotlivé koncové větve neboli špičky stromu představují vzorky (tj. mod
 ## Příklad
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Nahoře vidíme obrázek s fylogenetickým stromem na levé straně, kde jsou mutace zobrazeny jako barevná kolečka. Vpravo jsou odpovídající sekvence, s mutacemi rovněž zobrazenými jako barevná kolečka. Vidíme, že sekvence, které sdílejí stejné mutace, se shlukují. Když sekvence vypadají jakoby spojené svislou přímkou, jako A a B, znamená to, že mezi nimi nejsou žádné rozdíly – jejich sekvence jsou identické.
@@ -169,7 +169,7 @@ Interpretace těchto výsledků by však měla být prováděna obezřetně, pro
 # Příklad
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 Vlevo znázorňujeme fylogenetický strom obsahující všechny vzorky ze dvou různých míst označených oranžovou a modrou barvou. Když stromem procházíme směrem dolů, pozorujeme tři případy, kdy se barva (místo) změní z oranžové na modrou. Z toho bychom mohli dospět k závěru, že existují tři různé případy zanesení z oranžového místa do modrého místa.

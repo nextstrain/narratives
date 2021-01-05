@@ -60,7 +60,7 @@ Dies ist für RNA Viren nicht ungewöhnlich, aber es erlaubt uns die Verbreitung
 # Ein Beispiel
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 Diese Abbildung zeigt eine Skizze eines Übertragungs-Baumes. Jeder Kreis repräsentiert einen Fall (infizierte Person), wobei die horizontalen Linien die Dauer der Infektion darstellen.
@@ -86,7 +86,7 @@ Die "Blätter" des Baumes repräsentieren Proben (d.h. blaue Fälle in der vorhe
 ## Ein Beispiel
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Oben sehen wir eine Abbildung mit dem phylogenetischen Baum auf der linken Seite, wobei die Mutationen als farbige Kreise dargestellt sind. Auf der rechten Seite sind die dazugehörigen Sequenzen zu sehen, in denen die Mutationen ebenfalls als farbige Kreise dargestellt sind. Wir können sehen, dass die Sequenzen, die die gleichen Mutationen gemeinsam haben, zusammen gruppiert sind. Wenn Sequenzen durch eine vertikale Linie verbunden sind, zum Beispiel A und B, bedeutet das, dass es zwischen ihnen keine Unterschiede gibt, heisst, sie sind identisch.
@@ -175,7 +175,7 @@ Die Interpretation dieser Daten sollte jedoch mit Vorsicht erfolgen, da die Prob
 # Ein Beispiel
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 Auf der linken Seite zeigen wir einen komplett beprobten Baum, in dem Proben von zwei verschiedenen Orten in orange und blau dargestellt sind. Wenn wir uns innerhalb des Baumes von oben nach unten bewegen, sehen wir drei Stellen (Orte), an denen die Farbe von orange zu blau wechselt. Wir koennen schlussfolgern, dass es drei separate Einfuehrungen von dem orangenen Ort zu dem blauen Ort gab.

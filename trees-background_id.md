@@ -60,7 +60,7 @@ Ketika patogen bereplikasi dan menyebar, genomnya perlu direplikasi berkali-kali
 # Contoh
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="ilustrasi yang menunjukkan kaitan antara pohon penularan dan pohon filogenetik showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="ilustrasi yang menunjukkan kaitan antara pohon penularan dan pohon filogenetik showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 Ilustrasi di atas menunjukkan sketsa sebuah pohon penularan. Setiap lingkaran mewakili sebuah kasus (orang yang terinfeksi), dan garis-garis horizontal menunjukkan durasi infeksi mereka. Kasus-kasus yang terhubung menunjukkan penularan ("transmission") dari satu orang ke orang berikutnya.
@@ -85,7 +85,7 @@ Ujung pohon mewakili sampel (yaitu kasus biru dari gambar sebelumnya). Simpul in
 ## Contoh
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Contoh pohon filogenetik di mana semua atau hanya sebagian dari kasus dimasukkan dalam pohon filogenetik akhir" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Contoh pohon filogenetik di mana semua atau hanya sebagian dari kasus dimasukkan dalam pohon filogenetik akhir" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Di atas, kita melihat ilustrasi pohon filogenetik di sebelah kiri dengan mutasi yang ditampilkan sebagai lingkaran berwarna. Di sebelah kanan adalah sekuens dari masing-masing sampel, juga dengan mutasi yang ditampilkan sebagai lingkaran berwarna. Kita dapat melihat bahwa sekuens yang memiliki mutasi yang sama akan terkelompok dalam klaster yang sama. Sekuens yang dihubungkan oleh garis vertikal lurus, seperti A dan B, merupakan sekuens yang tidak memiliki perbedaan - kedua sekuens ini identik atau sama persis.
@@ -175,7 +175,7 @@ Namun demikian, menafsirkan ini harus dilakukan dengan hati-hati, karena ada ata
 # Contoh
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Ilustrasi menunjukkan bagaimana pengambilan sampel memengaruhi penafsiran penyebaran virus" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Ilustrasi menunjukkan bagaimana pengambilan sampel memengaruhi penafsiran penyebaran virus" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 Di sebelah kiri, kami menunjukkan pohon filogenetik yang pengambilan sampelnya lengkap ("fully sampled tree"), dengan sampel dari dua lokasi yang berbeda dilambangkan dengan warna jingga dan biru. Jika kita merunut pohon ini dari atas ke bawah, kita mengamati tiga contoh peralihan warna (lokasi) dari jingga ke biru. Dari sini, kita dapat menyimpulkan bahwa ada tiga introduksi ("introduction") yang berbeda dari lokasi jingga ke lokasi biru.

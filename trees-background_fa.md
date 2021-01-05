@@ -60,7 +60,7 @@ abstract: "این روایت چگونگی خواندن و تفسیر درخت‌
 # یک مثال
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 تصویر بالا نمایی از یک درخت انتقال را نشان می‌دهد. هر دایره نمایان‌گر یک مورد (فرد مریض) و خطوط افقی طول مدت عفونت را نشان می‌دهند. موارد متصل انقال از یک فرد به نفر بعدی را نشان می‌دهد.
@@ -85,7 +85,7 @@ abstract: "این روایت چگونگی خواندن و تفسیر درخت‌
 ## یک مثال
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 در بالا ما تصویری از یک درخت فیلوژنیک را در چپ می‌بینیم که در آن جهش ها با دایره‌ی رنگی مشخض شده‌اند. در سمت راست رشته‌های متناظر و جهش‌ها بصورت دایره‌ی رنگی نشان داده شده‌اند. رشته‌هایی که دارای جهش‌های یکسان با یکدیگر هستند در یک دسته قرار گرفته‌اند. خط عمودی و صاف بین دو رشته مانند A و B به این معناست که تفاوتی میان آن دو رشته نیست و همسان هستند.
@@ -162,7 +162,7 @@ abstract: "این روایت چگونگی خواندن و تفسیر درخت‌
 # یک مثال
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 در سمت چپ یک درخت فیلیوژنتیک با نمونه‌گیری کامل از دو مکان مختلف که با رنگ‌های آبی و نارنجی مشخص شده‌اند می‌بینید. با حرکت از بالا به پایین درخت در سه مورد مورد (مکان) تغییر رنگ از نارنجی به قرمز مشاهده می‌کنیم. از این می‌توانیم نتیجه بگیریم که در سه مورد معرفی ویروس از مکان نارنجی به مکان آبی اتفاق افتاده‌است.

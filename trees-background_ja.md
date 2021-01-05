@@ -58,7 +58,7 @@ abstract: "ここでは、遺伝疫学における系統樹を理解するため
 # 伝搬経路の例
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="伝搬経路と系統樹との関係性の図" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="伝搬経路と系統樹との関係性の図" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 上の図は、伝搬経路の模式図です。 各円はケース（感染者）を表し、水平線は感染期間を示します。接続されたケース(
@@ -83,7 +83,7 @@ abstract: "ここでは、遺伝疫学における系統樹を理解するため
 ## 系統樹の例
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="ケースのすべてまたは一部のみが最終系統に含まれる系統発生の例" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="ケースのすべてまたは一部のみが最終系統に含まれる系統発生の例" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 上の図では、左側に系統樹があり、突然変異が色付きの円で示されています。右側には対応する遺伝子配列があり、突然変異も色付きの円で示されています。同じ変異を共有する遺伝子配列がグループ化されていることがわかります。遺伝子配列が A や B のように平らな垂直線でリンクされている場合、これはそれらの間に違いがないことを意味します。つまり遺伝子配列は同一です。
@@ -165,7 +165,7 @@ x 軸としてサンプル取得日を使用することによって、どれだ
 # 例
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="採取のされ方がウイルスの広がりの解釈に与える影響を示す図" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="採取のされ方がウイルスの広がりの解釈に与える影響を示す図" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 左側にサンプルの取得が完全に行われた系統樹を示しています。オレンジ色と青色で示すようように、2つの異なる場所からのサンプルがあります。

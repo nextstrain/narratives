@@ -54,7 +54,7 @@ Kadri virusi vinavyojirudufisha na kusambaa, jeni yake inahitaji kuzalishwa mara
 # Kwa mfano
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 Mchoro ulio hapa juu unaonyesha mfano wa mchoro wa kimatawi wa maambukizi. Kila duara linawakilisha kisa kimoja (mtu aliyeambukizwa), nayo mistari mlalo inaonyesha kipindi cha maambukizi. Visa vinavyohusiana vinawakilisha maambukizi kutoka kwa mtu mmoja hadi mwingine.
@@ -79,7 +79,7 @@ Ncha za mchoro zinawakilisha sampuli (yaani, visa vya samawati kwenye slaidi ili
 ## Kwa mfano
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Hapa juu, tunaona mchoro pamoja na mchoro wa kimatawi wa kifilojenetiki upande wa kushoto, ambapo mabadiliko ya DNA yanaonyeshwa kwa kutumia duara nyekundu. Upande wa kulia kuna mifuatano husika, pia mabadiliko ya DNA yanaonyeshwa kwa kutumia maduara yenye rangi. Tunaweza kuona kuwa mifuatano yenye mabadiliko sawa ya DNA inawekwa katika kikundi kimoja.Wakati mifuatano imeunganishwa na mstari wima, kama vile A na B, hii inamaanisha kuwa haina tofauti – mifuatano yao inafanana.
@@ -169,7 +169,7 @@ Hata hivyo, unapaswa kufasiri data hii kwa uangalifu, kwani kuwepo au kutokuwepo
 # Kwa mfano
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 Kushoto, tunaonyesha mchoro wa kimatawi wa kifilojenetiki ambao sampuli zote zimepimwa, kwa kutumia sampuli kutoka maeneo mawili tofauti yanayowakilishwa kwa rangi ya machungwa na samawati. Tukisonga chini, tunaona hali tatu ambapo rangi (inayowakilisha mahali) inabadilika kutoka rangi ya machungwa hadi samawati. Kutokana na hili, tunaweza kusema kuwa virusi vimesambazwa katika mara tatu kutoka eneo la rangi ya machungwa hadi eneo la samawati.

@@ -54,7 +54,7 @@ Habang ang pathogen ay kinokopya at kumakalat, ang genome nito ay kailangang par
 # Isang halimbawa
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 Ang ilustrasyon sa itaas ay nagpapakita ng sketch ng puno ng transmisyon. Bawat bilog ay kumakatawan sa isang kaso (taong nahawa), na may pahalang na mga linya na nagpapahiwatig ng tagal ng kanilang pagkakahawa. Ang magkakakonektang kaso ay kumakatawan sa mga transmisyon mula sa isang tao patungo sa susunod.
@@ -79,7 +79,7 @@ Ang mga dulo ng puno ay kumakatawan sa mga sample (lalo na ang, asul na mga kaso
 ## Isang halimbawa
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Sa itaas, makikita natin ang isang ilustrasyon gamit ang phylogenetic tree sa kaliwa, kung saan ang mga mutation ay ipinakikita bilang may kulay na mga bilog. Sa kanan ay may katumbas na mga pagkakasunod-sunod, kasama ng mga mutation na ipinakikita bilang mga may kulay na bilog. Makikita natin ang mga pagkakasunod-sunod na magkakasama sa parehong mga grupo ng mutation. Kapag ang mga pagkakasunod-sunod ay lumitaw na pinag-uugnay ng pantay na patayong linya, tulad ng A at B, nangangahulugan ito na walang pagkakaiba sa pagitan ng mga iyon – ang kanilang pagkakasunod-sunod ay magkakapareho.
@@ -169,7 +169,7 @@ Gayunpaman, ang paglalarawan ng mga ay dapat isagawa nang may pag-iingat, dahil 
 # Isang halimbawa
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 Sa kaliwa, ipinakikita namin ang ganap na sinampol na phylogenetic tree, kasama ang mga sample mula sa dalawang magkaibang lokasyon na tinutukoy ng kahel at asul. Habang binabaybay natin pababa ng puno, makikita natin ang tatlong halimbawa kung saan ang kulay (lokasyon) ay nag-iba mula sa kahel patungo sa asul. Mula rito, pinagtibay namin na may tatlong magkakaibang introdusyon mula sa kahel na lokasyon patungo sa asul na lokasyon.

@@ -58,7 +58,7 @@ abstract: "Этот документ объясняет, как читать и 
 # Пример
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 Рисунок сверху показывает схему трансмиссионного дерева (дерева передач). Каждый круг представляет собой случай (инфицированный человек), а длина горизонтальных линий соответствует длительности инфекций. Связанные между собой случаи представляют собой передачу от одного человека к следующему.
@@ -85,7 +85,7 @@ abstract: "Этот документ объясняет, как читать и 
 ## Пример
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Выше вы видите иллюстрацию филогенетического дерева (слева), где мутации показаны цветными кругами. С правой стороны - соответствующие последовательности, в которых мутации так же отмечены цветными кругами. Мы видим, что последовательности с одинаковыми мутациями группируются вместе. Когда последовательности соединены прямой вертикальной линией, как А и В, это означает, что между ними нет никакой разницы - их последовательности идентичны.   
@@ -171,7 +171,7 @@ abstract: "Этот документ объясняет, как читать и 
 # Пример
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 Слева мы показываем дерево с полным набором образцов, в котором образцы из двух разных местностей обозначены оранжевым и синим цветами. По мере продвижения вниз по дереву мы наблюдаем 3 случая когда цвет (географическое местоположение) изменяется с оранжевого на синий. Из этого мы сделаем вывод, что произошло 3 независимых заноса из оранжевой местности в голубую местность.

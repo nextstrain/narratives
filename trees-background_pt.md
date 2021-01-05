@@ -60,7 +60,7 @@ Patógenos se espalham através da replicação rápida em um hospedeiro, seguid
 # Exemplo
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 A ilustração acima mostra um esboço de uma árvore de transmissão. Cada círculo representa um caso (pessoa infectada), com linhas horizontais indicando a duração da infecção. Casos conectados representam transmissões de uma pessoa para outra.
@@ -85,7 +85,7 @@ Os pontos na árvore representam amostras (isto é, os pontos azuis da página a
 ## Exemplo
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Acima, vemos uma ilustração de uma árvore filogenética (à esquerda), onde mutações são mostradas como círculos coloridos. À direita estão as sequências correspondentes, também com mutações mostradas como círculos coloridos. Podemos ver que sequências que compartilham as mesmas mutações se agrupam juntas. Quando sequências aparecem ligadas por uma linha vertical, como A e B, isso significa que não há diferenças entre eles: são sequências são idênticas.
@@ -163,7 +163,7 @@ No entanto, devemos ter cautela ao interpretar estas inferências, pois a amostr
 # Examplo
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 À esquerda, mostramos uma árvore filogenética completamente amostrada, com genomas de dois locais diferentes, marcados nas cores laranja e azul. Ao andarmos pela árvore, observamos três pontos em que a cor (local) muda de laranja para azul. A partir disso, concluímos que houve três introduções diferentes, desde o local laranja até o local azul.

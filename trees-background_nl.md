@@ -58,7 +58,7 @@ Terwijl de ziekteverwekker zich vermenigvuldigt en verspreidt, moet zijn genoom 
 # Een voorbeeld
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="Afbeelding die laat zien hoe een besmettingsboom en een transmissieboom relateren" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="Afbeelding die laat zien hoe een besmettingsboom en een transmissieboom relateren" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 De afbeelding hierboven toont een schets van een transmissie netwerk. Elke cirkel verbeeldt een geïnfecteerde persoon (een geval), waarbij de horizontale lijn naar rechts de duur van hun infectie aangeeft. Verbonden gevallen tonen overdracht van de ene persoon naar de andere.
@@ -85,7 +85,7 @@ De uiteinden van de boom vertegenwoordigen monsters (d.w.z. de blauwe cirkels va
 ## Een voorbeeld
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Voorbeeld fylogenie waar alle, of enkel een deel van de gevallen zijn opgenomen in de uiteindelijke fylogenie" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Voorbeeld fylogenie waar alle, of enkel een deel van de gevallen zijn opgenomen in de uiteindelijke fylogenie" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Hierboven zien we een illustratie met links een fylogenetische boom, waar mutaties worden weergegeven als gekleurde cirkels. Rechts staan de bijbehorende sequenties gealigneerd, ook met mutaties weergegeven als gekleurde cirkels. We kunnen zien dat sequenties die dezelfde mutaties delen samen groeperen. Wanneer sequenties verschijnen die met elkaar verbonden zijn door een vlakke verticale lijn, zoals A en B, betekent dit dat er geen verschillen tussen beide zijn - hun sequenties zijn identiek.
@@ -179,7 +179,7 @@ De interpretatie hiervan moet echter met de nodige voorzichtigheid gebeuren, aan
 # Een voorbeeld
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Afbeelding die laat zien hoe bemonstering de interpretatie van virale verspreiding kan beïnvloeden" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Afbeelding die laat zien hoe bemonstering de interpretatie van virale verspreiding kan beïnvloeden" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 Links tonen we een volledig bemonsterde fylogenetische boom, met monsters van twee verschillende locaties aangegeven met oranje en blauw. Als we langs de boom omlaag bewegen, zien we drie gevallen waarin de kleur (locatie) verandert van oranje naar blauw. Hieruit zouden we kunnen concluderen dat er drie verschillende introducties waren van de oranje locatie naar de blauwe locatie.

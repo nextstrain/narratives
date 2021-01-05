@@ -54,7 +54,7 @@ abstract: ’’اس تذکرے میں یہ وضاحت کی گئی ہے کہ ج�
 # ایک مثال
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 اوپر کی تصویر ترسیل کے شجرہ کا ایک خاکہ دکھاتی ہے۔ ہر دائرہ ایک کیس (متاثرہ فرد) کی نمائندگی کرتا ہے، جبکہ افقی لکیریں ان کے انفیکشن کے دورانیے کو ظاہر کرتی ہیں۔ اس سے جڑے ہوئے کیسز ایک فرد سے دوسرے میں ترسیل کو دکھاتے ہیں۔
@@ -79,7 +79,7 @@ abstract: ’’اس تذکرے میں یہ وضاحت کی گئی ہے کہ ج�
 ## ایک مثال
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 اوپر، ہمیں ایک خاکہ نظر آ رہا ہے جس کے بائیں حصے پر ایک نسلی ارتقائی شجرہ ہے، جہاں تغیرات کو رنگدار دائروں سے دکھایا گیا ہے۔ دائیں جانب مشابہ سلسلے ہیں، یہاں بھی تغیرات کو رنگدار دائروں سے دکھایا گیا ہے۔ ہم اُن سلسلوں کو دیکھ سکتے ہیں جو تغیرات کے ایک جیسے گروپ کا باہمی اشتراک کرتے ہیں۔ جب سلسلے ایک سپاٹ عمودی لکیر کے ذریعہ مربوط ہوتے ہوئے نظر آتے ہیں، جیسے کہ A اور B، تو اس کا مطلب ہوتا ہے کہ ان کے درمیان کوئی فرق یا اختلاف نہیں ہے - ان کے سلسلے مشابہ ہیں۔
@@ -169,7 +169,7 @@ A اور B میں منفرد تغیرات ہیں (سبز دائرہ) جو دیگ
 # ایک مثال
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 بائیں جانب، ہم ایک مکمل نمونہ جاتی نسلی ارتقائی شجرہ دکھا رہے ہیں، جس میں دو مختلف مقامات سے نمونے لیے گئے ہیں جنہیں نارنجی اور نیلے رنگوں سے دکھایا گیا ہے۔ جوں جوں ہم شجرہ میں نیچے کی طرف جاتے ہیں، تو ہم تین ایسے مقامات پاتے ہیں جہاں رنگ (مقام) نارنجی سے بدل کر نیلا ہوجاتا ہے۔ اس سے، ہم یہ نتیجہ اخذ کریں گے کہ نارنجی مقام سے نیلے مقام کی جانب تین مختلف آغاز تھے۔

@@ -70,7 +70,7 @@ abstract: "这份报告将会介绍在流行病基因组学中，如何阅读和
 # 范例
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 这是一个传播树的简图。图上的每个圆点代表一个病例，横线的长度表明了他们感染的时长；用线连起来的病例表明了病原体在人际之间的传播。
@@ -95,7 +95,7 @@ abstract: "这份报告将会介绍在流行病基因组学中，如何阅读和
 ## 范例
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 在上图中，左边是一个系统发生树，不同颜色的圆点代表突变；右边是对应的基因组序列，也是由不同颜色的圆点代表突变。我们可以看到有相同突变的序列被聚在一起。如果两条序列被一条垂直的、没有转弯的线连接起来，比如A和B，就表示它们之间没有区别，两条序列是完全相同的。
@@ -222,7 +222,7 @@ Interpreting these should, however, be done with caution, as the sampling and se
 # 范例
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 左边是一个采样完全的系统发生树，它的样本来自两个不同的地方，分别用橙色和蓝色表示。当我们沿着树往下看时，可以观察到从橙色到蓝色的颜色（地点）转换发生了三次。由此我们可以得出结论，发生了三次从橙色地点到蓝色地点的输入事件。

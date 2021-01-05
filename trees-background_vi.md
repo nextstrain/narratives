@@ -54,7 +54,7 @@ Khi mầm bệnh nhân lên và lan rộng, bộ gen của mầm bệnh cần đ
 # Ví dụ
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/infection_tree_combined.png"/>
 </p>
 <p>
 Hình minh họa trên thể hiện bản vẽ phác của một sơ đồ cây lây truyền. Mỗi vòng tròn đại diện cho một ca nhiễm bệnh (người nhiễm bệnh), trong đó các đường ngang thể hiện thời gian lây nhiễm của họ. Các ca nhiễm bệnh có kết nối với nhau biểu thị các ca lây truyền từ người này sang người khác.
@@ -79,7 +79,7 @@ Ngọn cây đại diện cho các mẫu vi-rút (từ các ca nhiễm bệnh m�
 ## Ví dụ
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/toy_alignment_tree.png"/>
 </p>
 <p>
 Ở trên, chúng ta thấy hình minh họa cây phát sinh chủng loại ở bên trái, trong đó các đột biến được hiển thị dưới dạng các vòng tròn có màu. Bên phải là các chuỗi trình tự tương ứng, cùng với các đột biến được thể hiện dưới dạng các vòng tròn có màu. Chúng ta có thể thấy rằng các chuỗi trình tự có cùng một nhóm đột biến. Khi các chuỗi trình tự được liên kết với nhau bằng một đường thẳng đứng, chẳng hạn như A và B, điều này có nghĩa là không có sự khác biệt nào giữa các trình tự này – chuỗi trình tự của các chủng này là giống hệt nhau.
@@ -169,7 +169,7 @@ Tuy nhiên, việc diễn giải những điều này phải được thực hi�
 # Ví dụ
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://raw.githubusercontent.com/nextstrain/narratives/master/figures/introductions.png"/>
 </p>
 <p>
 Ở bên trái, chúng tôi thể hiện một cây phát sinh chủng loại được lấy mẫu đầy đủ, trong đó các mẫu từ hai vị trí khác nhau được biểu thị bằng màu cam và màu xanh lam. Khi nhìn xuống dọc thân cây, chúng tôi quan sát được ba trường hợp trong đó màu sắc (vị trí) chuyển từ màu cam sang màu xanh lam. Từ đó, chúng tôi có thể kết luận rằng có ba sự kiện khởi phát khác nhau từ vị trí màu cam đến vị trí màu xanh lam.
