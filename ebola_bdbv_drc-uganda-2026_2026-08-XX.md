@@ -62,7 +62,7 @@ The y-axis is meaningless and used only to make the display readable.
 # [Mutations define each cluster](https://nextstrain.org/ebola/bdbv?c=gt-nuc_10319&d=tree&f_outbreak=Bdbv-2026&focus=selected&p=full) 
 Genomes are clustered and connected by 'branches' in the tree which are defined by shared mutations.
 Here we have colored the tree by the nucleotide at position 10319.
-You can hover on a branch to see the which mutations likely occurred on each branch. 
+You can hover on a branch to see which mutations likely occurred on each branch. 
 Mutations on a branch are found in all downstream samples.
 
 # [The current outbreak stems from a novel spill-over event](https://nextstrain.org/ebola/bdbv?c=outbreak&d=tree&focus=selected&p=full)
@@ -102,7 +102,7 @@ Please see [virological.org](https://virological.org/c/ebolavirus/bundibugyo-ebo
 
 The rate at which mutations accumulate allows us to place the tree in time and estimate dates for key events such as when the outbreak began. 
 The common ancestor of all sampled cases provides an estimate of when the outbreak started.
-This analysis suggests transmission began several weeks before the first cases where detected.
+This analysis suggests transmission began several weeks before the first cases were detected.
 
 Again we direct interested readers to [virological.org](https://virological.org/c/ebolavirus/bundibugyo-ebolavirus/57) for more detailed analyses and discussions of the evolutionary rate and its consequences. 
 
@@ -121,7 +121,7 @@ It is possible to zoom into these regions to explore the consequences of mutatio
 The majority of genomes have come from Bunia (52) and Rwampara (45). While only 9 samples from Mongbalu have been sequenced, the genomic data confirm these locations as the epicenter of the outbreak.
  -->
 
-# [Mongbalu, Rwampara, and Bunia form the epicenter of the outbreak](https://nextstrain.org/ebola/bdbv-drc-uganda-2026?d=tree&f_location=Bunia,Rwampara,Mongbalu&p=full)
+# [Mongbalu, Rwampara, and Bunia form the epicenter of the outbreak.](https://nextstrain.org/ebola/bdbv-drc-uganda-2026?d=tree&f_location=Bunia,Rwampara,Mongbalu&p=full)
 
 <!-- Bunia 102 Rwampara  80 Monbualu 8-->
 
@@ -130,7 +130,7 @@ The genomic diversity present in these health zones span that of the entire outb
 Samples from other health zones nest within this diversity and suggest transmission chains in these regions ultimately stem from importation from either Bunia, Rwampara, or Mongbalu.
 As more sequence data becomes available it will be possible to reconstruct the import/export dynamics of transmission chains in more detail. 
 
-# [Cases are highest in these health zones](https://nextstrain.org/staging/ebola/bdbv-drc-uganda-2026-cases)
+# [Cases are highest in these health zones.](https://nextstrain.org/staging/ebola/bdbv-drc-uganda-2026-cases)
 
 **This map is drawn from case count reporting via [INRB-UMIE/Ebola_DRC_2026](https://github.com/INRB-UMIE/Ebola_DRC_2026)**
 
@@ -147,7 +147,7 @@ However, the clustering of several sequences from Nizi is consistent with local 
 
 # [Limited local transmission in Uganda](https://nextstrain.org/ebola/bdbv-drc-uganda-2026?c=country&d=tree&f_country=Uganda&p=full)
 
-Although the majority of the the outbreak has occurred in the DRC, there have been 20 confirmed cases in Uganda. 
+Although the majority of the outbreak has occurred in the DRC, there have been 20 confirmed cases in Uganda. 
 Each has been linked to travel from the DRC or contact with a known case. 
 The genomics of 16 Ugandan samples are consistent with multiple imports from DRC followed by limited local transmission.
 After 42 days without a new locally transmitted case, the Ministry of Health of Uganda declared, July 28, the end of the outbreak in the country.
