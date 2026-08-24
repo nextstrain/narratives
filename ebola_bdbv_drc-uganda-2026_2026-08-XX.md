@@ -2,7 +2,7 @@
 title: A phylogenetic summary of the ongoing BDBV outbreak
 authors: Nextstrain, INRB
 date: 2027-08-XX
-dataset: https://nextstrain.org/staging/ebola/bdbv-drc-uganda-2026@2026-08-19-cases
+dataset: https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19
 abstract: >-
   On 5 May, 2026 the WHO was notified of a disease of unknown origin with high mortality in the Mongbalu health zone in Ituri DRC.
   RT-PCR and rapid sequencing carried out by INRB confirmed Bundibugyo virus as the causative agent. 
