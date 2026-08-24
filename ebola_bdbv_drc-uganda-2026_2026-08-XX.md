@@ -45,7 +45,7 @@ We can use phylogenetic models to decode this information from sequenced cases a
 ```
 
 
-# [286 cases have been sequenced to date](https://nextstrain.org/ebola/bdbv@2026-08-19?c=country&d=tree,map&f_outbreak=Bdbv-2026&focus=selected&l=scatter&p=grid)
+# [642 cases have been sequenced to date](https://nextstrain.org/ebola/bdbv@2026-08-19?c=country&d=tree,map&f_outbreak=Bdbv-2026&focus=selected&l=scatter&p=grid)
 
 Currently, BDBV genomes have been generated from 642 cases (625 DRC, 16 Uganda and 1 Germany).
 Each circle represents a sequenced sample plotted here by country (y-axis) and date of sampling (x-axis)
@@ -129,7 +129,7 @@ The genomic diversity present in these health zones span that of the entire outb
 Samples from other health zones nest within this diversity and suggest transmission chains in these regions ultimately stem from importation from either Bunia, Rwampara, or Mongbalu.
 As more sequence data becomes available it will be possible to reconstruct the import/export dynamics of transmission chains in more detail. 
 
-# [Cases are highest in these health zones.](https://nextstrain.org/staging/ebola/bdbv-drc-uganda-2026-cases@2026-08-19)
+# [Cases are highest in these health zones.](https://nextstrain.org/staging/ebola/bdbv-drc-uganda-2026-cases)
 
 **This map is drawn from case count reporting via [INRB-UMIE/Ebola_DRC_2026](https://github.com/INRB-UMIE/Ebola_DRC_2026)**
 
