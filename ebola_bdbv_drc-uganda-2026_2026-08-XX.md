@@ -1,6 +1,6 @@
 ---
 title: A phylogenetic summary of the ongoing BDBV outbreak
-authors: Nextstrain, INRB
+authors: INRB and NextStrain teams
 date: 2026-08-19
 dataset: https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19
 abstract: >-
