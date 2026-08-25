@@ -1,11 +1,11 @@
 ---
 title: A phylogenetic summary of the ongoing BDBV outbreak
 authors: Nextstrain, INRB
-date: 2027-08-XX
+date: 2026-08-19
 dataset: https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19
 abstract: >-
   On 5 May, 2026 the WHO was notified of a disease of unknown origin with high mortality in the Mongbalu health zone in Ituri DRC.
-  RT-PCR and rapid sequencing carried out by INRB confirmed Bundibugyo virus as the causative agent. 
+  RT-PCR and rapid sequencing, carried out by INRB, confirmed Bundibugyo virus as the causative agent. 
   The Ministry of Public Health, Hygiene and Social welfare, DRC officially declared May 15, 2026 a Bundibugyo Virus Disease outbreak.
   This marks the 17th Ebola outbreak in the country and the third outbreak of Bundibugyo virus (BDBV).
 
@@ -16,8 +16,8 @@ abstract: >-
 
 # [Epidemiological inference from genomes](https://nextstrain.org/ebola/bdbv@2026-08-19?c=outbreak&l=scatter&scatterX=date&scatterY=country)
 
-RNA viruses, such as as BDBV, use error-prone polymerases to replicate. 
-Mistakes made during replication form mutations in the viral genome. 
+RNA viruses, such as as BDBV, replicate with error-prone polymerases. 
+During replication, errors form mutations in the viral genome. 
 As mutations accumulate along transmission chains they encode information about the transmission processes that drive the epidemic.
 
 <!-- This is right-side text -->
@@ -61,7 +61,7 @@ The y-axis is meaningless and used only to make the display readable.
 # [Mutations define each cluster](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=gt-nuc_10319&d=tree&p=full) 
 Genomes are clustered and connected by 'branches' in the tree which are defined by shared mutations.
 Here we have colored the tree by the nucleotide at position 10319.
-You can hover on a branch to see which mutations likely occurred on each branch. 
+You can hover on a branch to see which mutations likely occurred on that branch. 
 Mutations on a branch are found in all downstream samples.
 
 # [The current outbreak stems from a novel spill-over event](https://nextstrain.org/ebola/bdbv@2026-08-19?c=outbreak&d=tree&focus=selected&p=full)
@@ -77,9 +77,8 @@ This pattern is consistent with a novel spill-over event followed by human-human
 Zooming back into the outbreak clade, we can make a few high-level observations.
 
 Interestingly, the tree is made of many clades that look like combs. 
-These clusters, called polytomies, form when viruses spread faster than they mutate.
-They can occur whenever a virus spreads along multiple lines of transmission without mutating.
-These polytomies are suggestive of with rapid transmission early in the outbreak.
+These clusters, called polytomies, form whenever a virus spreads along multiple lines of transmission without mutating.
+These polytomies are suggests rapid BDBV transmission early in the outbreak.
 
 <!-- 
 # [2026 outbreak](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&m=div&p=full)
@@ -91,8 +90,8 @@ We'll revisit the geographic spread of isolates shown in this tree later in the 
 # [Estimating the evolutionary rate](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&l=clock&m=div&p=full)
 
 We can plot the divergence (number of mutations per site) as a function of each sample's date to get a sense of how rapidly the virus is mutating.
-Preliminary analyses suggests the virus has been accumulating mutations at a rate of roughly 1 × 10<sup>-3</sup> substitutions/site/year consistent with previous estimates of the evolutionary rates of Ebola species.
-This early in the outbreak, this estimate is fairly rough and sensitive to uncertainty in the root position. 
+Preliminary analyses suggests the virus has been accumulating mutations at a rate of roughly 1.3 × 10<sup>-3</sup> substitutions/site/year consistent with previous estimates of the evolutionary rates of Ebola species.
+This early in the outbreak, the estimate is fairly rough and sensitive to uncertainty in the root position. 
 
 
 Please see [virological.org](https://virological.org/c/ebolavirus/bundibugyo-ebolavirus/57) for more detailed analyses and discussions of the evolutionary rate and its consequences. 
@@ -101,7 +100,9 @@ Please see [virological.org](https://virological.org/c/ebolavirus/bundibugyo-ebo
 
 The rate at which mutations accumulate allows us to place the tree in time and estimate dates for key events such as when the outbreak began. 
 The common ancestor of all sampled cases provides an estimate of when the outbreak started.
-Given the uncertainty in the evolution rate it is difficult to estimate the date with reasonable confidence; however, the data suggests transmission began several weeks before the first cases were detected.
+Given the uncertainty in the evolution rate it is difficult to estimate the date with reasonable confidence. 
+The estimate ranges from January to April 2026.
+While the precise date is not yet know, it is clear transmission began several weeks before the outbreak was declared.
 
 Again we direct interested readers to [virological.org](https://virological.org/c/ebolavirus/bundibugyo-ebolavirus/57) for more detailed analyses and discussions of the evolutionary rate and its consequences. 
 
@@ -133,16 +134,16 @@ As more sequence data becomes available it will be possible to reconstruct the i
 
 **This map is drawn from case count reporting via [INRB-UMIE/Ebola_DRC_2026](https://github.com/INRB-UMIE/Ebola_DRC_2026)**
 
-To date there have been over UPDATE confirmed cases in the DRC.
-Most of cases have been located within the Ituri province specifically in the Mongbalu (UPDATE), Rwampara (UPDATE), and Bunia (UPDATE) health zones. 
+To date there have been over 5,092 confirmed cases in the DRC.
+Most of cases have been located within the Ituri province specifically in the Mongbalu (591), Rwampara (863), and Bunia (1,194) health zones. 
 Together these locations constitute over half of all confirmed cases. 
 While these health zones continue to form the epicenter of the outbreak, high levels of transmission have also recently been observed in Nizi.
 
 
 # [Evidence of local transmission in Nizi](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&f_location=Nizi&p=full)
 
-Given the uneven sampling intensities, it is difficult to estimate the relative contribution of local transmission and importations with high confidence.
-However, the clustering of several sequences from Nizi is consistent with local transmission and the the recent rise in cases in the region.
+Given the high number of polytomies, it is difficult to estimate the relative contribution of local transmission and importations with high confidence.
+However, the clustering of several sequences from Nizi is consistent with local transmission and the recent rise in cases in the region.
 
 # [Limited local transmission in Uganda](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=country&d=tree&f_country=Uganda&p=full)
 
