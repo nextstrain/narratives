@@ -120,7 +120,7 @@ It is possible to zoom into these regions to explore the consequences of mutatio
 The majority of genomes have come from Bunia (52) and Rwampara (45). While only 9 samples from Mongbwalu have been sequenced, the genomic data confirm these locations as the epicenter of the outbreak.
  -->
 
-# [Mongbwalu, Rwampara, and Bunia form the epicenter of the outbreak.](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&f_location=Bunia,Rwampara,Mongbwalu&p=full)
+# [Mongbwalu, Rwampara, and Bunia formed the initial epicenter of the outbreak.](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&f_location=Bunia,Rwampara,Mongbwalu&p=full)
 
 <!-- Bunia 210 Rwampara  155 Monbualu 55-->
 
@@ -135,14 +135,17 @@ As more sequence data becomes available it will be possible to reconstruct the i
 
 To date there have been over 5,092 confirmed cases in the DRC.
 Most of cases have been located within the Ituri province specifically in the Mongbwalu (591), Rwampara (863), and Bunia (1,194) health zones. 
-Together these locations constitute over half of all confirmed cases. 
-While these health zones continue to form the epicenter of the outbreak, high levels of transmission have also recently been observed in Nizi.
+While reported cases in these regions have recently declined, these locations constitute over half of all cumulative confirmed cases. 
 
 
 # [Evidence of local transmission in Nizi](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&f_location=Nizi&p=full)
 
 Given the high number of polytomies, it is difficult to estimate the relative contribution of local transmission and importations.
-However, the clustering of several sequences from Nizi is consistent with local transmission and the recent rise in cases in the region.
+However, the clustering of several sequences from Nizi is consistent with local transmission and the high number of cases observed in this region.
+
+# [Shifting centers of transmission](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&f_location=Nia%20Nia&p=full)
+As cases have begun to decrease slightly in Mangwalu, Rwampara, Bunia, and Nizi, transmission is increasing in other regions, such as Nia-Nia.
+Here we can see a clusters of cases in Nia-Nia suggesting this transmission began in mid to late June. 
 
 # [Limited local transmission in Uganda](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=country&d=tree&f_country=Uganda&p=full)
 
