@@ -16,7 +16,7 @@ abstract: >-
 
 # [Epidemiological inference from genomes](https://nextstrain.org/ebola/bdbv@2026-08-19?c=outbreak&l=scatter&scatterX=date&scatterY=country)
 
-RNA viruses, such as as BDBV, replicate with error-prone polymerases. 
+RNA viruses, such as BDBV, replicate with error-prone polymerases. 
 During replication, errors form mutations in the viral genome. 
 As mutations accumulate along transmission chains they encode information about the transmission processes that drive the epidemic.
 
@@ -145,7 +145,7 @@ However, the clustering of several sequences from Nizi is consistent with local 
 
 # [Shifting centers of transmission](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&f_location=Nia%20Nia&p=full)
 As cases have begun to decrease slightly in Mangwalu, Rwampara, Bunia, and Nizi, transmission is increasing in other regions, such as Nia-Nia.
-Here we can see a clusters of cases in Nia-Nia suggesting this transmission began in mid to late June. 
+Here we can see clusters of cases in Nia-Nia suggesting this transmission began in mid to late June. 
 
 # [Limited local transmission in Uganda](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=country&d=tree&f_country=Uganda&p=full)
 
