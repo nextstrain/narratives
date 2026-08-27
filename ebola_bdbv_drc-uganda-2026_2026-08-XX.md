@@ -45,20 +45,20 @@ We can use phylogenetic models to decode this information from sequenced cases a
 ```
 
 
-# [642 cases have been sequenced to date](https://nextstrain.org/ebola/bdbv@2026-08-19?c=country&d=tree,map&f_outbreak=Bdbv-2026&focus=selected&l=scatter&p=grid)
+# [642 cases have been sequenced to date](https://nextstrain.org/ebola/bdbv-drc-uganda-2026?c=country&d=tree&l=scatter&p=full&scatterY=country)
 
 Currently, BDBV genomes have been generated from 642 cases (625 DRC, 16 Uganda and 1 Germany).
 Each circle represents a sequenced sample plotted here by country (y-axis) and date of sampling (x-axis)
 
 
-# [Constructing a phylogenetic tree](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=country&d=tree&p=full)
+# [Constructing a phylogenetic tree](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=country&d=tree&m=div&p=full)
 
 We can reconstruct the phylogenetic tree that connects these samples based on the mutations present in each sequence. 
 The x-axis represents the number of mutations per genomic site (divergence) that have accumulated since the start of the outbreak.
 The y-axis is meaningless and used only to make the display readable.
 
 
-# [Mutations define each cluster](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=gt-nuc_10319&d=tree&p=full) 
+# [Mutations define each cluster](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=gt-nuc_10319&d=tree&m=div&p=full) 
 Genomes are clustered and connected by 'branches' in the tree which are defined by shared mutations.
 Here we have colored the tree by the nucleotide at position 10319.
 You can hover on a branch to see which mutations likely occurred on that branch. 
@@ -133,7 +133,7 @@ As more sequence data becomes available it will be possible to reconstruct the i
 
 **This map is drawn from case count reporting via [INRB-UMIE/Ebola_DRC_2026](https://github.com/INRB-UMIE/Ebola_DRC_2026)**
 
-To date there have been over 5,092 confirmed cases in the DRC.
+To date there have been over 5,000 confirmed cases in the DRC.
 Most of cases have been located within the Ituri province specifically in the Mongbwalu (591), Rwampara (863), and Bunia (1,194) health zones. 
 While reported cases in these regions have recently declined, these locations constitute over half of all cumulative confirmed cases. 
 
@@ -144,7 +144,7 @@ Given the high number of polytomies, it is difficult to estimate the relative co
 However, the clustering of several sequences from Nizi is consistent with local transmission and the high number of cases observed in this region.
 
 # [Shifting centers of transmission](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&f_location=Nia%20Nia&p=full)
-As cases have begun to decrease slightly in Mangwalu, Rwampara, Bunia, and Nizi, transmission is increasing in other regions, such as Nia-Nia.
+Cases have begun to decrease slightly in Mangwalu, Rwampara, Bunia, and Nizi, but transmission is increasing in other regions, such as Nia-Nia.
 Here we can see clusters of cases in Nia-Nia suggesting this transmission began in mid to late June. 
 
 # [Limited local transmission in Uganda](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=country&d=tree&f_country=Uganda&p=full)
