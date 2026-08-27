@@ -72,13 +72,13 @@ This pattern is consistent with a novel spill-over event followed by human-human
 <!-- The outbreak is believed to have started from a zoonitic spill-over event in the Mongbwalu health zone.  -->
 
 
-# [Evidence of rapid transmission](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?&d=tree&p=full)
+# [Evidence of rapid transmission](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?&d=tree&m=div&p=full)
 
 Zooming back into the outbreak clade, we can make a few high-level observations.
 
 Interestingly, the tree is made of many clades that look like combs. 
 These clusters, called polytomies, form whenever a virus spreads along multiple lines of transmission faster than mutations are made.
-These polytomies suggests rapid BDBV transmission early in the outbreak.
+These polytomies suggest rapid BDBV transmission early in the outbreak.
 
 <!-- 
 # [2026 outbreak](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&m=div&p=full)
