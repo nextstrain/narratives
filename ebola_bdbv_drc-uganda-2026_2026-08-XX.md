@@ -16,8 +16,8 @@ abstract: >-
 
 # [Epidemiological inference from genomes](https://nextstrain.org/ebola/bdbv@2026-08-19?c=outbreak&l=scatter&scatterX=date&scatterY=country)
 
-RNA viruses, such as BDBV, replicate with error-prone polymerases. 
-During replication, errors form mutations in the viral genome. 
+RNA viruses, such as BDBV, are characterized by error-prone replication.
+Errors made during viral replication form mutations in the viral genome.
 As mutations accumulate along transmission chains they encode information about the transmission processes that drive the epidemic.
 
 <!-- This is right-side text -->
@@ -32,7 +32,7 @@ As mutations accumulate along transmission chains they encode information about 
 
 # [Epidemiological inference from genomes](https://nextstrain.org/ebola/bdbv@2026-08-19?c=outbreak&l=scatter&scatterX=date&scatterY=country)
 
-We can use phylogenetic models to decode this information from sequenced cases and reconstruct patterns of transmission.
+We can use phylogenetic models and the mutations present in sequenced samples to reconstruct patterns of transmission.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -45,9 +45,9 @@ We can use phylogenetic models to decode this information from sequenced cases a
 ```
 
 
-# [642 cases have been sequenced to date](https://nextstrain.org/ebola/bdbv-drc-uganda-2026?c=country&d=tree&l=scatter&p=full&scatterY=country)
+# [Over 600 cases have been sequenced to date](https://nextstrain.org/ebola/bdbv-drc-uganda-2026?c=country&d=tree&l=scatter&p=full&scatterY=country)
 
-Currently, BDBV genomes have been generated from 642 cases (625 DRC, 16 Uganda and 1 Germany).
+Currently, BDBV genomes have been generated from over 600 cases.
 Each circle represents a sequenced sample plotted here by country (y-axis) and date of sampling (x-axis)
 
 
@@ -57,12 +57,6 @@ We can reconstruct the phylogenetic tree that connects these samples based on th
 The x-axis represents the number of mutations per genomic site (divergence) that have accumulated since the start of the outbreak.
 The y-axis is meaningless and used only to make the display readable.
 
-
-# [Mutations define each cluster](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=gt-nuc_10319&d=tree&m=div&p=full) 
-Genomes are clustered and connected by 'branches' in the tree which are defined by shared mutations.
-Here we have colored the tree by the nucleotide at position 10319.
-You can hover on a branch to see which mutations likely occurred on that branch. 
-Mutations on a branch are found in all downstream samples.
 
 # [The current outbreak stems from a novel spill-over event](https://nextstrain.org/ebola/bdbv@2026-08-19?c=outbreak&d=tree&focus=selected&p=full)
 
@@ -76,9 +70,25 @@ This pattern is consistent with a novel spill-over event followed by human-human
 
 Zooming back into the outbreak clade, we can make a few high-level observations.
 
-Interestingly, the tree is made of many clades that look like combs. 
-These clusters, called polytomies, form whenever a virus spreads along multiple lines of transmission faster than mutations are made.
-These polytomies suggest rapid BDBV transmission early in the outbreak.
+Interestingly, the tree is made of many clades that look like combs. These clusters, called polytomies, form whenever a virus spreads along multiple lines of transmission faster than mutations are made.
+Polytomies can result from super-spreading events, but are also commonly found in fast growing epidemics.
+This phylogenetic pattern suggests rapid BDBV transmission early in the outbreak. 
+As we will discuss below, there is no evidence viral adaptation or evolution is behind this rapid transmission.
+
+
+
+# [Mutations define each cluster](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?c=gt-nuc_10319&d=tree&m=div&p=full) 
+Genomes are clustered the tree by shared mutations.
+Here we have colored branches in the tree by the nucleotide at position 10319.
+You can hover on a branch to see which mutations likely occurred on that branch. 
+Mutations on a branch are found in all downstream samples.
+
+So far, there is nothing to suggest mutations found at high frequencies are adaptive.
+There is no evidence for positive selection. 
+The mutations we observe appear to be part of normal error-prone virus replication.
+As an example, this particular mutation, which is present in many samples, is found in an intergenic region.
+Its doe not change any viral proteins, and it likely reached a high frequency due to chance epidemiological events.
+
 
 <!-- 
 # [2026 outbreak](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&m=div&p=full)
@@ -89,19 +99,18 @@ We'll revisit the geographic spread of isolates shown in this tree later in the 
 
 # [Estimating the evolutionary rate](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&l=clock&m=div&p=full)
 
-We can plot the divergence (number of mutations per site) as a function of the sampling date to get a sense of how rapidly the virus is mutating.
-Preliminary analyses suggests the virus has been accumulating mutations at a rate of roughly 1.3 × 10<sup>-3</sup> substitutions/site/year largely consistent with previous estimates of the evolutionary rates of Ebola species.
-This early in the outbreak, the estimate is fairly rough and sensitive to uncertainty in the root position. 
+We can use the normal accumulation of mutations to estimate the time scale of the phylogenetic tree.
+Here, we plot the divergence (number of mutations per site) as a function of the sampling date to get a sense of how rapidly the virus is mutating.
+Preliminary analyses suggests the virus has been accumulating mutations at a rate of roughly 7 × 10<sup>-4</sup> substitutions/site/year largely consistent with previous estimates of the evolutionary rates of Ebola species.
+This early in the outbreak, the estimate is fairly rough and sensitive to uncertainty in the root position.
 
 
 Please see [virological.org](https://virological.org/c/ebolavirus/bundibugyo-ebolavirus/57) for more detailed analyses and discussions of the evolutionary rate and its consequences. 
 
 # [When did the outbreak begin?](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&p=full)
 
-We can use the evolutionary rate to estimate dates for key events such as when the outbreak began. 
-The common ancestor of all sampled cases provides an estimate of when the outbreak started.
-Given the uncertainty in the evolution rate it is difficult to estimate the date with high confidence, and the estimate ranges from January to April 2026.
-While the precise date is not yet know, it is clear transmission began several weeks before the outbreak was declared.
+We can use the evolutionary rate to estimate dates for key events such as when the outbreak began.
+Our current estimate is that the outbreak began in early February.
 
 Again we direct interested readers to [virological.org](https://virological.org/c/ebolavirus/bundibugyo-ebolavirus/57) for more detailed analyses and discussions of the evolutionary rate and its consequences. 
 
@@ -127,15 +136,18 @@ The majority of genomes have come from Bunia (52) and Rwampara (45). While only 
 Samples have been sequenced from 26 health zones in DRC; however, three health zones (Bunia , Rwampara, Mongbwalu) contribute 2/3rds of the genomes.
 The genomic diversity present in these health zones span that of the entire outbreak.
 Samples from other health zones nest within this diversity and suggest transmission chains in these regions ultimately stem from importation from either Bunia, Rwampara, or Mongbwalu.
-As more sequence data becomes available it will be possible to reconstruct the import/export dynamics of transmission chains in more detail. 
 
-# [Cases are highest in these health zones.](https://nextstrain.org/staging/ebola/bdbv-drc-uganda-2026-cases)
 
-**This map is drawn from case count reporting via [INRB-UMIE/Ebola_DRC_2026](https://github.com/INRB-UMIE/Ebola_DRC_2026)**
+# [Reconstructing the geographic spread from the epicenter](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?animate=2025-12-28,2026-08-13,0,0,30000&c=location_reconstructed&d=tree,map&r=location_epicenter)
 
-To date there have been over 5,000 confirmed cases in the DRC.
-Most of cases have been located within the Ituri province specifically in the Mongbwalu (591), Rwampara (863), and Bunia (1,194) health zones. 
-While reported cases in these regions have recently declined, these locations constitute over half of all cumulative confirmed cases. 
+There is not enough genetic diversity early in the outbreak to reconstruct viral transmission between Mongbwalu, Bunia, and Rwampara.
+In general, there is a large amount of uncertainty estimating the transmission of BDBV among health zones, and we caution against making strong conclusions about any particular lineage, and focus instead on general trends. 
+
+Here we have combined Mongbwalu, Bunia, and Rwampara into a single epicenter.
+This geographic reconstruction supports the conclusions above and highlights how exported cased from the epicenter sparked transmission chains in the surrounding region. 
+This pattern is consistent with early reports that the outbreak may have been in Mongbwalu and the large number of early cases in Mongbwalu, Bunia, and Rwampara.
+
+Please see the dashboard hosted at [INRB-UMIE/Ebola_DRC_2026](https://github.com/INRB-UMIE/Ebola_DRC_2026) for a detailed, interactive look at case counts in the region. 
 
 
 # [Evidence of local transmission in Nizi](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-08-19?d=tree&f_location=Nizi&p=full)
@@ -159,8 +171,10 @@ After 42 days without a new locally transmitted case, the Ministry of Health of 
 
 Sequence data were generated by the Pathogen Genomics Laboratory at INRB in the DRC in partnership with:
 
-* Africa Centres for Disease Control and Prevention, Addis Ababa, Ethiopia
+* Africa Pathogen Genomic Initiative (Africa PGI), Africa Centres for Disease Control and Prevention, Addis Ababa, Ethiopia
+* ARTIC Network
 * Biosurv international
+* US Centers for Disease Control and Prevention, Atlanta
 * Culmen International
 * Institute of Ecology and Evolution, University of Edinburgh, Edinburgh EH9 3FL, UK
 * Institute of Tropical Medicine, Antwerp, Belgium
@@ -173,6 +187,7 @@ Sequence data were generated by the Pathogen Genomics Laboratory at INRB in the 
 * Viral Special Pathogens, US Centers for Disease Control and Prevention, Atlanta, GA, USA
 * World Health Organization Country Office, Kinshasa, Democratic Republic of the Congo
 * World Health Organization, Geneva, Switzerland
+
 
 All sequences used in this summary have been generously shared via [Pathoplexus](https://pathoplexus.org/ebola-bdbv/search).
 
