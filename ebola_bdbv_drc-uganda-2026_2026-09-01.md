@@ -24,7 +24,7 @@ As mutations accumulate along transmission chains they encode information about 
 # Mutations encode information about viral transmission
 <div width="50%">
 <p style="margin-top:10em"  >
-<img width="1300px" style="margin-top:10em" alt="cartoons showing how mutations that accumulate during transmission encode phylogenetic information" src="https://github.com/jtmccr1/jtmccr1.github.io/raw/master/images/genomic-epi-example-1.png"/>
+<img width="1300px" style="margin-top:10em" alt="cartoons showing how mutations that accumulate during transmission encode phylogenetic information" src="https://github.com/nextstrain/narratives/raw/master/figures/jtm-genomic-epi-example-1.png"/>
 </p>
 </div>
 ```
@@ -38,7 +38,7 @@ We can use phylogenetic models and the mutations present in sequenced samples to
 # Mutations encode information about viral transmission
 <div width="50%">
 <p style="margin-top:10em"  >
-<img width="1300px" style="margin-top:10em" alt="cartoons showing how mutations that accumulate during transmission encode phylogenetic information" src="https://github.com/jtmccr1/jtmccr1.github.io/raw/master/images/genomic-epi-example-2.png"/>
+<img width="1300px" style="margin-top:10em" alt="cartoons showing how mutations that accumulate during transmission encode phylogenetic information" src="https://github.com/nextstrain/narratives/raw/master/figures/jtm-genomic-epi-example-2.png"/>
 </p>
 </div>
 ```
