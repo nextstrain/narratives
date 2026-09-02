@@ -1,6 +1,6 @@
 ---
 title: A phylogenetic summary of the ongoing BDBV outbreak
-authors: INRB and NextStrain teams
+authors: INRB and Nextstrain teams
 date: 2026-09-01
 dataset: https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-09-01?p=grid
 abstract: >-
@@ -123,7 +123,8 @@ The genomic diversity present in these health zones span that of the entire outb
 Samples from other health zones nest within this diversity and suggest transmission chains in these regions ultimately stem from importation from either Bunia, Rwampara, or Mongbwalu.
 
 
-# [Reconstructing the geographic spread from the epicenter](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-09-01?animate=2025-12-28,2026-08-13,0,0,30000&c=location_reconstructed&d=tree,map&r=location_epicenter)
+# [Reconstructing the geographic spread from the epicenter](https://nextstrain.org/ebola/bdbv-drc-uganda-2026@2026-09-01?c=location_reconstructed&d=tree,map&p=grid&r=location_epicenter)
+
 
 There is not enough genetic diversity early in the outbreak to reconstruct viral transmission among Mongbwalu, Bunia, and Rwampara.
 There is a large amount of uncertainty estimating the transmission of BDBV among health zones in general, and we caution against making strong conclusions about any particular lineage.
