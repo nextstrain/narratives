@@ -2,9 +2,9 @@
 title: West African Ebola Outbreak
 authors: "Ashley Anderson"
 date: "July 2018"
-dataset: "https://nextstrain.org/ebola"
+dataset: "https://nextstrain.org/ebola/ebov-2013"
 ---
-# [Summary](https://nextstrain.org/ebola)
+# [Summary](https://nextstrain.org/ebola/ebov-2013)
 
 In December 2013, a devastating outbreak of Ebolavirus began in Western Africa, specifically Sierra Leone, Liberia, and Guinea. Approximately 28,000 cases of Ebolavirus were observed during this time period (Havard). The outbreak presisted for approximately 3 years causing a significant loss of life and disruption to the economy of the respective divisions. Many individuals have been dedicated to better understanding this virus in hopes of preventing future epidemics.
 
@@ -26,7 +26,7 @@ Most recently, in May of 2018, a smaller but also devestating outbreak began in 
 This narrative will step through pieces of the 2013-2016 West Africa Ebola outbreak to help garner a better understanding of the evolution of the virus that could be a factor in its presistance within the population.
 
 
-# [Ebola genome](https://nextstrain.org/ebola?d=entropy&p=full)
+# [Ebola genome](https://nextstrain.org/ebola/ebov-2013?d=entropy&p=full)
 
 ![Ebola Genome](https://viralzone.expasy.org/resources/Filovirus_genome.png)
 
@@ -38,7 +38,7 @@ On the right panel is the genome of the Ebola virus.
 * What proteins are found in its genome? Use your worksheet from yesterday to help you.
 
 
-# [Location](https://nextstrain.org/ebola?d=map&p=full)
+# [Location](https://nextstrain.org/ebola/ebov-2013?d=map&p=full)
 
 Using the map, answer the following questions:
 * Where does it appear that Ebola emerged from?
@@ -46,12 +46,12 @@ Using the map, answer the following questions:
 * In which regions do the number of cases appear to most rapidly increase?
 
 
-# [Phylogenetic Tree](https://nextstrain.org/ebola?d=tree&p=full)
+# [Phylogenetic Tree](https://nextstrain.org/ebola/ebov-2013?d=tree&p=full)
 
 Using your answers to the previous questions, examine the phlyogenetic tree and determine if you were correct. Record your answers in your notebook.
 
 
-# [Mutations](https://nextstrain.org/ebola?d=tree,entropy&p=full)
+# [Mutations](https://nextstrain.org/ebola/ebov-2013?d=tree,entropy&p=full)
 
 Read through the **ALL the directions** before completing them.
 
@@ -77,7 +77,7 @@ Use the following chart to translate the letter amino acid representation to the
 Now, let's examine some amino acid mutations associated with the outbreak.
 
 
-# [Mutation 1](https://nextstrain.org/ebola?d=tree,entropy&p=full&c=gt-L_759)
+# [Mutation 1](https://nextstrain.org/ebola/ebov-2013?d=tree,entropy&p=full&c=gt-L_759)
 
 The tree is now colored according to the genotype (specific amino acid) on the L protein at position 759.
 
@@ -88,7 +88,7 @@ Answer the following questions to guide your analysis:
 
 
 
-# [Mutation 2](https://nextstrain.org/ebola?d=tree,entropy&p=full&c=gt-GP_82)
+# [Mutation 2](https://nextstrain.org/ebola/ebov-2013?d=tree,entropy&p=full&c=gt-GP_82)
 
 The tree is now colored according to the genotype (specific amino acid) on the GP protein at position 82.
 
@@ -99,7 +99,7 @@ Answer the following questions to guide your analysis:
 
 
 
-# [Other Mutations](https://nextstrain.org/ebola?d=tree&p=full)
+# [Other Mutations](https://nextstrain.org/ebola/ebov-2013?d=tree&p=full)
 
 _TO DO_
 The branches of the tree have been labeled wtih the amino acid mutations that occur within the subsequent clade. Your task is to  examine the branches and see what other amino acid mutations are associated with the outbreak. You can zoom in to any clade by clicking on the branch you are interested in.
@@ -110,7 +110,7 @@ Answer the following questions as you go:
 * Do these mutations appear to make the virus more or less fit? How do you know?
 
 
-# [Citations](https://nextstrain.org/ebola?d=map&p=full)
+# [Citations](https://nextstrain.org/ebola/ebov-2013?d=map&p=full)
 
 Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
 
